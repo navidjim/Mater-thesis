@@ -1,0 +1,400 @@
+the tiger eats the hunter 
+the tiger does not eat the hunter 
+the bear chases the chicken 
+the bear does not chase the chicken 
+the wolf catches the mouse 
+the wolf does not catch the mouse 
+the researcher writes the book 
+the researcher does not write the book 
+the student sends the article 
+the student does not send the article 
+the teacher reviews the letter 
+the teacher does not review the letter 
+the robot saves the game 
+the robot does not save the game 
+the phone edits the application 
+the phone does not edit the application 
+the engineer runs the code 
+the engineer does not run the code 
+the designer illustrates the cover 
+the designer does not illustrate the cover 
+the kid draws the portrait 
+the kid does not draw the portrait 
+the student paints the picture 
+the student does not paint the picture 
+the lion kills the hunter 
+the lion does not kill the hunter 
+the tiger eats the chicken 
+the tiger does not eat the chicken 
+the bear chases the dog 
+the bear does not chase the dog 
+the professor posts the book 
+the professor does not post the book 
+the researcher writes the letter 
+the researcher does not write the letter 
+the student reviews the article 
+the student does not review the article 
+the phone edits the program 
+the phone does not edit the program 
+the kid designs the cover 
+the kid does not design the cover 
+the designer draws the portrait 
+the designer does not draw the portrait 
+the tiger kills the hunter 
+the tiger does not kill the hunter 
+the wolf catches the dog 
+the wolf does not catch the dog 
+the bear chases the mouse 
+the bear does not chase the mouse 
+the student reviews the book 
+the student does not review the book 
+the teacher posts the document 
+the teacher does not post the document 
+the researcher sends the article 
+the researcher does not send the article 
+the computer edits the application 
+the computer does not edit the application 
+the phone develops the game 
+the phone does not develop the game 
+the robot runs the program 
+the robot does not run the program 
+the artist paints the image 
+the artist does not paint the image 
+the student illustrates the picture 
+the student does not illustrate the picture 
+the kid draws the cover 
+the kid does not draw the cover 
+the wolf eats the mouse 
+the wolf does not eat the mouse 
+the professor posts the letter 
+the professor does not post the letter 
+the student sends the document 
+the student does not send the document 
+the researcher writes the article 
+the researcher does not write the article 
+the phone develops the code 
+the phone does not develop the code 
+the robot runs the game 
+the robot does not run the game 
+the kid designs the picture 
+the kid does not design the picture 
+the artist paints the portrait 
+the artist does not paint the portrait 
+the student illustrates the cover 
+the student does not illustrate the cover 
+the bear chases the hunter 
+the bear does not chase the hunter 
+the tiger eats the mouse 
+the tiger does not eat the mouse 
+the lion kills the chicken 
+the lion does not kill the chicken 
+the student writes the article 
+the student does not write the article 
+the researcher posts the book 
+the researcher does not post the book 
+the professor reviews the document 
+the professor does not review the document 
+the engineer edits the application 
+the engineer does not edit the application 
+the computer saves the game 
+the computer does not save the game 
+the robot develops the program 
+the robot does not develop the program 
+the designer illustrates the image 
+the designer does not illustrate the image 
+the student designs the cover 
+the student does not design the cover 
+the artist paints the picture 
+the artist does not paint the picture 
+the tiger kills the chicken 
+the tiger does not kill the chicken 
+the professor sends the article 
+the professor does not send the article 
+the robot saves the application 
+the robot does not save the application 
+the computer edits the program 
+the computer does not edit the program 
+the artist designs the image 
+the artist does not design the image 
+the designer draws the picture 
+the designer does not draw the picture 
+the student illustrates the portrait 
+the student does not illustrate the portrait 
+the bear eats the chicken 
+the bear does not eat the chicken 
+the tiger catches the mouse 
+the tiger does not catch the mouse 
+the wolf chases the dog 
+the wolf does not chase the dog 
+the teacher sends the article 
+the teacher does not send the article 
+the professor reviews the book 
+the professor does not review the book 
+the student writes the document 
+the student does not write the document 
+the computer edits the game 
+the computer does not edit the game 
+the phone runs the code 
+the phone does not run the code 
+the designer paints the cover 
+the designer does not paint the cover 
+the student illustrates the image 
+the student does not illustrate the image 
+the kid designs the portrait 
+the kid does not design the portrait 
+a tiger is eating a hunter near the capital city 
+the tiger isn't eating the hunter near the capital city 
+a bear is chasing a chicken in the jungle 
+the bear isn't chasing the chicken in the jungle 
+a wolf is catching a mouse during the night in the mountains 
+the wolf isn't catching the mouse during the night in the mountains 
+a researcher is writing a book in an online meeting 
+the researcher isn't writing the book in an online meeting 
+a student is sending an article during the class 
+the student isn't sending the article during the class 
+a teacher is reviewing a letter at school 
+the teacher isn't reviewing the letter at school 
+a robot is saving a game in parallel 
+the robot isn't saving the game in parallel 
+a phone is editing an application using the memory 
+the phone isn't editing the application using the memory 
+an engineer is running a code online 
+the engineer isn't running the code online 
+a designer is illustrating a cover in this week art magazine 
+the designer isn't illustrating the cover in this week art magazine 
+a kid is drawing a portrait on the church's ceiling 
+the kid isn't drawing the portrait on the church's ceiling 
+a student is painting a picture at the gallery 
+the student isn't painting the picture at the gallery 
+a lion is killing a hunter near the capital city 
+the lion isn't killing the hunter near the capital city 
+a tiger is eating a chicken during the night in the mountains 
+the tiger isn't eating the chicken during the night in the mountains 
+a bear is chasing a dog in the jungle 
+the bear isn't chasing the dog in the jungle 
+a professor is posting a book in an online meeting 
+the professor isn't posting the book in an online meeting 
+a researcher is writing a letter during the class 
+the researcher isn't writing the letter during the class 
+a student is reviewing an article at school 
+the student isn't reviewing the article at school 
+a phone is editing a program online 
+the phone isn't editing the program online 
+a kid is designing a cover at the gallery 
+the kid isn't designing the cover at the gallery 
+a designer is drawing a portrait on the church's ceiling 
+the designer isn't drawing the portrait on the church's ceiling 
+a tiger is killing a hunter in the jungle 
+the tiger isn't killing the hunter in the jungle 
+a wolf is catching a dog near the capital city 
+the wolf isn't catching the dog near the capital city 
+a bear is chasing a mouse during the night in the mountains 
+the bear isn't chasing the mouse during the night in the mountains 
+a student is reviewing a book in an online meeting 
+the student isn't reviewing the book in an online meeting 
+a teacher is posting a document at school 
+the teacher isn't posting the document at school 
+a researcher is sending an article during the class 
+the researcher isn't sending the article during the class 
+a computer is editing an application using the memory 
+the computer isn't editing the application using the memory 
+a phone is developing a game online 
+the phone isn't developing the game online 
+a robot is running a program in parallel 
+the robot isn't running the program in parallel 
+an artist is painting an image in this week art magazine 
+the artist isn't painting the image in this week art magazine 
+a student is illustrating a picture on the church's ceiling 
+the student isn't illustrating the picture on the church's ceiling 
+a kid is drawing a cover at the gallery 
+the kid isn't drawing the cover at the gallery 
+a wolf is eating a mouse in the jungle 
+the wolf isn't eating the mouse in the jungle 
+a professor is posting a letter at school 
+the professor isn't posting the letter at school 
+a student is sending a document during the class 
+the student isn't sending the document during the class 
+a researcher is writing an article in an online meeting 
+the researcher isn't writing the article in an online meeting 
+a phone is developing a code in parallel 
+the phone isn't developing the code in parallel 
+a robot is running a game online 
+the robot isn't running the game online 
+a kid is designing a picture in this week art magazine 
+the kid isn't designing the picture in this week art magazine 
+an artist is painting a portrait at the gallery 
+the artist isn't painting the portrait at the gallery 
+a student is illustrating a cover on the church's ceiling 
+the student isn't illustrating the cover on the church's ceiling 
+a bear is chasing a hunter near the capital city 
+the bear isn't chasing the hunter near the capital city 
+a tiger is eating a mouse in the jungle 
+the tiger isn't eating the mouse in the jungle 
+a lion is killing a chicken during the night in the mountains 
+the lion isn't killing the chicken during the night in the mountains 
+a student is writing an article in an online meeting 
+the student isn't writing the article in an online meeting 
+a researcher is posting a book at school 
+the researcher isn't posting the book at school 
+a professor is reviewing a document during the class 
+the professor isn't reviewing the document during the class 
+an engineer is editing an application in parallel 
+the engineer isn't editing the application in parallel 
+a computer is saving a game online 
+the computer isn't saving the game online 
+a robot is developing a program using the memory 
+the robot isn't developing the program using the memory 
+a designer is illustrating an image in this week art magazine 
+the designer isn't illustrating the image in this week art magazine 
+a student is designing a cover on the church's ceiling 
+the student isn't designing the cover on the church's ceiling 
+an artist is painting a picture at the gallery 
+the artist isn't painting the picture at the gallery 
+a tiger is killing a chicken in the jungle 
+the tiger isn't killing the chicken in the jungle 
+a professor is sending an article in an online meeting 
+the professor isn't sending the article in an online meeting 
+a robot is saving an application using the memory 
+the robot isn't saving the application using the memory 
+a computer is editing a program online 
+the computer isn't editing the program online 
+an artist is designing an image in this week art magazine 
+the artist isn't designing the image in this week art magazine 
+a designer is drawing a picture at the gallery 
+the designer isn't drawing the picture at the gallery 
+a student is illustrating a portrait on the church's ceiling 
+the student isn't illustrating the portrait on the church's ceiling 
+a bear is eating a chicken near the capital city 
+the bear isn't eating the chicken near the capital city 
+a tiger is catching a mouse in the jungle 
+the tiger isn't catching the mouse in the jungle 
+a wolf is chasing a dog during the night in the mountains 
+the wolf isn't chasing the dog during the night in the mountains 
+a teacher is sending an article during the class 
+the teacher isn't sending the article during the class 
+a professor is reviewing a book at school 
+the professor isn't reviewing the book at school 
+a student is writing a document in an online meeting 
+the student isn't writing the document in an online meeting 
+a computer is editing a game in parallel 
+the computer isn't editing the game in parallel 
+a phone is running a code using the memory 
+the phone isn't running the code using the memory 
+a designer is painting a cover in this week art magazine 
+the designer isn't painting the cover in this week art magazine 
+a student is illustrating an image at the gallery 
+the student isn't illustrating the image at the gallery 
+a kid is designing a portrait on the church's ceiling 
+the kid isn't designing the portrait on the church's ceiling 
+the tiger eats the hunter near the capital city 
+the tiger does not eat the hunter near the capital city 
+the bear chases the chicken in the jungle 
+the bear does not chase the chicken in the jungle 
+the wolf catches the mouse during the night in the mountains 
+the wolf does not catch the mouse during the night in the mountains 
+the researcher writes the book in an online meeting 
+the researcher does not write the book in an online meeting 
+the student sends the article during the class 
+the student does not send the article during the class 
+the teacher reviews the letter at school 
+the teacher does not review the letter at school 
+the robot saves the game in parallel 
+the robot does not save the game in parallel 
+the phone edits the application using the memory 
+the phone does not edit the application using the memory 
+the engineer runs the code online 
+the engineer does not run the code online 
+the designer illustrates the cover in this week art magazine 
+the designer does not illustrate the cover in this week art magazine 
+the kid draws the portrait on the church's ceiling 
+the kid does not draw the portrait on the church's ceiling 
+the student paints the picture at the gallery 
+the student does not paint the picture at the gallery 
+the lion kills the hunter near the capital city 
+the lion does not kill the hunter near the capital city 
+the tiger eats the chicken during the night in the mountains 
+the tiger does not eat the chicken during the night in the mountains 
+the bear chases the dog in the jungle 
+the bear does not chase the dog in the jungle 
+the professor posts the book in an online meeting 
+the professor does not post the book in an online meeting 
+the researcher writes the letter during the class 
+the researcher does not write the letter during the class 
+the student reviews the article at school 
+the student does not review the article at school 
+the phone edits the program online 
+the phone does not edit the program online 
+the kid designs the cover at the gallery 
+the kid does not design the cover at the gallery 
+the designer draws the portrait on the church's ceiling 
+the designer does not draw the portrait on the church's ceiling 
+the tiger kills the hunter in the jungle 
+the tiger does not kill the hunter in the jungle 
+the wolf catches the dog near the capital city 
+the wolf does not catch the dog near the capital city 
+the bear chases the mouse during the night in the mountains 
+the bear does not chase the mouse during the night in the mountains 
+the student reviews the book in an online meeting 
+the student does not review the book in an online meeting 
+the teacher posts the document at school 
+the teacher does not post the document at school 
+the researcher sends the article during the class 
+the researcher does not send the article during the class 
+the computer edits the application using the memory 
+the computer does not edit the application using the memory 
+the phone develops the game online 
+the phone does not develop the game online 
+the robot runs the program in parallel 
+the robot does not run the program in parallel 
+the artist paints the image in this week art magazine 
+the artist does not paint the image in this week art magazine 
+the student illustrates the picture on the church's ceiling 
+the student does not illustrate the picture on the church's ceiling 
+the kid draws the cover at the gallery 
+the kid does not draw the cover at the gallery 
+the wolf eats the mouse in the jungle 
+the wolf does not eat the mouse in the jungle 
+the professor posts the letter at school 
+the professor does not post the letter at school 
+the student sends the document during the class 
+the student does not send the document during the class 
+the researcher writes the article in an online meeting 
+the researcher does not write the article in an online meeting 
+the phone develops the code in parallel 
+the phone does not develop the code in parallel 
+the robot runs the game online 
+the robot does not run the game online 
+the kid designs the picture in this week art magazine 
+the kid does not design the picture in this week art magazine 
+the artist paints the portrait at the gallery 
+the artist does not paint the portrait at the gallery 
+the student illustrates the cover on the church's ceiling 
+the student does not illustrate the cover on the church's ceiling 
+the bear chases the hunter near the capital city 
+the bear does not chase the hunter near the capital city 
+the tiger eats the mouse in the jungle 
+the tiger does not eat the mouse in the jungle 
+the lion kills the chicken during the night in the mountains 
+the lion does not kill the chicken during the night in the mountains 
+the student writes the article in an online meeting 
+the student does not write the article in an online meeting 
+the researcher posts the book at school 
+the researcher does not post the book at school 
+the professor reviews the document during the class 
+the professor does not review the document during the class 
+the engineer edits the application in parallel 
+the engineer does not edit the application in parallel 
+the computer saves the game online 
+the computer does not save the game online 
+the robot develops the program using the memory 
+the robot does not develop the program using the memory 
+the designer illustrates the image in this week art magazine 
+the designer does not illustrate the image in this week art magazine 
+the student designs the cover on the church's ceiling 
+the student does not design the cover on the church's ceiling 
+the artist paints the picture at the gallery 
+the artist does not paint the picture at the gallery 
+the tiger kills the chicken in the jungle 
+the tiger does not kill the chicken in the jungle 
+the professor sends the article in an online meeting 
+the professor does not send the article in an online meeting

@@ -1,0 +1,400 @@
+the drug replaces the image 
+the image is replaced by the drug 
+the oil allows the magazine 
+the magazine is allowed by the oil 
+the magazine sells the house 
+the house is sold by the magazine 
+the gas clears the magazine 
+the magazine is cleared by the gas 
+the chief clears the drug 
+the drug is cleared by the chief 
+the gas clears the oil 
+the oil is cleared by the gas 
+the magazine replaces the drug 
+the drug is replaced by the magazine 
+the gas sells the magazine 
+the magazine is sold by the gas 
+the chief clears the image 
+the image is cleared by the chief 
+the drug allows the magazine 
+the magazine is allowed by the drug 
+the house plans the image 
+the image is planned by the house 
+the oil manages the house 
+the house is managed by the oil 
+the magazine clears the image 
+the image is cleared by the magazine 
+the magazine replaces the gas 
+the gas is replaced by the magazine 
+the drug replaces the gas 
+the gas is replaced by the drug 
+the house clears the oil 
+the oil is cleared by the house 
+the image clears the gas 
+the gas is cleared by the image 
+the gas manages the image 
+the image is managed by the gas 
+the chief allows the oil 
+the oil is allowed by the chief 
+the oil manages the image 
+the image is managed by the oil 
+the oil plans the image 
+the image is planned by the oil 
+the oil replaces the magazine 
+the magazine is replaced by the oil 
+the oil replaces the drug 
+the drug is replaced by the oil 
+the oil replaces the image 
+the image is replaced by the oil 
+the magazine sells the drug 
+the drug is sold by the magazine 
+the drug allows the house 
+the house is allowed by the drug 
+the house plans the chief 
+the chief is planned by the house 
+the magazine allows the gas 
+the gas is allowed by the magazine 
+the chief plans the house 
+the house is planned by the chief 
+the oil replaces the gas 
+the gas is replaced by the oil 
+the gas replaces the chief 
+the chief is replaced by the gas 
+the gas sells the drug 
+the drug is sold by the gas 
+the drug clears the house 
+the house is cleared by the drug 
+the gas replaces the image 
+the image is replaced by the gas 
+the drug manages the house 
+the house is managed by the drug 
+the house plans the gas 
+the gas is planned by the house 
+the house allows the drug 
+the drug is allowed by the house 
+the gas allows the drug 
+the drug is allowed by the gas 
+the chief replaces the magazine 
+the magazine is replaced by the chief 
+the oil sells the gas 
+the gas is sold by the oil 
+the drug plans the chief 
+the chief is planned by the drug 
+the gas clears the drug 
+the drug is cleared by the gas 
+the drug plans the oil 
+the oil is planned by the drug 
+the magazine plans the image 
+the image is planned by the magazine 
+the house clears the chief 
+the chief is cleared by the house 
+the house replaces the oil 
+the oil is replaced by the house 
+the magazine sells the gas 
+the gas is sold by the magazine 
+the oil plans the gas 
+the gas is planned by the oil 
+the house allows the gas 
+the gas is allowed by the house 
+the image replaces the magazine 
+the magazine is replaced by the image 
+the drug manages the image 
+the image is managed by the drug 
+the house replaces the gas 
+the gas is replaced by the house 
+the drug allows the image 
+the image is allowed by the drug 
+the image clears the house 
+the house is cleared by the image 
+the house sells the magazine 
+the magazine is sold by the house 
+the chief replaces the drug 
+the drug is replaced by the chief 
+the magazine sells the oil 
+the oil is sold by the magazine 
+the magazine sells the chief 
+the chief is sold by the magazine 
+the oil sells the image 
+the image is sold by the oil 
+the chief plans the drug 
+the drug is planned by the chief 
+the drug allows the gas 
+the gas is allowed by the drug 
+the oil manages the chief 
+the chief is managed by the oil 
+the house allows the oil 
+the oil is allowed by the house 
+the oil clears the drug 
+the drug is cleared by the oil 
+the magazine clears the house 
+the house is cleared by the magazine 
+the drug clears the image 
+the image is cleared by the drug 
+the image allows the chief 
+the chief is allowed by the image 
+the house sells the oil 
+the oil is sold by the house 
+the magazine allows the oil 
+the oil is allowed by the magazine 
+the magazine plans the oil 
+the oil is planned by the magazine 
+the gas sells the house 
+the house is sold by the gas 
+the gas replaces the drug 
+the drug is replaced by the gas 
+the house plans the drug 
+the drug is planned by the house 
+the image manages the magazine 
+the magazine is managed by the image 
+the gas allows the house 
+the house is allowed by the gas 
+the image clears the oil 
+the oil is cleared by the image 
+the house replaces the magazine 
+the magazine is replaced by the house 
+the chief sells the house 
+the house is sold by the chief 
+the image manages the gas 
+the gas is managed by the image 
+the gas plans the magazine 
+the magazine is planned by the gas 
+the magazine allows the image 
+the image is allowed by the magazine 
+the image manages the drug 
+the drug is managed by the image 
+the oil replaces the house 
+the house is replaced by the oil 
+the drug sells the chief 
+the chief is sold by the drug 
+the oil manages the magazine 
+the magazine is managed by the oil 
+the magazine clears the gas 
+the gas is cleared by the magazine 
+the oil allows the image 
+the image is allowed by the oil 
+the house manages the drug 
+the drug is managed by the house 
+the drug replaces the oil 
+the oil is replaced by the drug 
+the magazine manages the house 
+the house is managed by the magazine 
+the gas clears the chief 
+the chief is cleared by the gas 
+the chief plans the magazine 
+the magazine is planned by the chief 
+the drug plans the gas 
+the gas is planned by the drug 
+the oil sells the chief 
+the chief is sold by the oil 
+the house clears the gas 
+the gas is cleared by the house 
+the drug replaces the magazine 
+the magazine is replaced by the drug 
+the oil clears the image 
+the image is cleared by the oil 
+the gas manages the magazine 
+the magazine is managed by the gas 
+the house allows the magazine 
+the magazine is allowed by the house 
+the gas plans the house 
+the house is planned by the gas 
+the magazine replaces the house 
+the house is replaced by the magazine 
+the chief manages the magazine 
+the magazine is managed by the chief 
+the house clears the image 
+the image is cleared by the house 
+the magazine manages the image 
+the image is managed by the magazine 
+the gas allows the oil 
+the oil is allowed by the gas 
+the drug plans the image 
+the image is planned by the drug 
+the image replaces the drug 
+the drug is replaced by the image 
+the magazine manages the chief 
+the chief is managed by the magazine 
+the oil plans the magazine 
+the magazine is planned by the oil 
+the magazine plans the chief 
+the chief is planned by the magazine 
+the magazine clears the chief 
+the chief is cleared by the magazine 
+the chief allows the house 
+the house is allowed by the chief 
+the oil allows the drug 
+the drug is allowed by the oil 
+the image replaces the gas 
+the gas is replaced by the image 
+the gas manages the house 
+the house is managed by the gas 
+the chief sells the drug 
+the drug is sold by the chief 
+the chief manages the image 
+the image is managed by the chief 
+the house sells the gas 
+the gas is sold by the house 
+the chief manages the drug 
+the drug is managed by the chief 
+the magazine manages the oil 
+the oil is managed by the magazine 
+the magazine replaces the chief 
+the chief is replaced by the magazine 
+the chief allows the image 
+the image is allowed by the chief 
+the house allows the image 
+the image is allowed by the house 
+the oil manages the gas 
+the gas is managed by the oil 
+the drug manages the chief 
+the chief is managed by the drug 
+the image replaces the oil 
+the oil is replaced by the image 
+the oil plans the drug 
+the drug is planned by the oil 
+the image plans the oil 
+the oil is planned by the image 
+the gas allows the magazine 
+the magazine is allowed by the gas 
+the image sells the chief 
+the chief is sold by the image 
+the house clears the drug 
+the drug is cleared by the house 
+the image manages the house 
+the house is managed by the image 
+the gas clears the image 
+the image is cleared by the gas 
+the chief plans the oil 
+the oil is planned by the chief 
+the house sells the chief 
+the chief is sold by the house 
+the house sells the image 
+the image is sold by the house 
+the image plans the gas 
+the gas is planned by the image 
+the house manages the oil 
+the oil is managed by the house 
+the magazine allows the house 
+the house is allowed by the magazine 
+the drug plans the magazine 
+the magazine is planned by the drug 
+the drug sells the oil 
+the oil is sold by the drug 
+the image plans the magazine 
+the magazine is planned by the image 
+the oil sells the house 
+the house is sold by the oil 
+the gas manages the oil 
+the oil is managed by the gas 
+the drug sells the house 
+the house is sold by the drug 
+the house manages the image 
+the image is managed by the house 
+the chief plans the image 
+the image is planned by the chief 
+the house manages the gas 
+the gas is managed by the house 
+the drug sells the gas 
+the gas is sold by the drug 
+the chief replaces the house 
+the house is replaced by the chief 
+the drug manages the magazine 
+the magazine is managed by the drug 
+the magazine clears the drug 
+the drug is cleared by the magazine 
+the gas allows the chief 
+the chief is allowed by the gas 
+the magazine replaces the image 
+the image is replaced by the magazine 
+the gas replaces the house 
+the house is replaced by the gas 
+the house replaces the drug 
+the drug is replaced by the house 
+the gas plans the chief 
+the chief is planned by the gas 
+the oil replaces the chief 
+the chief is replaced by the oil 
+the drug clears the magazine 
+the magazine is cleared by the drug 
+the magazine manages the gas 
+the gas is managed by the magazine 
+the drug sells the magazine 
+the magazine is sold by the drug 
+the image allows the drug 
+the drug is allowed by the image 
+the gas sells the oil 
+the oil is sold by the gas 
+the drug sells the image 
+the image is sold by the drug 
+the chief allows the magazine 
+the magazine is allowed by the chief 
+the image sells the house 
+the house is sold by the image 
+the house plans the oil 
+the oil is planned by the house 
+the drug clears the gas 
+the gas is cleared by the drug 
+the gas clears the house 
+the house is cleared by the gas 
+the chief allows the drug 
+the drug is allowed by the chief 
+the image allows the magazine 
+the magazine is allowed by the image 
+the chief clears the oil 
+the oil is cleared by the chief 
+the gas replaces the oil 
+the oil is replaced by the gas 
+the oil allows the house 
+the house is allowed by the oil 
+the chief manages the oil 
+the oil is managed by the chief 
+the chief clears the magazine 
+the magazine is cleared by the chief 
+the magazine plans the drug 
+the drug is planned by the magazine 
+the magazine clears the oil 
+the oil is cleared by the magazine 
+the house plans the magazine 
+the magazine is planned by the house 
+the oil sells the drug 
+the drug is sold by the oil 
+the oil clears the chief 
+the chief is cleared by the oil 
+the drug allows the chief 
+the chief is allowed by the drug 
+the drug allows the oil 
+the oil is allowed by the drug 
+the image clears the chief 
+the chief is cleared by the image 
+the chief clears the house 
+the house is cleared by the chief 
+the image manages the chief 
+the chief is managed by the image 
+the chief manages the house 
+the house is managed by the chief 
+the house manages the magazine 
+the magazine is managed by the house 
+the chief plans the gas 
+the gas is planned by the chief 
+the drug plans the house 
+the house is planned by the drug 
+the oil sells the magazine 
+the magazine is sold by the oil 
+the oil plans the chief 
+the chief is planned by the oil 
+the chief sells the magazine 
+the magazine is sold by the chief 
+the chief allows the gas 
+the gas is allowed by the chief 
+the image sells the drug 
+the drug is sold by the image 
+the house clears the magazine 
+the magazine is cleared by the house 
+the image allows the house 
+the house is allowed by the image 
+the drug clears the chief 
+the chief is cleared by the drug 
+the chief manages the gas 
+the gas is managed by the chief 
+the house replaces the image 
+the image is replaced by the house

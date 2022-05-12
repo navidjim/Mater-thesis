@@ -1,0 +1,400 @@
+the song directs the film 
+the song does not direct the film 
+the magazine uses the game 
+the magazine does not use the game 
+the computer watchs the film 
+the computer does not watch the film 
+the box directs the magazine 
+the box does not direct the magazine 
+the song plays the game 
+the song does not play the game 
+the game performs the film 
+the game does not perform the film 
+the magazine leaves the song 
+the magazine does not leave the song 
+the magazine watchs the game 
+the magazine does not watch the game 
+the computer directs the game 
+the computer does not direct the game 
+the box directs the film 
+the box does not direct the film 
+the game plays the film 
+the game does not play the film 
+the box leaves the computer 
+the box does not leave the computer 
+the song performs the magazine 
+the song does not perform the magazine 
+the song watchs the computer 
+the song does not watch the computer 
+the computer leaves the guitar 
+the computer does not leave the guitar 
+the film performs the song 
+the film does not perform the song 
+the box leaves the magazine 
+the box does not leave the magazine 
+the film uses the game 
+the film does not use the game 
+the box performs the game 
+the box does not perform the game 
+the box directs the guitar 
+the box does not direct the guitar 
+the film watchs the box 
+the film does not watch the box 
+the computer leaves the game 
+the computer does not leave the game 
+the game directs the magazine 
+the game does not direct the magazine 
+the song performs the box 
+the song does not perform the box 
+the game plays the box 
+the game does not play the box 
+the box performs the guitar 
+the box does not perform the guitar 
+the guitar leaves the game 
+the guitar does not leave the game 
+the guitar performs the box 
+the guitar does not perform the box 
+the game watchs the song 
+the game does not watch the song 
+the computer leaves the magazine 
+the computer does not leave the magazine 
+the song leaves the magazine 
+the song does not leave the magazine 
+the magazine watchs the computer 
+the magazine does not watch the computer 
+the song plays the film 
+the song does not play the film 
+the box plays the guitar 
+the box does not play the guitar 
+the guitar performs the magazine 
+the guitar does not perform the magazine 
+the song uses the magazine 
+the song does not use the magazine 
+the box performs the song 
+the box does not perform the song 
+the song leaves the guitar 
+the song does not leave the guitar 
+the film plays the box 
+the film does not play the box 
+the film plays the magazine 
+the film does not play the magazine 
+the box plays the computer 
+the box does not play the computer 
+the game leaves the box 
+the game does not leave the box 
+the box uses the magazine 
+the box does not use the magazine 
+the guitar leaves the box 
+the guitar does not leave the box 
+the song plays the guitar 
+the song does not play the guitar 
+the box plays the song 
+the box does not play the song 
+the magazine watchs the guitar 
+the magazine does not watch the guitar 
+the guitar plays the film 
+the guitar does not play the film 
+the game performs the song 
+the game does not perform the song 
+the film performs the computer 
+the film does not perform the computer 
+the box performs the computer 
+the box does not perform the computer 
+the film watchs the song 
+the film does not watch the song 
+the film plays the guitar 
+the film does not play the guitar 
+the film directs the guitar 
+the film does not direct the guitar 
+the song watchs the guitar 
+the song does not watch the guitar 
+the film directs the song 
+the film does not direct the song 
+the guitar uses the magazine 
+the guitar does not use the magazine 
+the magazine directs the guitar 
+the magazine does not direct the guitar 
+the magazine plays the box 
+the magazine does not play the box 
+the game performs the guitar 
+the game does not perform the guitar 
+the magazine directs the game 
+the magazine does not direct the game 
+the song watchs the film 
+the song does not watch the film 
+the song plays the box 
+the song does not play the box 
+the magazine performs the film 
+the magazine does not perform the film 
+the film uses the song 
+the film does not use the song 
+the game performs the magazine 
+the game does not perform the magazine 
+the film directs the box 
+the film does not direct the box 
+the guitar leaves the computer 
+the guitar does not leave the computer 
+the guitar leaves the film 
+the guitar does not leave the film 
+the guitar directs the computer 
+the guitar does not direct the computer 
+the computer plays the magazine 
+the computer does not play the magazine 
+the song leaves the film 
+the song does not leave the film 
+the magazine leaves the film 
+the magazine does not leave the film 
+the song uses the box 
+the song does not use the box 
+the song uses the computer 
+the song does not use the computer 
+the box watchs the song 
+the box does not watch the song 
+the guitar uses the game 
+the guitar does not use the game 
+the magazine uses the guitar 
+the magazine does not use the guitar 
+the song watchs the box 
+the song does not watch the box 
+the box watchs the guitar 
+the box does not watch the guitar 
+the magazine uses the film 
+the magazine does not use the film 
+the computer plays the film 
+the computer does not play the film 
+the song leaves the game 
+the song does not leave the game 
+the box uses the game 
+the box does not use the game 
+the song performs the guitar 
+the song does not perform the guitar 
+the box uses the computer 
+the box does not use the computer 
+the film uses the guitar 
+the film does not use the guitar 
+the game plays the song 
+the game does not play the song 
+the computer leaves the box 
+the computer does not leave the box 
+the magazine plays the guitar 
+the magazine does not play the guitar 
+the guitar directs the song 
+the guitar does not direct the song 
+the magazine plays the film 
+the magazine does not play the film 
+the game leaves the song 
+the game does not leave the song 
+the game uses the guitar 
+the game does not use the guitar 
+the game uses the magazine 
+the game does not use the magazine 
+the magazine uses the song 
+the magazine does not use the song 
+the guitar performs the song 
+the guitar does not perform the song 
+the guitar directs the box 
+the guitar does not direct the box 
+the guitar performs the film 
+the guitar does not perform the film 
+the song directs the guitar 
+the song does not direct the guitar 
+the film uses the magazine 
+the film does not use the magazine 
+the magazine performs the song 
+the magazine does not perform the song 
+the game watchs the box 
+the game does not watch the box 
+the computer uses the magazine 
+the computer does not use the magazine 
+the game directs the song 
+the game does not direct the song 
+the guitar watchs the film 
+the guitar does not watch the film 
+the song leaves the box 
+the song does not leave the box 
+the game performs the computer 
+the game does not perform the computer 
+the magazine leaves the guitar 
+the magazine does not leave the guitar 
+the film performs the guitar 
+the film does not perform the guitar 
+the guitar leaves the magazine 
+the guitar does not leave the magazine 
+the guitar plays the box 
+the guitar does not play the box 
+the film uses the computer 
+the film does not use the computer 
+the magazine performs the game 
+the magazine does not perform the game 
+the box directs the game 
+the box does not direct the game 
+the song performs the film 
+the song does not perform the film 
+the box performs the film 
+the box does not perform the film 
+the computer uses the song 
+the computer does not use the song 
+the song performs the game 
+the song does not perform the game 
+the computer performs the film 
+the computer does not perform the film 
+the computer performs the song 
+the computer does not perform the song 
+the guitar uses the film 
+the guitar does not use the film 
+the box plays the film 
+the box does not play the film 
+the computer watchs the game 
+the computer does not watch the game 
+the film leaves the guitar 
+the film does not leave the guitar 
+the film watchs the game 
+the film does not watch the game 
+the computer plays the box 
+the computer does not play the box 
+the computer performs the magazine 
+the computer does not perform the magazine 
+the computer directs the guitar 
+the computer does not direct the guitar 
+the guitar leaves the song 
+the guitar does not leave the song 
+the game directs the computer 
+the game does not direct the computer 
+the magazine directs the computer 
+the magazine does not direct the computer 
+the film leaves the computer 
+the film does not leave the computer 
+the computer performs the game 
+the computer does not perform the game 
+the box leaves the game 
+the box does not leave the game 
+the film performs the magazine 
+the film does not perform the magazine 
+the computer plays the song 
+the computer does not play the song 
+the computer plays the guitar 
+the computer does not play the guitar 
+the computer leaves the film 
+the computer does not leave the film 
+the game performs the box 
+the game does not perform the box 
+the computer watchs the magazine 
+the computer does not watch the magazine 
+the guitar watchs the magazine 
+the guitar does not watch the magazine 
+the box leaves the guitar 
+the box does not leave the guitar 
+the song plays the magazine 
+the song does not play the magazine 
+the song watchs the game 
+the song does not watch the game 
+the magazine performs the guitar 
+the magazine does not perform the guitar 
+the guitar uses the box 
+the guitar does not use the box 
+the game directs the film 
+the game does not direct the film 
+the game uses the film 
+the game does not use the film 
+the computer watchs the guitar 
+the computer does not watch the guitar 
+the film leaves the game 
+the film does not leave the game 
+the song uses the film 
+the song does not use the film 
+the magazine plays the computer 
+the magazine does not play the computer 
+the box watchs the game 
+the box does not watch the game 
+the game watchs the film 
+the game does not watch the film 
+the guitar directs the magazine 
+the guitar does not direct the magazine 
+the song uses the guitar 
+the song does not use the guitar 
+the magazine leaves the box 
+the magazine does not leave the box 
+the game plays the computer 
+the game does not play the computer 
+the game watchs the magazine 
+the game does not watch the magazine 
+the song watchs the magazine 
+the song does not watch the magazine 
+the computer uses the game 
+the computer does not use the game 
+the guitar watchs the box 
+the guitar does not watch the box 
+the computer directs the film 
+the computer does not direct the film 
+the box watchs the magazine 
+the box does not watch the magazine 
+the game plays the magazine 
+the game does not play the magazine 
+the film leaves the box 
+the film does not leave the box 
+the film plays the computer 
+the film does not play the computer 
+the guitar plays the song 
+the guitar does not play the song 
+the film plays the song 
+the film does not play the song 
+the computer watchs the box 
+the computer does not watch the box 
+the song plays the computer 
+the song does not play the computer 
+the film uses the box 
+the film does not use the box 
+the computer performs the box 
+the computer does not perform the box 
+the computer directs the song 
+the computer does not direct the song 
+the box directs the song 
+the box does not direct the song 
+the film plays the game 
+the film does not play the game 
+the box plays the game 
+the box does not play the game 
+the computer uses the box 
+the computer does not use the box 
+the game directs the guitar 
+the game does not direct the guitar 
+the magazine directs the film 
+the magazine does not direct the film 
+the film leaves the magazine 
+the film does not leave the magazine 
+the box leaves the song 
+the box does not leave the song 
+the game uses the song 
+the game does not use the song 
+the computer directs the magazine 
+the computer does not direct the magazine 
+the guitar uses the computer 
+the guitar does not use the computer 
+the game uses the computer 
+the game does not use the computer 
+the guitar performs the game 
+the guitar does not perform the game 
+the guitar plays the game 
+the guitar does not play the game 
+the magazine watchs the song 
+the magazine does not watch the song 
+the computer directs the box 
+the computer does not direct the box 
+the box leaves the film 
+the box does not leave the film 
+the film directs the magazine 
+the film does not direct the magazine 
+the song directs the magazine 
+the song does not direct the magazine 
+the guitar plays the computer 
+the guitar does not play the computer 
+the song directs the game 
+the song does not direct the game 
+the song performs the computer 
+the song does not perform the computer 
+the guitar performs the computer 
+the guitar does not perform the computer 
+the game directs the box 
+the game does not direct the box 
+the game leaves the guitar 
+the game does not leave the guitar 

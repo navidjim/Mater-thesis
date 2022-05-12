@@ -1,0 +1,400 @@
+the bishop receives the chair 
+the chair is received by the bishop 
+the bullet strikes the bishop 
+the bishop is struck by the bullet 
+the chair cures the bullet 
+the bullet is cured by the chair 
+the rubber completes the puzzle 
+the puzzle is completed by the rubber 
+the uncle receives the chair 
+the chair is received by the uncle 
+the rubber accompanys the uncle 
+the uncle is accompanied by the rubber 
+the bullet strikes the rubber 
+the rubber is struck by the bullet 
+the puzzle accompanys the bullet 
+the bullet is accompanied by the puzzle 
+the deer completes the puzzle 
+the puzzle is completed by the deer 
+the puzzle eats the deer 
+the deer is eaten by the puzzle 
+the deer cures the bullet 
+the bullet is cured by the deer 
+the deer completes the bullet 
+the bullet is completed by the deer 
+the rubber strikes the puzzle 
+the puzzle is struck by the rubber 
+the deer eats the chair 
+the chair is eaten by the deer 
+the chair eats the puzzle 
+the puzzle is eaten by the chair 
+the bullet eats the rubber 
+the rubber is eaten by the bullet 
+the uncle strikes the puzzle 
+the puzzle is struck by the uncle 
+the bullet eats the deer 
+the deer is eaten by the bullet 
+the rubber completes the uncle 
+the uncle is completed by the rubber 
+the bullet completes the uncle 
+the uncle is completed by the bullet 
+the puzzle completes the chair 
+the chair is completed by the puzzle 
+the rubber strikes the chair 
+the chair is struck by the rubber 
+the uncle receives the bishop 
+the bishop is received by the uncle 
+the uncle eats the chair 
+the chair is eaten by the uncle 
+the bullet strikes the puzzle 
+the puzzle is struck by the bullet 
+the bullet cures the bishop 
+the bishop is cured by the bullet 
+the bullet eats the chair 
+the chair is eaten by the bullet 
+the bullet accompanys the uncle 
+the uncle is accompanied by the bullet 
+the uncle strikes the chair 
+the chair is struck by the uncle 
+the uncle receives the puzzle 
+the puzzle is received by the uncle 
+the rubber completes the bullet 
+the bullet is completed by the rubber 
+the uncle completes the bishop 
+the bishop is completed by the uncle 
+the deer accompanys the bishop 
+the bishop is accompanied by the deer 
+the deer receives the puzzle 
+the puzzle is received by the deer 
+the bishop receives the bullet 
+the bullet is received by the bishop 
+the puzzle receives the chair 
+the chair is received by the puzzle 
+the chair completes the bishop 
+the bishop is completed by the chair 
+the deer strikes the puzzle 
+the puzzle is struck by the deer 
+the chair receives the uncle 
+the uncle is received by the chair 
+the puzzle cures the chair 
+the chair is cured by the puzzle 
+the uncle strikes the bullet 
+the bullet is struck by the uncle 
+the bullet receives the deer 
+the deer is received by the bullet 
+the chair completes the puzzle 
+the puzzle is completed by the chair 
+the bishop accompanys the puzzle 
+the puzzle is accompanied by the bishop 
+the deer receives the chair 
+the chair is received by the deer 
+the uncle cures the bullet 
+the bullet is cured by the uncle 
+the uncle accompanys the chair 
+the chair is accompanied by the uncle 
+the uncle receives the deer 
+the deer is received by the uncle 
+the chair completes the deer 
+the deer is completed by the chair 
+the puzzle strikes the bullet 
+the bullet is struck by the puzzle 
+the chair completes the bullet 
+the bullet is completed by the chair 
+the bullet accompanys the puzzle 
+the puzzle is accompanied by the bullet 
+the bullet strikes the uncle 
+the uncle is struck by the bullet 
+the bishop completes the bullet 
+the bullet is completed by the bishop 
+the uncle accompanys the rubber 
+the rubber is accompanied by the uncle 
+the rubber completes the bishop 
+the bishop is completed by the rubber 
+the deer accompanys the chair 
+the chair is accompanied by the deer 
+the puzzle cures the bishop 
+the bishop is cured by the puzzle 
+the puzzle eats the rubber 
+the rubber is eaten by the puzzle 
+the deer completes the uncle 
+the uncle is completed by the deer 
+the rubber eats the chair 
+the chair is eaten by the rubber 
+the puzzle receives the rubber 
+the rubber is received by the puzzle 
+the puzzle receives the uncle 
+the uncle is received by the puzzle 
+the bishop receives the uncle 
+the uncle is received by the bishop 
+the puzzle accompanys the bishop 
+the bishop is accompanied by the puzzle 
+the rubber strikes the deer 
+the deer is struck by the rubber 
+the bishop eats the bullet 
+the bullet is eaten by the bishop 
+the puzzle completes the bishop 
+the bishop is completed by the puzzle 
+the puzzle receives the bishop 
+the bishop is received by the puzzle 
+the deer completes the bishop 
+the bishop is completed by the deer 
+the chair accompanys the bishop 
+the bishop is accompanied by the chair 
+the uncle accompanys the bullet 
+the bullet is accompanied by the uncle 
+the rubber receives the bishop 
+the bishop is received by the rubber 
+the puzzle eats the chair 
+the chair is eaten by the puzzle 
+the bishop eats the rubber 
+the rubber is eaten by the bishop 
+the deer cures the puzzle 
+the puzzle is cured by the deer 
+the puzzle accompanys the chair 
+the chair is accompanied by the puzzle 
+the uncle eats the puzzle 
+the puzzle is eaten by the uncle 
+the deer eats the puzzle 
+the puzzle is eaten by the deer 
+the rubber strikes the bishop 
+the bishop is struck by the rubber 
+the chair eats the uncle 
+the uncle is eaten by the chair 
+the uncle eats the bullet 
+the bullet is eaten by the uncle 
+the puzzle strikes the chair 
+the chair is struck by the puzzle 
+the uncle cures the deer 
+the deer is cured by the uncle 
+the uncle cures the puzzle 
+the puzzle is cured by the uncle 
+the uncle receives the rubber 
+the rubber is received by the uncle 
+the bishop completes the rubber 
+the rubber is completed by the bishop 
+the deer receives the uncle 
+the uncle is received by the deer 
+the bullet cures the deer 
+the deer is cured by the bullet 
+the bullet completes the bishop 
+the bishop is completed by the bullet 
+the uncle cures the rubber 
+the rubber is cured by the uncle 
+the deer receives the bishop 
+the bishop is received by the deer 
+the puzzle completes the uncle 
+the uncle is completed by the puzzle 
+the chair eats the bishop 
+the bishop is eaten by the chair 
+the deer cures the bishop 
+the bishop is cured by the deer 
+the bishop cures the rubber 
+the rubber is cured by the bishop 
+the puzzle accompanys the rubber 
+the rubber is accompanied by the puzzle 
+the chair receives the deer 
+the deer is received by the chair 
+the rubber strikes the uncle 
+the uncle is struck by the rubber 
+the chair eats the bullet 
+the bullet is eaten by the chair 
+the deer accompanys the uncle 
+the uncle is accompanied by the deer 
+the bullet accompanys the chair 
+the chair is accompanied by the bullet 
+the chair strikes the bishop 
+the bishop is struck by the chair 
+the puzzle strikes the rubber 
+the rubber is struck by the puzzle 
+the puzzle completes the bullet 
+the bullet is completed by the puzzle 
+the uncle completes the puzzle 
+the puzzle is completed by the uncle 
+the chair strikes the puzzle 
+the puzzle is struck by the chair 
+the chair completes the rubber 
+the rubber is completed by the chair 
+the chair accompanys the deer 
+the deer is accompanied by the chair 
+the rubber accompanys the bullet 
+the bullet is accompanied by the rubber 
+the deer receives the rubber 
+the rubber is received by the deer 
+the rubber eats the uncle 
+the uncle is eaten by the rubber 
+the deer completes the rubber 
+the rubber is completed by the deer 
+the rubber cures the bishop 
+the bishop is cured by the rubber 
+the puzzle strikes the bishop 
+the bishop is struck by the puzzle 
+the bullet cures the rubber 
+the rubber is cured by the bullet 
+the puzzle strikes the uncle 
+the uncle is struck by the puzzle 
+the uncle accompanys the puzzle 
+the puzzle is accompanied by the uncle 
+the deer eats the bishop 
+the bishop is eaten by the deer 
+the bullet eats the bishop 
+the bishop is eaten by the bullet 
+the bishop cures the deer 
+the deer is cured by the bishop 
+the bullet receives the bishop 
+the bishop is received by the bullet 
+the uncle strikes the deer 
+the deer is struck by the uncle 
+the bullet receives the chair 
+the chair is received by the bullet 
+the rubber cures the bullet 
+the bullet is cured by the rubber 
+the bullet cures the puzzle 
+the puzzle is cured by the bullet 
+the chair cures the puzzle 
+the puzzle is cured by the chair 
+the bullet strikes the chair 
+the chair is struck by the bullet 
+the uncle completes the chair 
+the chair is completed by the uncle 
+the deer completes the chair 
+the chair is completed by the deer 
+the puzzle eats the bullet 
+the bullet is eaten by the puzzle 
+the puzzle eats the bishop 
+the bishop is eaten by the puzzle 
+the uncle accompanys the deer 
+the deer is accompanied by the uncle 
+the rubber receives the deer 
+the deer is received by the rubber 
+the bullet eats the puzzle 
+the puzzle is eaten by the bullet 
+the puzzle cures the bullet 
+the bullet is cured by the puzzle 
+the chair strikes the rubber 
+the rubber is struck by the chair 
+the chair receives the rubber 
+the rubber is received by the chair 
+the bullet completes the rubber 
+the rubber is completed by the bullet 
+the rubber eats the puzzle 
+the puzzle is eaten by the rubber 
+the deer strikes the chair 
+the chair is struck by the deer 
+the rubber receives the bullet 
+the bullet is received by the rubber 
+the puzzle accompanys the deer 
+the deer is accompanied by the puzzle 
+the bullet receives the puzzle 
+the puzzle is received by the bullet 
+the chair strikes the bullet 
+the bullet is struck by the chair 
+the bullet receives the rubber 
+the rubber is received by the bullet 
+the rubber cures the chair 
+the chair is cured by the rubber 
+the deer cures the chair 
+the chair is cured by the deer 
+the rubber completes the deer 
+the deer is completed by the rubber 
+the bishop cures the puzzle 
+the puzzle is cured by the bishop 
+the chair eats the deer 
+the deer is eaten by the chair 
+the bullet accompanys the deer 
+the deer is accompanied by the bullet 
+the rubber completes the chair 
+the chair is completed by the rubber 
+the rubber accompanys the chair 
+the chair is accompanied by the rubber 
+the deer strikes the rubber 
+the rubber is struck by the deer 
+the rubber receives the puzzle 
+the puzzle is received by the rubber 
+the uncle strikes the rubber 
+the rubber is struck by the uncle 
+the chair completes the uncle 
+the uncle is completed by the chair 
+the bishop completes the uncle 
+the uncle is completed by the bishop 
+the puzzle completes the deer 
+the deer is completed by the puzzle 
+the bishop completes the puzzle 
+the puzzle is completed by the bishop 
+the rubber eats the deer 
+the deer is eaten by the rubber 
+the chair eats the rubber 
+the rubber is eaten by the chair 
+the deer cures the uncle 
+the uncle is cured by the deer 
+the rubber receives the uncle 
+the uncle is received by the rubber 
+the bullet eats the uncle 
+the uncle is eaten by the bullet 
+the puzzle completes the rubber 
+the rubber is completed by the puzzle 
+the bullet accompanys the bishop 
+the bishop is accompanied by the bullet 
+the deer strikes the bullet 
+the bullet is struck by the deer 
+the uncle strikes the bishop 
+the bishop is struck by the uncle 
+the rubber accompanys the puzzle 
+the puzzle is accompanied by the rubber 
+the chair strikes the deer 
+the deer is struck by the chair 
+the uncle eats the deer 
+the deer is eaten by the uncle 
+the bishop eats the chair 
+the chair is eaten by the bishop 
+the uncle eats the bishop 
+the bishop is eaten by the uncle 
+the uncle eats the rubber 
+the rubber is eaten by the uncle 
+the bishop accompanys the chair 
+the chair is accompanied by the bishop 
+the bullet strikes the deer 
+the deer is struck by the bullet 
+the chair accompanys the uncle 
+the uncle is accompanied by the chair 
+the rubber receives the chair 
+the chair is received by the rubber 
+the bishop strikes the bullet 
+the bullet is struck by the bishop 
+the bishop eats the uncle 
+the uncle is eaten by the bishop 
+the rubber cures the puzzle 
+the puzzle is cured by the rubber 
+the chair receives the puzzle 
+the puzzle is received by the chair 
+the chair strikes the uncle 
+the uncle is struck by the chair 
+the uncle completes the bullet 
+the bullet is completed by the uncle 
+the bishop accompanys the deer 
+the deer is accompanied by the bishop 
+the chair accompanys the puzzle 
+the puzzle is accompanied by the chair 
+the rubber cures the uncle 
+the uncle is cured by the rubber 
+the bullet completes the puzzle 
+the puzzle is completed by the bullet 
+the rubber cures the deer 
+the deer is cured by the rubber 
+the uncle cures the chair 
+the chair is cured by the uncle 
+the bishop strikes the chair 
+the chair is struck by the bishop 
+the uncle cures the bishop 
+the bishop is cured by the uncle 
+the bishop receives the puzzle 
+the puzzle is received by the bishop 
+the bishop accompanys the bullet 
+the bullet is accompanied by the bishop 
+the chair cures the bishop 
+the bishop is cured by the chair 
+the rubber strikes the bullet 
+the bullet is struck by the rubber 
+the bullet receives the uncle 
+the uncle is received by the bullet 
+the deer eats the uncle 
+the uncle is eaten by the deer 

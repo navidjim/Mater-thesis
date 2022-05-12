@@ -1,0 +1,400 @@
+the cup tells the book 
+the cup does not tell the book 
+the director introduces the game 
+the director does not introduce the game 
+the film tells the game 
+the film does not tell the game 
+the song tells the book 
+the song does not tell the book 
+the song plays the album 
+the song does not play the album 
+the book buys the director 
+the book does not buy the director 
+the song plays the cup 
+the song does not play the cup 
+the cup buys the film 
+the cup does not buy the film 
+the game plays the song 
+the game does not play the song 
+the game edits the album 
+the game does not edit the album 
+the director finnishs the film 
+the director does not finnish the film 
+the film introduces the book 
+the film does not introduce the book 
+the song edits the album 
+the song does not edit the album 
+the game plays the film 
+the game does not play the film 
+the song tells the director 
+the song does not tell the director 
+the book tells the album 
+the book does not tell the album 
+the game finnishs the album 
+the game does not finnish the album 
+the game plays the director 
+the game does not play the director 
+the book plays the song 
+the book does not play the song 
+the book introduces the director 
+the book does not introduce the director 
+the game finnishs the book 
+the game does not finnish the book 
+the director tells the game 
+the director does not tell the game 
+the book introduces the song 
+the book does not introduce the song 
+the song tells the game 
+the song does not tell the game 
+the album finnishs the film 
+the album does not finnish the film 
+the film introduces the director 
+the film does not introduce the director 
+the book plays the director 
+the book does not play the director 
+the book finnishs the film 
+the book does not finnish the film 
+the album buys the cup 
+the album does not buy the cup 
+the film finnishs the song 
+the film does not finnish the song 
+the book introduces the cup 
+the book does not introduce the cup 
+the album introduces the book 
+the album does not introduce the book 
+the director tells the cup 
+the director does not tell the cup 
+the book tells the song 
+the book does not tell the song 
+the cup edits the book 
+the cup does not edit the book 
+the film tells the album 
+the film does not tell the album 
+the film plays the game 
+the film does not play the game 
+the film buys the album 
+the film does not buy the album 
+the film finnishs the director 
+the film does not finnish the director 
+the film introduces the song 
+the film does not introduce the song 
+the director introduces the album 
+the director does not introduce the album 
+the album introduces the film 
+the album does not introduce the film 
+the song edits the cup 
+the song does not edit the cup 
+the film buys the game 
+the film does not buy the game 
+the album tells the book 
+the album does not tell the book 
+the director buys the game 
+the director does not buy the game 
+the album buys the song 
+the album does not buy the song 
+the game tells the film 
+the game does not tell the film 
+the song edits the book 
+the song does not edit the book 
+the book buys the album 
+the book does not buy the album 
+the cup edits the game 
+the cup does not edit the game 
+the song buys the album 
+the song does not buy the album 
+the album plays the film 
+the album does not play the film 
+the song buys the book 
+the song does not buy the book 
+the album plays the song 
+the album does not play the song 
+the cup finnishs the book 
+the cup does not finnish the book 
+the album edits the film 
+the album does not edit the film 
+the director plays the game 
+the director does not play the game 
+the film edits the cup 
+the film does not edit the cup 
+the song introduces the film 
+the song does not introduce the film 
+the game finnishs the song 
+the game does not finnish the song 
+the game introduces the cup 
+the game does not introduce the cup 
+the film plays the album 
+the film does not play the album 
+the director introduces the book 
+the director does not introduce the book 
+the film plays the book 
+the film does not play the book 
+the album tells the director 
+the album does not tell the director 
+the director introduces the film 
+the director does not introduce the film 
+the cup finnishs the song 
+the cup does not finnish the song 
+the book edits the film 
+the book does not edit the film 
+the film edits the album 
+the film does not edit the album 
+the cup edits the director 
+the cup does not edit the director 
+the song introduces the cup 
+the song does not introduce the cup 
+the game buys the book 
+the game does not buy the book 
+the director tells the album 
+the director does not tell the album 
+the album finnishs the game 
+the album does not finnish the game 
+the cup finnishs the game 
+the cup does not finnish the game 
+the cup finnishs the film 
+the cup does not finnish the film 
+the game tells the director 
+the game does not tell the director 
+the book tells the game 
+the book does not tell the game 
+the song edits the game 
+the song does not edit the game 
+the album buys the film 
+the album does not buy the film 
+the director introduces the cup 
+the director does not introduce the cup 
+the film edits the song 
+the film does not edit the song 
+the book buys the film 
+the book does not buy the film 
+the director introduces the song 
+the director does not introduce the song 
+the game buys the director 
+the game does not buy the director 
+the film plays the song 
+the film does not play the song 
+the director edits the book 
+the director does not edit the book 
+the game finnishs the film 
+the game does not finnish the film 
+the game tells the cup 
+the game does not tell the cup 
+the game buys the album 
+the game does not buy the album 
+the game edits the cup 
+the game does not edit the cup 
+the album edits the book 
+the album does not edit the book 
+the film tells the song 
+the film does not tell the song 
+the game buys the film 
+the game does not buy the film 
+the film buys the director 
+the film does not buy the director 
+the song tells the album 
+the song does not tell the album 
+the film plays the director 
+the film does not play the director 
+the album tells the song 
+the album does not tell the song 
+the film buys the book 
+the film does not buy the book 
+the cup finnishs the album 
+the cup does not finnish the album 
+the song introduces the game 
+the song does not introduce the game 
+the book introduces the game 
+the book does not introduce the game 
+the film tells the director 
+the film does not tell the director 
+the book finnishs the song 
+the book does not finnish the song 
+the book plays the album 
+the book does not play the album 
+the cup tells the director 
+the cup does not tell the director 
+the cup introduces the album 
+the cup does not introduce the album 
+the song finnishs the book 
+the song does not finnish the book 
+the song finnishs the album 
+the song does not finnish the album 
+the film finnishs the book 
+the film does not finnish the book 
+the book finnishs the cup 
+the book does not finnish the cup 
+the song plays the game 
+the song does not play the game 
+the director buys the song 
+the director does not buy the song 
+the director edits the film 
+the director does not edit the film 
+the cup buys the game 
+the cup does not buy the game 
+the album finnishs the song 
+the album does not finnish the song 
+the album plays the game 
+the album does not play the game 
+the cup edits the album 
+the cup does not edit the album 
+the song finnishs the film 
+the song does not finnish the film 
+the song buys the film 
+the song does not buy the film 
+the game finnishs the cup 
+the game does not finnish the cup 
+the game tells the book 
+the game does not tell the book 
+the film edits the director 
+the film does not edit the director 
+the director buys the film 
+the director does not buy the film 
+the book buys the game 
+the book does not buy the game 
+the album finnishs the cup 
+the album does not finnish the cup 
+the director plays the cup 
+the director does not play the cup 
+the cup plays the director 
+the cup does not play the director 
+the album edits the song 
+the album does not edit the song 
+the song buys the cup 
+the song does not buy the cup 
+the song tells the film 
+the song does not tell the film 
+the album finnishs the director 
+the album does not finnish the director 
+the director edits the album 
+the director does not edit the album 
+the song finnishs the director 
+the song does not finnish the director 
+the film plays the cup 
+the film does not play the cup 
+the album plays the cup 
+the album does not play the cup 
+the book edits the game 
+the book does not edit the game 
+the game introduces the book 
+the game does not introduce the book 
+the director finnishs the book 
+the director does not finnish the book 
+the film introduces the album 
+the film does not introduce the album 
+the album edits the game 
+the album does not edit the game 
+the album introduces the director 
+the album does not introduce the director 
+the game plays the cup 
+the game does not play the cup 
+the cup introduces the song 
+the cup does not introduce the song 
+the game introduces the director 
+the game does not introduce the director 
+the director buys the book 
+the director does not buy the book 
+the album introduces the cup 
+the album does not introduce the cup 
+the game introduces the album 
+the game does not introduce the album 
+the cup introduces the game 
+the cup does not introduce the game 
+the cup buys the book 
+the cup does not buy the book 
+the book finnishs the game 
+the book does not finnish the game 
+the game introduces the film 
+the game does not introduce the film 
+the cup edits the song 
+the cup does not edit the song 
+the film edits the book 
+the film does not edit the book 
+the game tells the song 
+the game does not tell the song 
+the cup plays the album 
+the cup does not play the album 
+the song introduces the book 
+the song does not introduce the book 
+the album buys the game 
+the album does not buy the game 
+the cup buys the song 
+the cup does not buy the song 
+the film tells the book 
+the film does not tell the book 
+the cup introduces the director 
+the cup does not introduce the director 
+the song buys the game 
+the song does not buy the game 
+the album introduces the game 
+the album does not introduce the game 
+the director plays the album 
+the director does not play the album 
+the song plays the film 
+the song does not play the film 
+the film buys the song 
+the film does not buy the song 
+the film tells the cup 
+the film does not tell the cup 
+the song finnishs the game 
+the song does not finnish the game 
+the cup plays the song 
+the cup does not play the song 
+the book tells the film 
+the book does not tell the film 
+the song edits the director 
+the song does not edit the director 
+the game edits the director 
+the game does not edit the director 
+the game buys the song 
+the game does not buy the song 
+the album edits the cup 
+the album does not edit the cup 
+the cup finnishs the director 
+the cup does not finnish the director 
+the cup plays the book 
+the cup does not play the book 
+the album plays the director 
+the album does not play the director 
+the director plays the book 
+the director does not play the book 
+the song edits the film 
+the song does not edit the film 
+the film introduces the cup 
+the film does not introduce the cup 
+the game edits the song 
+the game does not edit the song 
+the song plays the director 
+the song does not play the director 
+the album introduces the song 
+the album does not introduce the song 
+the cup introduces the book 
+the cup does not introduce the book 
+the cup buys the album 
+the cup does not buy the album 
+the book plays the cup 
+the book does not play the cup 
+the director edits the cup 
+the director does not edit the cup 
+the song plays the book 
+the song does not play the book 
+the book buys the song 
+the book does not buy the song 
+the cup tells the game 
+the cup does not tell the game 
+the cup plays the film 
+the cup does not play the film 
+the game introduces the song 
+the game does not introduce the song 
+the book buys the cup 
+the book does not buy the cup 
+the album edits the director 
+the album does not edit the director 
+the book tells the cup 
+the book does not tell the cup 
+the film buys the cup 
+the film does not buy the cup 
+the album tells the cup 
+the album does not tell the cup 
+the game finnishs the director 
+the game does not finnish the director 
+the director finnishs the album 
+the director does not finnish the album 

@@ -1,0 +1,400 @@
+the bear caught the mouse 
+the bear will catch the mouse 
+the tiger killed the mouse 
+the tiger will kill the mouse 
+the lion killed the hunter 
+the lion will kill the hunter 
+the wolf chased the dog 
+the wolf will chase the dog 
+the wolf killed the dog 
+the wolf will kill the dog 
+the tiger killed the dog 
+the tiger will kill the dog 
+the lion killed the dog 
+the lion will kill the dog 
+the bear ate the chicken 
+the bear will eat the chicken 
+the wolf killed the chicken 
+the wolf will kill the chicken 
+the wolf ate the hunter 
+the wolf will eat the hunter 
+the lion chased the mouse 
+the lion will chase the mouse 
+the tiger caught the chicken 
+the tiger will catch the chicken 
+the tiger chased the chicken 
+the tiger will chase the chicken 
+the bear killed the hunter 
+the bear will kill the hunter 
+the wolf caught the mouse 
+the wolf will catch the mouse 
+the lion chased the dog 
+the lion will chase the dog 
+the lion chased the hunter 
+the lion will chase the hunter 
+the lion ate the chicken 
+the lion will eat the chicken 
+the bear ate the dog 
+the bear will eat the dog 
+the lion caught the chicken 
+the lion will catch the chicken 
+the wolf chased the hunter 
+the wolf will chase the hunter 
+the wolf killed the hunter 
+the wolf will kill the hunter 
+the lion caught the hunter 
+the lion will catch the hunter 
+the lion ate the hunter 
+the lion will eat the hunter 
+the bear chased the hunter 
+the bear will chase the hunter 
+the tiger ate the dog 
+the tiger will eat the dog 
+the bear chased the mouse 
+the bear will chase the mouse 
+the bear killed the chicken 
+the bear will kill the chicken 
+the tiger ate the mouse 
+the tiger will eat the mouse 
+the bear ate the mouse 
+the bear will eat the mouse 
+the bear caught the chicken 
+the bear will catch the chicken 
+the bear caught the hunter 
+the bear will catch the hunter 
+the lion killed the chicken 
+the lion will kill the chicken 
+the tiger killed the hunter 
+the tiger will kill the hunter 
+the tiger chased the hunter 
+the tiger will chase the hunter 
+the tiger caught the mouse 
+the tiger will catch the mouse 
+the wolf chased the chicken 
+the wolf will chase the chicken 
+the lion killed the mouse 
+the lion will kill the mouse 
+the bear killed the dog 
+the bear will kill the dog 
+the wolf killed the mouse 
+the wolf will kill the mouse 
+the tiger caught the dog 
+the tiger will catch the dog 
+the bear caught the dog 
+the bear will catch the dog 
+the tiger killed the chicken 
+the tiger will kill the chicken 
+the tiger ate the chicken 
+the tiger will eat the chicken 
+the bear ate the hunter 
+the bear will eat the hunter 
+the tiger caught the hunter 
+the tiger will catch the hunter 
+the bear chased the dog 
+the bear will chase the dog 
+the bear killed the mouse 
+the bear will kill the mouse 
+the wolf ate the mouse 
+the wolf will eat the mouse 
+the bear chased the chicken 
+the bear will chase the chicken 
+the teacher reviewed the book 
+the teacher will review the book 
+the teacher wrote the letter 
+the teacher will write the letter 
+the professor wrote the book 
+the professor will write the book 
+the teacher sent the book 
+the teacher will send the book 
+the teacher sent the article 
+the teacher will send the article 
+the professor wrote the document 
+the professor will write the document 
+the student sent the document 
+the student will send the document 
+the researcher sent the book 
+the researcher will send the book 
+the teacher reviewed the document 
+the teacher will review the document 
+the student wrote the book 
+the student will write the book 
+the professor sent the article 
+the professor will send the article 
+the professor posted the letter 
+the professor will post the letter 
+the researcher reviewed the book 
+the researcher will review the book 
+the student sent the article 
+the student will send the article 
+the professor reviewed the book 
+the professor will review the book 
+the professor sent the book 
+the professor will send the book 
+the student posted the letter 
+the student will post the letter 
+the teacher posted the letter 
+the teacher will post the letter 
+the professor wrote the letter 
+the professor will write the letter 
+the student wrote the document 
+the student will write the document 
+the teacher sent the document 
+the teacher will send the document 
+the student reviewed the letter 
+the student will review the letter 
+the teacher reviewed the article 
+the teacher will review the article 
+the professor posted the document 
+the professor will post the document 
+the researcher wrote the book 
+the researcher will write the book 
+the researcher wrote the letter 
+the researcher will write the letter 
+the professor posted the article 
+the professor will post the article 
+the researcher posted the book 
+the researcher will post the book 
+the researcher wrote the document 
+the researcher will write the document 
+the professor sent the letter 
+the professor will send the letter 
+the researcher posted the letter 
+the researcher will post the letter 
+the teacher posted the book 
+the teacher will post the book 
+the student wrote the letter 
+the student will write the letter 
+the teacher wrote the article 
+the teacher will write the article 
+the researcher reviewed the letter 
+the researcher will review the letter 
+the student reviewed the article 
+the student will review the article 
+the researcher sent the article 
+the researcher will send the article 
+the researcher posted the document 
+the researcher will post the document 
+the student wrote the article 
+the student will write the article 
+the researcher sent the letter 
+the researcher will send the letter 
+the teacher wrote the document 
+the teacher will write the document 
+the researcher sent the document 
+the researcher will send the document 
+the teacher posted the document 
+the teacher will post the document 
+the student reviewed the book 
+the student will review the book 
+the professor sent the document 
+the professor will send the document 
+the teacher wrote the book 
+the teacher will write the book 
+the teacher posted the article 
+the teacher will post the article 
+the student reviewed the document 
+the student will review the document 
+the professor posted the book 
+the professor will post the book 
+the student posted the book 
+the student will post the book 
+the robot edited the game 
+the robot will edit the game 
+the computer ran the program 
+the computer will run the program 
+the engineer developed the application 
+the engineer will develop the application 
+the phone developed the code 
+the phone will develop the code 
+the robot edited the code 
+the robot will edit the code 
+the computer edited the game 
+the computer will edit the game 
+the computer ran the code 
+the computer will run the code 
+the robot developed the code 
+the robot will develop the code 
+the phone developed the application 
+the phone will develop the application 
+the robot saved the code 
+the robot will save the code 
+the robot developed the game 
+the robot will develop the game 
+the engineer ran the code 
+the engineer will run the code 
+the robot ran the game 
+the robot will run the game 
+the phone developed the game 
+the phone will develop the game 
+the engineer edited the game 
+the engineer will edit the game 
+the phone saved the code 
+the phone will save the code 
+the engineer developed the code 
+the engineer will develop the code 
+the robot ran the code 
+the robot will run the code 
+the phone edited the program 
+the phone will edit the program 
+the computer edited the application 
+the computer will edit the application 
+the engineer developed the program 
+the engineer will develop the program 
+the computer saved the program 
+the computer will save the program 
+the robot saved the program 
+the robot will save the program 
+the engineer saved the code 
+the engineer will save the code 
+the engineer saved the application 
+the engineer will save the application 
+the engineer developed the game 
+the engineer will develop the game 
+the phone ran the game 
+the phone will run the game 
+the robot edited the application 
+the robot will edit the application 
+the phone ran the code 
+the phone will run the code 
+the phone saved the game 
+the phone will save the game 
+the computer ran the application 
+the computer will run the application 
+the engineer saved the program 
+the engineer will save the program 
+the computer ran the game 
+the computer will run the game 
+the computer edited the program 
+the computer will edit the program 
+the computer developed the program 
+the computer will develop the program 
+the computer saved the game 
+the computer will save the game 
+the robot saved the game 
+the robot will save the game 
+the robot developed the program 
+the robot will develop the program 
+the engineer edited the application 
+the engineer will edit the application 
+the phone developed the program 
+the phone will develop the program 
+the computer saved the application 
+the computer will save the application 
+the engineer saved the game 
+the engineer will save the game 
+the engineer edited the code 
+the engineer will edit the code 
+the robot ran the program 
+the robot will run the program 
+the computer saved the code 
+the computer will save the code 
+the computer developed the code 
+the computer will develop the code 
+the phone edited the application 
+the phone will edit the application 
+the robot ran the application 
+the robot will run the application 
+the phone saved the program 
+the phone will save the program 
+the engineer ran the game 
+the engineer will run the game 
+the designer drew the picture 
+the designer will draw the picture 
+the kid illustrated the picture 
+the kid will illustrate the picture 
+the designer painted the image 
+the designer will paint the image 
+the artist painted the cover 
+the artist will paint the cover 
+the designer designed the picture 
+the designer will design the picture 
+the artist drew the image 
+the artist will draw the image 
+the designer painted the picture 
+the designer will paint the picture 
+the kid designed the image 
+the kid will design the image 
+the artist drew the cover 
+the artist will draw the cover 
+the student illustrated the cover 
+the student will illustrate the cover 
+the student designed the picture 
+the student will design the picture 
+the kid illustrated the image 
+the kid will illustrate the image 
+the kid painted the cover 
+the kid will paint the cover 
+the kid illustrated the cover 
+the kid will illustrate the cover 
+the kid designed the picture 
+the kid will design the picture 
+the designer drew the portrait 
+the designer will draw the portrait 
+the artist drew the picture 
+the artist will draw the picture 
+the artist designed the picture 
+the artist will design the picture 
+the kid drew the image 
+the kid will draw the image 
+the student illustrated the picture 
+the student will illustrate the picture 
+the designer illustrated the picture 
+the designer will illustrate the picture 
+the artist designed the portrait 
+the artist will design the portrait 
+the student painted the picture 
+the student will paint the picture 
+the kid drew the picture 
+the kid will draw the picture 
+the designer drew the image 
+the designer will draw the image 
+the artist drew the portrait 
+the artist will draw the portrait 
+the student painted the portrait 
+the student will paint the portrait 
+the student drew the portrait 
+the student will draw the portrait 
+the kid painted the image 
+the kid will paint the image 
+the designer painted the portrait 
+the designer will paint the portrait 
+the artist painted the image 
+the artist will paint the image 
+the kid drew the portrait 
+the kid will draw the portrait 
+the designer illustrated the portrait 
+the designer will illustrate the portrait 
+the student drew the picture 
+the student will draw the picture 
+the artist illustrated the picture 
+the artist will illustrate the picture 
+the designer designed the image 
+the designer will design the image 
+the artist illustrated the portrait 
+the artist will illustrate the portrait 
+the student drew the image 
+the student will draw the image 
+the artist illustrated the image 
+the artist will illustrate the image 
+the kid designed the portrait 
+the kid will design the portrait 
+the student drew the cover 
+the student will draw the cover 
+the artist designed the cover 
+the artist will design the cover 
+the designer designed the portrait 
+the designer will design the portrait 
+the kid painted the picture 
+the kid will paint the picture 
+the kid painted the portrait 
+the kid will paint the portrait 
+the student painted the cover 
+the student will paint the cover 
+the student designed the cover 
+the student will design the cover 
+the artist painted the picture 
+the artist will paint the picture 
+the designer illustrated the image 
+the designer will illustrate the image 
+the designer painted the cover 
+the designer will paint the cover

@@ -1,0 +1,400 @@
+the pepsi sells the text 
+the pepsi does not sell the text 
+the magazine builds the pepsi 
+the magazine does not build the pepsi 
+the robot names the oil 
+the robot does not name the oil 
+the rocket launches the drug 
+the rocket does not launch the drug 
+the lion allows the chief 
+the lion does not allow the chief 
+the robot clears the thief 
+the robot does not clear the thief 
+the gas knows the rocket 
+the gas does not know the rocket 
+the oil clears the pepsi 
+the oil does not clear the pepsi 
+the baby produces the gas 
+the baby does not produce the gas 
+the gas sells the house 
+the gas does not sell the house 
+the pencil launches the piano 
+the pencil does not launch the piano 
+the chief earns the text 
+the chief does not earn the text 
+the thief keeps the piano 
+the thief does not keep the piano 
+the ufo replaces the image 
+the ufo does not replace the image 
+the pencil builds the gas 
+the pencil does not build the gas 
+the piano names the ufo 
+the piano does not name the ufo 
+the baby replaces the robot 
+the baby does not replace the robot 
+the widow gets the drug 
+the widow does not get the drug 
+the chief gets the magazine 
+the chief does not get the magazine 
+the god keeps the text 
+the god does not keep the text 
+the oil earns the dog 
+the oil does not earn the dog 
+the text launches the oil 
+the text does not launch the oil 
+the house names the thief 
+the house does not name the thief 
+the pencil launches the image 
+the pencil does not launch the image 
+the text produces the widow 
+the text does not produce the widow 
+the image earns the house 
+the image does not earn the house 
+the piano produces the magazine 
+the piano does not produce the magazine 
+the ufo launches the pepsi 
+the ufo does not launch the pepsi 
+the widow allows the magazine 
+the widow does not allow the magazine 
+the text builds the god 
+the text does not build the god 
+the lion gets the author 
+the lion does not get the author 
+the oil clears the chief 
+the oil does not clear the chief 
+the magazine replaces the piano 
+the magazine does not replace the piano 
+the piano manages the image 
+the piano does not manage the image 
+the rocket sells the pepsi 
+the rocket does not sell the pepsi 
+the image plans the chief 
+the image does not plan the chief 
+the magazine sells the ufo 
+the magazine does not sell the ufo 
+the widow produces the house 
+the widow does not produce the house 
+the author builds the text 
+the author does not build the text 
+the rocket knows the house 
+the rocket does not know the house 
+the pencil manages the widow 
+the pencil does not manage the widow 
+the piano keeps the pencil 
+the piano does not keep the pencil 
+the author sells the widow 
+the author does not sell the widow 
+the dog allows the lion 
+the dog does not allow the lion 
+the magazine says the author 
+the magazine does not say the author 
+the gas builds the image 
+the gas does not build the image 
+the widow sells the author 
+the widow does not sell the author 
+the ufo gets the rocket 
+the ufo does not get the rocket 
+the author keeps the widow 
+the author does not keep the widow 
+the drug produces the lion 
+the drug does not produce the lion 
+the magazine is ufo 
+the magazine isn't the ufo 
+the rocket is drug 
+the rocket isn't the drug 
+the thief is god 
+the thief isn't the god 
+the baby is lion 
+the baby isn't the lion 
+the baby is magazine 
+the baby isn't the magazine 
+the pencil is ufo 
+the pencil isn't the ufo 
+the drug is rocket 
+the drug isn't the rocket 
+the lion is drug 
+the lion isn't the drug 
+the house is pepsi 
+the house isn't the pepsi 
+the pepsi is dog 
+the pepsi isn't the dog 
+the oil is lion 
+the oil isn't the lion 
+the pepsi is oil 
+the pepsi isn't the oil 
+the text is baby 
+the text isn't the baby 
+the piano is gas 
+the piano isn't the gas 
+the oil is dog 
+the oil isn't the dog 
+the oil is thief 
+the oil isn't the thief 
+the image is magazine 
+the image isn't the magazine 
+the image is robot 
+the image isn't the robot 
+the text is gas 
+the text isn't the gas 
+the pepsi is widow 
+the pepsi isn't the widow 
+the magazine is piano 
+the magazine isn't the piano 
+the pencil is robot 
+the pencil isn't the robot 
+the thief is pencil 
+the thief isn't the pencil 
+the baby is ufo 
+the baby isn't the ufo 
+the baby is ufo 
+the baby isn't the ufo 
+the text is lion 
+the text isn't the lion 
+the drug is pencil 
+the drug isn't the pencil 
+the pepsi is god 
+the pepsi isn't the god 
+the widow is drug 
+the widow isn't the drug 
+the drug is robot 
+the drug isn't the robot 
+the ufo is god 
+the ufo isn't the god 
+the gas is ufo 
+the gas isn't the ufo 
+the oil is house 
+the oil isn't the house 
+the dog is thief 
+the dog isn't the thief 
+the house is pepsi 
+the house isn't the pepsi 
+the baby is lion 
+the baby isn't the lion 
+the gas is pencil 
+the gas isn't the pencil 
+the magazine is baby 
+the magazine isn't the baby 
+the image is pencil 
+the image isn't the pencil 
+the image is rocket 
+the image isn't the rocket 
+the chief is baby 
+the chief isn't the baby 
+the ufo is drug 
+the ufo isn't the drug 
+the pencil is pepsi 
+the pencil isn't the pepsi 
+the robot is gas 
+the robot isn't the gas 
+the thief is magazine 
+the thief isn't the magazine 
+the god is author 
+the god isn't the author 
+the pencil is gas 
+the pencil isn't the gas 
+the chief is pepsi 
+the chief isn't the pepsi 
+the magazine is ufo 
+the magazine isn't the ufo 
+the baby is piano 
+the baby isn't the piano 
+the rocket builds the drug as a mission during the war 
+the rocket does not build the drug as a mission during the war 
+the pencil keeps the image in the city 
+the pencil does not keep the image in the city 
+the ufo leads the robot in europe 
+the ufo does not lead the robot in europe 
+the pencil clears the god as a mission during the war 
+the pencil does not clear the god as a mission during the war 
+the house allows the baby as a mission during the war 
+the house does not allow the baby as a mission during the war 
+the robot allows the gas in the city 
+the robot does not allow the gas in the city 
+the rocket gets the widow in the city 
+the rocket does not get the widow in the city 
+the oil plans the robot as a mission during the war 
+the oil does not plan the robot as a mission during the war 
+the drug knows the god in the city 
+the drug does not know the god in the city 
+the pencil leads the lion in europe 
+the pencil does not lead the lion in europe 
+the lion allows the god in europe 
+the lion does not allow the god in europe 
+the text names the image as a mission during the war 
+the text does not name the image as a mission during the war 
+the house plans the god as a mission during the war 
+the house does not plan the god as a mission during the war 
+the lion says the oil in the live show 
+the lion does not say the oil in the live show 
+the house replaces the gas in the live show 
+the house does not replace the gas in the live show 
+the oil manages the author in the building around the corner 
+the oil does not manage the author in the building around the corner 
+the piano leads the rocket in europe 
+the piano does not lead the rocket in europe 
+the drug says the rocket as a mission during the war 
+the drug does not say the rocket as a mission during the war 
+the gas sells the author in the live show 
+the gas does not sell the author in the live show 
+the drug knows the dog in the city 
+the drug does not know the dog in the city 
+the lion keeps the piano in the live show 
+the lion does not keep the piano in the live show 
+the rocket produces the ufo in the building around the corner 
+the rocket does not produce the ufo in the building around the corner 
+the drug says the text in the building around the corner 
+the drug does not say the text in the building around the corner 
+the text replaces the drug in the building around the corner 
+the text does not replace the drug in the building around the corner 
+the magazine gets the drug in europe 
+the magazine does not get the drug in europe 
+the oil names the lion in the building around the corner 
+the oil does not name the lion in the building around the corner 
+the widow gets the image in the city 
+the widow does not get the image in the city 
+the gas gets the magazine in europe 
+the gas does not get the magazine in europe 
+the baby leads the magazine in europe 
+the baby does not lead the magazine in europe 
+the dog keeps the pepsi in the city 
+the dog does not keep the pepsi in the city 
+the thief replaces the gas in the building around the corner 
+the thief does not replace the gas in the building around the corner 
+the oil launches the house in europe 
+the oil does not launch the house in europe 
+the text leads the drug as a mission during the war 
+the text does not lead the drug as a mission during the war 
+the magazine keeps the gas in the city 
+the magazine does not keep the gas in the city 
+the author leads the house in europe 
+the author does not lead the house in europe 
+the ufo replaces the text in the live show 
+the ufo does not replace the text in the live show 
+the drug replaces the ufo in europe 
+the drug does not replace the ufo in europe 
+the robot leads the chief in the building around the corner 
+the robot does not lead the chief in the building around the corner 
+the magazine earns the rocket in the city 
+the magazine does not earn the rocket in the city 
+the dog says the house as a mission during the war 
+the dog does not say the house as a mission during the war 
+the rocket manages the oil as a mission during the war 
+the rocket does not manage the oil as a mission during the war 
+the pepsi says the author in the city 
+the pepsi does not say the author in the city 
+the baby clears the drug as a mission during the war 
+the baby does not clear the drug as a mission during the war 
+the ufo allows the chief in the building around the corner 
+the ufo does not allow the chief in the building around the corner 
+the robot plans the chief as a mission during the war 
+the robot does not plan the chief as a mission during the war 
+the oil clears the image in the city 
+the oil does not clear the image in the city 
+the rocket says the house in the live show 
+the rocket does not say the house in the live show 
+the god plans the thief in the live show 
+the god does not plan the thief in the live show 
+the rocket says the robot in the live show 
+the rocket does not say the robot in the live show 
+the lion says the god as a mission during the war 
+the lion does not say the god as a mission during the war 
+the rocket builds the drug as a mission during the war 
+the rocket does not build the drug as a mission during the war 
+the pencil keeps the image in the city 
+the pencil does not keep the image in the city 
+the ufo leads the robot in europe 
+the ufo does not lead the robot in europe 
+the pencil clears the god as a mission during the war 
+the pencil does not clear the god as a mission during the war 
+the house allows the baby as a mission during the war 
+the house does not allow the baby as a mission during the war 
+the robot allows the gas in the city 
+the robot does not allow the gas in the city 
+the rocket gets the widow in the city 
+the rocket does not get the widow in the city 
+the oil plans the robot as a mission during the war 
+the oil does not plan the robot as a mission during the war 
+the drug knows the god in the city 
+the drug does not know the god in the city 
+the pencil leads the lion in europe 
+the pencil does not lead the lion in europe 
+the lion allows the god in europe 
+the lion does not allow the god in europe 
+the text names the image as a mission during the war 
+the text does not name the image as a mission during the war 
+the house plans the god as a mission during the war 
+the house does not plan the god as a mission during the war 
+the lion says the oil in the live show 
+the lion does not say the oil in the live show 
+the house replaces the gas in the live show 
+the house does not replace the gas in the live show 
+the oil manages the author in the building around the corner 
+the oil does not manage the author in the building around the corner 
+the piano leads the rocket in europe 
+the piano does not lead the rocket in europe 
+the drug says the rocket as a mission during the war 
+the drug does not say the rocket as a mission during the war 
+the gas sells the author in the live show 
+the gas does not sell the author in the live show 
+the drug knows the dog in the city 
+the drug does not know the dog in the city 
+the lion keeps the piano in the live show 
+the lion does not keep the piano in the live show 
+the rocket produces the ufo in the building around the corner 
+the rocket does not produce the ufo in the building around the corner 
+the drug says the text in the building around the corner 
+the drug does not say the text in the building around the corner 
+the text replaces the drug in the building around the corner 
+the text does not replace the drug in the building around the corner 
+the magazine gets the drug in europe 
+the magazine does not get the drug in europe 
+the oil names the lion in the building around the corner 
+the oil does not name the lion in the building around the corner 
+the widow gets the image in the city 
+the widow does not get the image in the city 
+the gas gets the magazine in europe 
+the gas does not get the magazine in europe 
+the baby leads the magazine in europe 
+the baby does not lead the magazine in europe 
+the dog keeps the pepsi in the city 
+the dog does not keep the pepsi in the city 
+the thief replaces the gas in the building around the corner 
+the thief does not replace the gas in the building around the corner 
+the oil launches the house in europe 
+the oil does not launch the house in europe 
+the text leads the drug as a mission during the war 
+the text does not lead the drug as a mission during the war 
+the magazine keeps the gas in the city 
+the magazine does not keep the gas in the city 
+the author leads the house in europe 
+the author does not lead the house in europe 
+the ufo replaces the text in the live show 
+the ufo does not replace the text in the live show 
+the drug replaces the ufo in europe 
+the drug does not replace the ufo in europe 
+the robot leads the chief in the building around the corner 
+the robot does not lead the chief in the building around the corner 
+the magazine earns the rocket in the city 
+the magazine does not earn the rocket in the city 
+the dog says the house as a mission during the war 
+the dog does not say the house as a mission during the war 
+the rocket manages the oil as a mission during the war 
+the rocket does not manage the oil as a mission during the war 
+the pepsi says the author in the city 
+the pepsi does not say the author in the city 
+the baby clears the drug as a mission during the war 
+the baby does not clear the drug as a mission during the war 
+the ufo allows the chief in the building around the corner 
+the ufo does not allow the chief in the building around the corner 
+the robot plans the chief as a mission during the war 
+the robot does not plan the chief as a mission during the war 
+the oil clears the image in the city 
+the oil does not clear the image in the city 
+the rocket says the house in the live show 
+the rocket does not say the house in the live show 
+the god plans the thief in the live show 
+the god does not plan the thief in the live show 
+the rocket says the robot in the live show 
+the rocket does not say the robot in the live show 
+the lion says the god as a mission during the war 
+the lion does not say the god as a mission during the war

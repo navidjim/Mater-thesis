@@ -1,0 +1,400 @@
+the tiger chased the chicken 
+the tiger will chase the chicken 
+the wolf ate the mouse 
+the wolf will eat the mouse 
+the bear killed the dog 
+the bear will kill the dog 
+the teacher reviewed the article 
+the teacher will review the article 
+the student wrote the letter 
+the student will write the letter 
+the researcher sent the book 
+the researcher will send the book 
+the engineer ran the code 
+the engineer will run the code 
+the robot developed the game 
+the robot will develop the game 
+the phone saved the program 
+the phone will save the program 
+the student drew the picture 
+the student will draw the picture 
+the designer illustrated the image 
+the designer will illustrate the image 
+the artist painted the portrait 
+the artist will paint the portrait 
+the bear ate the hunter 
+the bear will eat the hunter 
+the lion chased the chicken 
+the lion will chase the chicken 
+the tiger killed the mouse 
+the tiger will kill the mouse 
+the teacher sent the article 
+the teacher will send the article 
+the professor wrote the book 
+the professor will write the book 
+the student reviewed the letter 
+the student will review the letter 
+the phone saved the game 
+the phone will save the game 
+the engineer developed the application 
+the engineer will develop the application 
+the robot edited the code 
+the robot will edit the code 
+the artist drew the image 
+the artist will draw the image 
+the student designed the picture 
+the student will design the picture 
+the designer painted the portrait 
+the designer will paint the portrait 
+the bear chased the hunter 
+the bear will chase the hunter 
+the lion ate the dog 
+the lion will eat the dog 
+the researcher posted the letter 
+the researcher will post the letter 
+the teacher sent the book 
+the teacher will send the book 
+the student reviewed the document 
+the student will review the document 
+the computer edited the game 
+the computer will edit the game 
+the engineer saved the application 
+the engineer will save the application 
+the phone ran the code 
+the phone will run the code 
+the artist designed the portrait 
+the artist will design the portrait 
+the kid painted the cover 
+the kid will paint the cover 
+the tiger caught the dog 
+the tiger will catch the dog 
+the wolf killed the chicken 
+the wolf will kill the chicken 
+the lion ate the hunter 
+the lion will eat the hunter 
+the professor sent the book 
+the professor will send the book 
+the researcher wrote the document 
+the researcher will write the document 
+the phone edited the game 
+the phone will edit the game 
+the computer saved the program 
+the computer will save the program 
+the robot ran the code 
+the robot will run the code 
+the kid illustrated the picture 
+the kid will illustrate the picture 
+the designer painted the cover 
+the designer will paint the cover 
+the student designed the image 
+the student will design the image 
+the bear chased the chicken 
+the bear will chase the chicken 
+the tiger ate the hunter 
+the tiger will eat the hunter 
+the wolf caught the dog 
+the wolf will catch the dog 
+the student posted the document 
+the student will post the document 
+the professor wrote the letter 
+the professor will write the letter 
+the computer edited the code 
+the computer will edit the code 
+the robot ran the program 
+the robot will run the program 
+the phone developed the application 
+the phone will develop the application 
+the kid drew the picture 
+the kid will draw the picture 
+the student illustrated the image 
+the student will illustrate the image 
+the tiger caught the chicken 
+the tiger will catch the chicken 
+the wolf chased the mouse 
+the wolf will chase the mouse 
+the student sent the book 
+the student will send the book 
+the professor wrote the article 
+the professor will write the article 
+the teacher posted the document 
+the teacher will post the document 
+the computer saved the application 
+the computer will save the application 
+the robot developed the program 
+the robot will develop the program 
+the kid designed the picture 
+the kid will design the picture 
+the student illustrated the cover 
+the student will illustrate the cover 
+the lion chased the mouse 
+the lion will chase the mouse 
+the wolf ate the dog 
+the wolf will eat the dog 
+the bear caught the chicken 
+the bear will catch the chicken 
+the professor sent the article 
+the professor will send the article 
+the student wrote the document 
+the student will write the document 
+the computer ran the program 
+the computer will run the program 
+the phone saved the application 
+the phone will save the application 
+the engineer edited the game 
+the engineer will edit the game 
+the artist drew the picture 
+the artist will draw the picture 
+the kid designed the image 
+the kid will design the image 
+the tiger was chaseding the chicken near the capital city 
+the tiger will be chaseing the chicken near the capital city 
+the wolf was ateing the mouse in the jungle 
+the wolf will be eating the mouse in the jungle 
+the bear was killeding the dog during the night in the mountains 
+the bear will be killing the dog during the night in the mountains 
+the teacher was revieweding the article at school 
+the teacher will be reviewing the article at school 
+the student was wroteing the letter in an online meeting 
+the student will be writeing the letter in an online meeting 
+the researcher was senting the book during the class 
+the researcher will be sending the book during the class 
+the engineer was raning the code online 
+the engineer will be runing the code online 
+the robot was developeding the game in paralel 
+the robot will be developing the game in paralel 
+the phone was saveding the program using the memory 
+the phone will be saveing the program using the memory 
+the student was drewing the picture on the church's ceiling 
+the student will be drawing the picture on the church's ceiling 
+the designer was illustrateding the image at the gallery 
+the designer will be illustrateing the image at the gallery 
+the artist was painteding the portrait in this week art magazine 
+the artist will be painting the portrait in this week art magazine 
+the bear was ateing the hunter near the capital city 
+the bear will be eating the hunter near the capital city 
+the lion was chaseding the chicken in the jungle 
+the lion will be chaseing the chicken in the jungle 
+the tiger was killeding the mouse during the night in the mountains 
+the tiger will be killing the mouse during the night in the mountains 
+the teacher was senting the article at school 
+the teacher will be sending the article at school 
+the professor was wroteing the book in an online meeting 
+the professor will be writeing the book in an online meeting 
+the student was revieweding the letter during the class 
+the student will be reviewing the letter during the class 
+the phone was saveding the game using the memory 
+the phone will be saveing the game using the memory 
+the engineer was developeding the application in paralel 
+the engineer will be developing the application in paralel 
+the robot was editeding the code online 
+the robot will be editing the code online 
+the artist was drewing the image in this week art magazine 
+the artist will be drawing the image in this week art magazine 
+the student was designeding the picture at the gallery 
+the student will be designing the picture at the gallery 
+the designer was painteding the portrait on the church's ceiling 
+the designer will be painting the portrait on the church's ceiling 
+the bear was chaseding the hunter in the jungle 
+the bear will be chaseing the hunter in the jungle 
+the lion was ateing the dog near the capital city 
+the lion will be eating the dog near the capital city 
+the researcher was posteding the letter in an online meeting 
+the researcher will be posting the letter in an online meeting 
+the teacher was senting the book at school 
+the teacher will be sending the book at school 
+the student was revieweding the document during the class 
+the student will be reviewing the document during the class 
+the computer was editeding the game using the memory 
+the computer will be editing the game using the memory 
+the engineer was saveding the application in paralel 
+the engineer will be saveing the application in paralel 
+the phone was raning the code online 
+the phone will be runing the code online 
+the artist was designeding the portrait on the church's ceiling 
+the artist will be designing the portrait on the church's ceiling 
+the kid was painteding the cover at the gallery 
+the kid will be painting the cover at the gallery 
+the tiger was caughting the dog near the capital city 
+the tiger will be catching the dog near the capital city 
+the wolf was killeding the chicken during the night in the mountains 
+the wolf will be killing the chicken during the night in the mountains 
+the lion was ateing the hunter in the jungle 
+the lion will be eating the hunter in the jungle 
+the professor was senting the book at school 
+the professor will be sending the book at school 
+the researcher was wroteing the document in an online meeting 
+the researcher will be writeing the document in an online meeting 
+the phone was editeding the game using the memory 
+the phone will be editing the game using the memory 
+the computer was saveding the program in paralel 
+the computer will be saveing the program in paralel 
+the robot was raning the code online 
+the robot will be runing the code online 
+the kid was illustrateding the picture on the church's ceiling 
+the kid will be illustrateing the picture on the church's ceiling 
+the designer was painteding the cover at the gallery 
+the designer will be painting the cover at the gallery 
+the student was designeding the image in this week art magazine 
+the student will be designing the image in this week art magazine 
+the bear was chaseding the chicken in the jungle 
+the bear will be chaseing the chicken in the jungle 
+the tiger was ateing the hunter near the capital city 
+the tiger will be eating the hunter near the capital city 
+the wolf was caughting the dog during the night in the mountains 
+the wolf will be catching the dog during the night in the mountains 
+the student was posteding the document in an online meeting 
+the student will be posting the document in an online meeting 
+the professor was wroteing the letter during the class 
+the professor will be writeing the letter during the class 
+the computer was editeding the code using the memory 
+the computer will be editing the code using the memory 
+the robot was raning the program in paralel 
+the robot will be runing the program in paralel 
+the phone was developeding the application online 
+the phone will be developing the application online 
+the kid was drewing the picture on the church's ceiling 
+the kid will be drawing the picture on the church's ceiling 
+the student was illustrateding the image at the gallery 
+the student will be illustrateing the image at the gallery 
+the tiger was caughting the chicken in the jungle 
+the tiger will be catching the chicken in the jungle 
+the wolf was chaseding the mouse near the capital city 
+the wolf will be chaseing the mouse near the capital city 
+the student was senting the book in an online meeting 
+the student will be sending the book in an online meeting 
+the professor was wroteing the article during the class 
+the professor will be writeing the article during the class 
+the teacher was posteding the document at school 
+the teacher will be posting the document at school 
+the computer was saveding the application using the memory 
+the computer will be saveing the application using the memory 
+the robot was developeding the program in paralel 
+the robot will be developing the program in paralel 
+the kid was designeding the picture on the church's ceiling 
+the kid will be designing the picture on the church's ceiling 
+the student was illustrateding the cover at the gallery 
+the student will be illustrateing the cover at the gallery 
+the lion was chaseding the mouse in the jungle 
+the lion will be chaseing the mouse in the jungle 
+the wolf was ateing the dog during the night in the mountains 
+the wolf will be eating the dog during the night in the mountains 
+the bear was caughting the chicken near the capital city 
+the bear will be catching the chicken near the capital city 
+the professor was senting the article during the class 
+the professor will be sending the article during the class 
+the student was wroteing the document in an online meeting 
+the student will be writeing the document in an online meeting 
+the computer was raning the program online 
+the computer will be runing the program online 
+the phone was saveding the application using the memory 
+the phone will be saveing the application using the memory 
+the engineer was editeding the game in paralel 
+the engineer will be editing the game in paralel 
+the artist was drewing the picture at the gallery 
+the artist will be drawing the picture at the gallery 
+the kid was designeding the image in this week art magazine 
+the kid will be designing the image in this week art magazine 
+the tiger chased the chicken near the capital city 
+the tiger will chase the chicken near the capital city 
+the wolf ate the mouse in the jungle 
+the wolf will eat the mouse in the jungle 
+the bear killed the dog during the night in the mountains 
+the bear will kill the dog during the night in the mountains 
+the teacher reviewed the article at school 
+the teacher will review the article at school 
+the student wrote the letter in an online meeting 
+the student will write the letter in an online meeting 
+the researcher sent the book during the class 
+the researcher will send the book during the class 
+the engineer ran the code online 
+the engineer will run the code online 
+the robot developed the game in paralel 
+the robot will develop the game in paralel 
+the phone saved the program using the memory 
+the phone will save the program using the memory 
+the student drew the picture on the church's ceiling 
+the student will draw the picture on the church's ceiling 
+the designer illustrated the image at the gallery 
+the designer will illustrate the image at the gallery 
+the artist painted the portrait in this week art magazine 
+the artist will paint the portrait in this week art magazine 
+the bear ate the hunter near the capital city 
+the bear will eat the hunter near the capital city 
+the lion chased the chicken in the jungle 
+the lion will chase the chicken in the jungle 
+the tiger killed the mouse during the night in the mountains 
+the tiger will kill the mouse during the night in the mountains 
+the teacher sent the article at school 
+the teacher will send the article at school 
+the professor wrote the book in an online meeting 
+the professor will write the book in an online meeting 
+the student reviewed the letter during the class 
+the student will review the letter during the class 
+the phone saved the game using the memory 
+the phone will save the game using the memory 
+the engineer developed the application in paralel 
+the engineer will develop the application in paralel 
+the robot edited the code online 
+the robot will edit the code online 
+the artist drew the image in this week art magazine 
+the artist will draw the image in this week art magazine 
+the student designed the picture at the gallery 
+the student will design the picture at the gallery 
+the designer painted the portrait on the church's ceiling 
+the designer will paint the portrait on the church's ceiling 
+the bear chased the hunter in the jungle 
+the bear will chase the hunter in the jungle 
+the lion ate the dog near the capital city 
+the lion will eat the dog near the capital city 
+the researcher posted the letter in an online meeting 
+the researcher will post the letter in an online meeting 
+the teacher sent the book at school 
+the teacher will send the book at school 
+the student reviewed the document during the class 
+the student will review the document during the class 
+the computer edited the game using the memory 
+the computer will edit the game using the memory 
+the engineer saved the application in paralel 
+the engineer will save the application in paralel 
+the phone ran the code online 
+the phone will run the code online 
+the artist designed the portrait on the church's ceiling 
+the artist will design the portrait on the church's ceiling 
+the kid painted the cover at the gallery 
+the kid will paint the cover at the gallery 
+the tiger caught the dog near the capital city 
+the tiger will catch the dog near the capital city 
+the wolf killed the chicken during the night in the mountains 
+the wolf will kill the chicken during the night in the mountains 
+the lion ate the hunter in the jungle 
+the lion will eat the hunter in the jungle 
+the professor sent the book at school 
+the professor will send the book at school 
+the researcher wrote the document in an online meeting 
+the researcher will write the document in an online meeting 
+the phone edited the game using the memory 
+the phone will edit the game using the memory 
+the computer saved the program in paralel 
+the computer will save the program in paralel 
+the robot ran the code online 
+the robot will run the code online 
+the kid illustrated the picture on the church's ceiling 
+the kid will illustrate the picture on the church's ceiling 
+the designer painted the cover at the gallery 
+the designer will paint the cover at the gallery 
+the student designed the image in this week art magazine 
+the student will design the image in this week art magazine 
+the bear chased the chicken in the jungle 
+the bear will chase the chicken in the jungle 
+the tiger ate the hunter near the capital city 
+the tiger will eat the hunter near the capital city 
+the wolf caught the dog during the night in the mountains 
+the wolf will catch the dog during the night in the mountains 
+the student posted the document in an online meeting 
+the student will post the document in an online meeting 
+the professor wrote the letter during the class 
+the professor will write the letter during the class 
+the computer edited the code using the memory 
+the computer will edit the code using the memory 
+the robot ran the program in paralel 
+the robot will run the program in paralel 

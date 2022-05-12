@@ -1,0 +1,400 @@
+the bear eats the mouse 
+the mouse is eaten by the bear 
+the bear eats the dog 
+the dog is eaten by the bear 
+the tiger kills the dog 
+the dog is killed by the tiger 
+the wolf kills the dog 
+the dog is killed by the wolf 
+the tiger eats the hunter 
+the hunter is eaten by the tiger 
+the wolf eats the mouse 
+the mouse is eaten by the wolf 
+the tiger kills the mouse 
+the mouse is killed by the tiger 
+the tiger catches the dog 
+the dog is caught by the tiger 
+the tiger chases the dog 
+the dog is chased by the tiger 
+the bear kills the dog 
+the dog is killed by the bear 
+the lion chases the chicken 
+the chicken is chased by the lion 
+the lion chases the mouse 
+the mouse is chased by the lion 
+the wolf kills the mouse 
+the mouse is killed by the wolf 
+the wolf catches the chicken 
+the chicken is caught by the wolf 
+the bear chases the dog 
+the dog is chased by the bear 
+the lion chases the dog 
+the dog is chased by the lion 
+the tiger kills the hunter 
+the hunter is killed by the tiger 
+the bear kills the chicken 
+the chicken is killed by the bear 
+the wolf chases the hunter 
+the hunter is chased by the wolf 
+the lion catches the mouse 
+the mouse is caught by the lion 
+the bear catches the chicken 
+the chicken is caught by the bear 
+the tiger eats the chicken 
+the chicken is eaten by the tiger 
+the tiger eats the dog 
+the dog is eaten by the tiger 
+the tiger chases the chicken 
+the chicken is chased by the tiger 
+the wolf eats the hunter 
+the hunter is eaten by the wolf 
+the lion catches the dog 
+the dog is caught by the lion 
+the lion eats the chicken 
+the chicken is eaten by the lion 
+the bear catches the hunter 
+the hunter is caught by the bear 
+the bear chases the hunter 
+the hunter is chased by the bear 
+the tiger chases the hunter 
+the hunter is chased by the tiger 
+the lion catches the chicken 
+the chicken is caught by the lion 
+the wolf kills the hunter 
+the hunter is killed by the wolf 
+the bear eats the hunter 
+the hunter is eaten by the bear 
+the wolf eats the dog 
+the dog is eaten by the wolf 
+the wolf kills the chicken 
+the chicken is killed by the wolf 
+the tiger chases the mouse 
+the mouse is chased by the tiger 
+the lion kills the chicken 
+the chicken is killed by the lion 
+the wolf catches the hunter 
+the hunter is caught by the wolf 
+the lion kills the mouse 
+the mouse is killed by the lion 
+the lion kills the hunter 
+the hunter is killed by the lion 
+the bear kills the hunter 
+the hunter is killed by the bear 
+the wolf eats the chicken 
+the chicken is eaten by the wolf 
+the tiger catches the mouse 
+the mouse is caught by the tiger 
+the wolf catches the dog 
+the dog is caught by the wolf 
+the lion catches the hunter 
+the hunter is caught by the lion 
+the tiger catches the hunter 
+the hunter is caught by the tiger 
+the bear catches the dog 
+the dog is caught by the bear 
+the lion kills the dog 
+the dog is killed by the lion 
+the wolf catches the mouse 
+the mouse is caught by the wolf 
+the lion eats the dog 
+the dog is eaten by the lion 
+the researcher reviews the article 
+the article is reviewed by the researcher 
+the teacher writes the book 
+the book is written by the teacher 
+the professor posts the book 
+the book is posted by the professor 
+the professor writes the document 
+the document is written by the professor 
+the teacher sends the letter 
+the letter is sent by the teacher 
+the researcher sends the letter 
+the letter is sent by the researcher 
+the student posts the article 
+the article is posted by the student 
+the teacher reviews the document 
+the document is reviewed by the teacher 
+the teacher posts the article 
+the article is posted by the teacher 
+the teacher posts the document 
+the document is posted by the teacher 
+the student writes the book 
+the book is written by the student 
+the student posts the letter 
+the letter is posted by the student 
+the student posts the book 
+the book is posted by the student 
+the professor writes the letter 
+the letter is written by the professor 
+the student reviews the book 
+the book is reviewed by the student 
+the researcher writes the document 
+the document is written by the researcher 
+the researcher posts the document 
+the document is posted by the researcher 
+the student reviews the document 
+the document is reviewed by the student 
+the student reviews the article 
+the article is reviewed by the student 
+the professor writes the book 
+the book is written by the professor 
+the professor reviews the letter 
+the letter is reviewed by the professor 
+the researcher sends the article 
+the article is sent by the researcher 
+the teacher writes the article 
+the article is written by the teacher 
+the teacher reviews the book 
+the book is reviewed by the teacher 
+the researcher writes the book 
+the book is written by the researcher 
+the student reviews the letter 
+the letter is reviewed by the student 
+the professor posts the article 
+the article is posted by the professor 
+the teacher reviews the article 
+the article is reviewed by the teacher 
+the researcher sends the book 
+the book is sent by the researcher 
+the researcher sends the document 
+the document is sent by the researcher 
+the teacher sends the book 
+the book is sent by the teacher 
+the professor sends the document 
+the document is sent by the professor 
+the researcher posts the book 
+the book is posted by the researcher 
+the student sends the book 
+the book is sent by the student 
+the student writes the document 
+the document is written by the student 
+the researcher reviews the book 
+the book is reviewed by the researcher 
+the teacher sends the article 
+the article is sent by the teacher 
+the researcher reviews the letter 
+the letter is reviewed by the researcher 
+the teacher sends the document 
+the document is sent by the teacher 
+the professor writes the article 
+the article is written by the professor 
+the student sends the letter 
+the letter is sent by the student 
+the teacher writes the document 
+the document is written by the teacher 
+the teacher posts the book 
+the book is posted by the teacher 
+the professor sends the book 
+the book is sent by the professor 
+the professor reviews the article 
+the article is reviewed by the professor 
+the professor reviews the document 
+the document is reviewed by the professor 
+the professor sends the letter 
+the letter is sent by the professor 
+the researcher writes the letter 
+the letter is written by the researcher 
+the researcher posts the article 
+the article is posted by the researcher 
+the researcher writes the article 
+the article is written by the researcher 
+the computer develops the code 
+the code is developed by the computer 
+the robot edits the program 
+the program is edited by the robot 
+the phone runs the game 
+the game is run by the phone 
+the phone runs the program 
+the program is run by the phone 
+the engineer saves the application 
+the application is saved by the engineer 
+the robot saves the code 
+the code is saved by the robot 
+the computer saves the code 
+the code is saved by the computer 
+the engineer edits the application 
+the application is edited by the engineer 
+the computer runs the application 
+the application is run by the computer 
+the robot develops the game 
+the game is developed by the robot 
+the robot runs the code 
+the code is run by the robot 
+the computer saves the program 
+the program is saved by the computer 
+the robot runs the application 
+the application is run by the robot 
+the computer saves the application 
+the application is saved by the computer 
+the computer develops the application 
+the application is developed by the computer 
+the engineer runs the code 
+the code is run by the engineer 
+the computer edits the program 
+the program is edited by the computer 
+the robot develops the application 
+the application is developed by the robot 
+the engineer runs the application 
+the application is run by the engineer 
+the computer runs the code 
+the code is run by the computer 
+the engineer saves the program 
+the program is saved by the engineer 
+the engineer develops the code 
+the code is developed by the engineer 
+the robot edits the application 
+the application is edited by the robot 
+the robot runs the game 
+the game is run by the robot 
+the robot runs the program 
+the program is run by the robot 
+the engineer runs the game 
+the game is run by the engineer 
+the phone develops the code 
+the code is developed by the phone 
+the phone develops the game 
+the game is developed by the phone 
+the engineer saves the code 
+the code is saved by the engineer 
+the computer saves the game 
+the game is saved by the computer 
+the robot edits the code 
+the code is edited by the robot 
+the phone runs the application 
+the application is run by the phone 
+the phone edits the program 
+the program is edited by the phone 
+the robot saves the game 
+the game is saved by the robot 
+the engineer edits the game 
+the game is edited by the engineer 
+the phone develops the program 
+the program is developed by the phone 
+the engineer saves the game 
+the game is saved by the engineer 
+the robot saves the application 
+the application is saved by the robot 
+the engineer edits the program 
+the program is edited by the engineer 
+the robot develops the code 
+the code is developed by the robot 
+the computer develops the program 
+the program is developed by the computer 
+the computer runs the program 
+the program is run by the computer 
+the robot edits the game 
+the game is edited by the robot 
+the engineer runs the program 
+the program is run by the engineer 
+the phone saves the application 
+the application is saved by the phone 
+the phone edits the game 
+the game is edited by the phone 
+the phone saves the code 
+the code is saved by the phone 
+the engineer edits the code 
+the code is edited by the engineer 
+the phone saves the game 
+the game is saved by the phone 
+the engineer develops the game 
+the game is developed by the engineer 
+the artist designs the cover 
+the cover is designed by the artist 
+the designer paints the image 
+the image is painted by the designer 
+the designer paints the portrait 
+the portrait is painted by the designer 
+the student draws the portrait 
+the portrait is drawn by the student 
+the kid illustrates the picture 
+the picture is illustrated by the kid 
+the kid designs the image 
+the image is designed by the kid 
+the kid illustrates the cover 
+the cover is illustrated by the kid 
+the designer illustrates the picture 
+the picture is illustrated by the designer 
+the kid paints the image 
+the image is painted by the kid 
+the kid paints the cover 
+the cover is painted by the kid 
+the student illustrates the portrait 
+the portrait is illustrated by the student 
+the designer designs the picture 
+the picture is designed by the designer 
+the kid designs the portrait 
+the portrait is designed by the kid 
+the artist paints the portrait 
+the portrait is painted by the artist 
+the artist paints the picture 
+the picture is painted by the artist 
+the kid designs the picture 
+the picture is designed by the kid 
+the student paints the portrait 
+the portrait is painted by the student 
+the student illustrates the image 
+the image is illustrated by the student 
+the kid illustrates the image 
+the image is illustrated by the kid 
+the student draws the image 
+the image is drawn by the student 
+the kid paints the portrait 
+the portrait is painted by the kid 
+the artist illustrates the image 
+the image is illustrated by the artist 
+the designer paints the picture 
+the picture is painted by the designer 
+the kid draws the cover 
+the cover is drawn by the kid 
+the kid draws the portrait 
+the portrait is drawn by the kid 
+the kid paints the picture 
+the picture is painted by the kid 
+the student paints the image 
+the image is painted by the student 
+the artist designs the image 
+the image is designed by the artist 
+the student draws the cover 
+the cover is drawn by the student 
+the designer draws the image 
+the image is drawn by the designer 
+the student designs the portrait 
+the portrait is designed by the student 
+the artist illustrates the portrait 
+the portrait is illustrated by the artist 
+the kid draws the picture 
+the picture is drawn by the kid 
+the kid draws the image 
+the image is drawn by the kid 
+the kid designs the cover 
+the cover is designed by the kid 
+the artist illustrates the cover 
+the cover is illustrated by the artist 
+the student designs the picture 
+the picture is designed by the student 
+the student draws the picture 
+the picture is drawn by the student 
+the student paints the cover 
+the cover is painted by the student 
+the artist illustrates the picture 
+the picture is illustrated by the artist 
+the student designs the cover 
+the cover is designed by the student 
+the artist draws the portrait 
+the portrait is drawn by the artist 
+the designer illustrates the portrait 
+the portrait is illustrated by the designer 
+the designer draws the cover 
+the cover is drawn by the designer 
+the designer illustrates the cover 
+the cover is illustrated by the designer 
+the artist draws the picture 
+the picture is drawn by the artist 
+the artist draws the cover 
+the cover is drawn by the artist 
+the student illustrates the picture 
+the picture is illustrated by the student 
+the artist designs the portrait 
+the portrait is designed by the artist 
+the designer designs the cover 
+the cover is designed by the designer

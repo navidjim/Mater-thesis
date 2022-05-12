@@ -1,0 +1,400 @@
+the magazine will make the chief 
+the magazine made the chief 
+the chief will help the magazine 
+the chief helped the magazine 
+the chief will become the magazine 
+the chief became the magazine 
+the magazine will become the chief 
+the magazine became the chief 
+the magazine will sell the card 
+the magazine sold the card 
+the dr will help the magazine 
+the dr helped the magazine 
+the oil will make the image 
+the oil made the image 
+the card will make the oil 
+the card made the oil 
+the magazine will sell the chief 
+the magazine sold the chief 
+the oil will have the image 
+the oil had the image 
+the image will receive the oil 
+the image received the oil 
+the chief will have the card 
+the chief had the card 
+the card will have the chief 
+the card had the chief 
+the magazine will have the card 
+the magazine had the card 
+the magazine will take the dr 
+the magazine took the dr 
+the image will receive the dr 
+the image received the dr 
+the card will make the chief 
+the card made the chief 
+the chief will take the image 
+the chief took the image 
+the magazine will take the card 
+the magazine took the card 
+the chief will help the dr 
+the chief helped the dr 
+the magazine will have the image 
+the magazine had the image 
+the magazine will sell the oil 
+the magazine sold the oil 
+the card will help the oil 
+the card helped the oil 
+the card will become the image 
+the card became the image 
+the oil will help the magazine 
+the oil helped the magazine 
+the oil will become the card 
+the oil became the card 
+the magazine will sell the image 
+the magazine sold the image 
+the dr will make the chief 
+the dr made the chief 
+the image will take the card 
+the image took the card 
+the image will have the chief 
+the image had the chief 
+the chief will sell the dr 
+the chief sold the dr 
+the card will have the dr 
+the card had the dr 
+the chief will make the magazine 
+the chief made the magazine 
+the chief will receive the dr 
+the chief received the dr 
+the chief will help the image 
+the chief helped the image 
+the card will sell the dr 
+the card sold the dr 
+the image will make the chief 
+the image made the chief 
+the dr will have the magazine 
+the dr had the magazine 
+the card will become the magazine 
+the card became the magazine 
+the image will have the magazine 
+the image had the magazine 
+the card will help the dr 
+the card helped the dr 
+the oil will receive the dr 
+the oil received the dr 
+the card will take the magazine 
+the card took the magazine 
+the dr will have the chief 
+the dr had the chief 
+the oil will help the chief 
+the oil helped the chief 
+the image will receive the chief 
+the image received the chief 
+the image will sell the magazine 
+the image sold the magazine 
+the image will help the card 
+the image helped the card 
+the oil will make the magazine 
+the oil made the magazine 
+the card will take the image 
+the card took the image 
+the dr will receive the magazine 
+the dr received the magazine 
+the dr will help the chief 
+the dr helped the chief 
+the magazine will help the oil 
+the magazine helped the oil 
+the chief will make the oil 
+the chief made the oil 
+the oil will take the chief 
+the oil took the chief 
+the oil will have the chief 
+the oil had the chief 
+the chief will take the dr 
+the chief took the dr 
+the card will help the chief 
+the card helped the chief 
+the oil will receive the image 
+the oil received the image 
+the chief will have the dr 
+the chief had the dr 
+the card will receive the magazine 
+the card received the magazine 
+the oil will help the dr 
+the oil helped the dr 
+the dr will sell the chief 
+the dr sold the chief 
+the image will make the card 
+the image made the card 
+the oil will take the magazine 
+the oil took the magazine 
+the magazine will take the chief 
+the magazine took the chief 
+the card will help the magazine 
+the card helped the magazine 
+the magazine will make the card 
+the magazine made the card 
+the magazine will become the oil 
+the magazine became the oil 
+the oil will become the chief 
+the oil became the chief 
+the magazine will help the dr 
+the magazine helped the dr 
+the card will receive the chief 
+the card received the chief 
+the image will sell the card 
+the image sold the card 
+the dr will make the magazine 
+the dr made the magazine 
+the image will make the magazine 
+the image made the magazine 
+the dr will take the card 
+the dr took the card 
+the chief will receive the image 
+the chief received the image 
+the card will become the chief 
+the card became the chief 
+the card will receive the oil 
+the card received the oil 
+the oil will receive the magazine 
+the oil received the magazine 
+the oil will take the dr 
+the oil took the dr 
+the image will become the dr 
+the image became the dr 
+the magazine will sell the dr 
+the magazine sold the dr 
+the dr will become the oil 
+the dr became the oil 
+the magazine will make the oil 
+the magazine made the oil 
+the oil will have the card 
+the oil had the card 
+the oil will take the image 
+the oil took the image 
+the magazine will become the card 
+the magazine became the card 
+the chief will become the dr 
+the chief became the dr 
+the card will take the chief 
+the card took the chief 
+the dr will help the card 
+the dr helped the card 
+the dr will make the oil 
+the dr made the oil 
+the dr will sell the image 
+the dr sold the image 
+the dr will take the magazine 
+the dr took the magazine 
+the chief will sell the oil 
+the chief sold the oil 
+the chief will make the dr 
+the chief made the dr 
+the card will make the image 
+the card made the image 
+the dr will become the card 
+the dr became the card 
+the magazine will receive the dr 
+the magazine received the dr 
+the magazine will take the oil 
+the magazine took the oil 
+the dr will have the card 
+the dr had the card 
+the card will sell the image 
+the card sold the image 
+the oil will sell the card 
+the oil sold the card 
+the card will have the image 
+the card had the image 
+the card will help the image 
+the card helped the image 
+the card will make the magazine 
+the card made the magazine 
+the magazine will help the chief 
+the magazine helped the chief 
+the image will receive the magazine 
+the image received the magazine 
+the chief will have the magazine 
+the chief had the magazine 
+the dr will make the card 
+the dr made the card 
+the chief will make the card 
+the chief made the card 
+the image will help the chief 
+the image helped the chief 
+the oil will make the dr 
+the oil made the dr 
+the chief will become the image 
+the chief became the image 
+the oil will help the image 
+the oil helped the image 
+the magazine will make the image 
+the magazine made the image 
+the chief will take the magazine 
+the chief took the magazine 
+the chief will sell the magazine 
+the chief sold the magazine 
+the card will make the dr 
+the card made the dr 
+the oil will receive the card 
+the oil received the card 
+the chief will receive the card 
+the chief received the card 
+the dr will have the image 
+the dr had the image 
+the chief will sell the image 
+the chief sold the image 
+the image will become the magazine 
+the image became the magazine 
+the dr will become the magazine 
+the dr became the magazine 
+the oil will make the chief 
+the oil made the chief 
+the magazine will help the card 
+the magazine helped the card 
+the oil will have the dr 
+the oil had the dr 
+the dr will sell the card 
+the dr sold the card 
+the image will make the oil 
+the image made the oil 
+the oil will become the dr 
+the oil became the dr 
+the image will sell the oil 
+the image sold the oil 
+the chief will become the card 
+the chief became the card 
+the magazine will receive the chief 
+the magazine received the chief 
+the oil will sell the magazine 
+the oil sold the magazine 
+the image will help the oil 
+the image helped the oil 
+the image will have the dr 
+the image had the dr 
+the dr will become the image 
+the dr became the image 
+the card will have the magazine 
+the card had the magazine 
+the dr will take the oil 
+the dr took the oil 
+the magazine will receive the card 
+the magazine received the card 
+the image will take the oil 
+the image took the oil 
+the image will become the oil 
+the image became the oil 
+the dr will make the image 
+the dr made the image 
+the oil will become the image 
+the oil became the image 
+the chief will receive the oil 
+the chief received the oil 
+the oil will have the magazine 
+the oil had the magazine 
+the image will take the dr 
+the image took the dr 
+the card will have the oil 
+the card had the oil 
+the chief will have the oil 
+the chief had the oil 
+the oil will receive the chief 
+the oil received the chief 
+the oil will become the magazine 
+the oil became the magazine 
+the image will help the dr 
+the image helped the dr 
+the image will take the magazine 
+the image took the magazine 
+the card will sell the magazine 
+the card sold the magazine 
+the chief will become the oil 
+the chief became the oil 
+the oil will take the card 
+the oil took the card 
+the magazine will become the dr 
+the magazine became the dr 
+the dr will take the chief 
+the dr took the chief 
+the image will become the chief 
+the image became the chief 
+the dr will take the image 
+the dr took the image 
+the oil will sell the dr 
+the oil sold the dr 
+the card will receive the image 
+the card received the image 
+the magazine will have the dr 
+the magazine had the dr 
+the dr will help the image 
+the dr helped the image 
+the card will receive the dr 
+the card received the dr 
+the image will take the chief 
+the image took the chief 
+the magazine will become the image 
+the magazine became the image 
+the image will sell the dr 
+the image sold the dr 
+the oil will make the card 
+the oil made the card 
+the chief will help the card 
+the chief helped the card 
+the oil will sell the chief 
+the oil sold the chief 
+the image will have the card 
+the image had the card 
+the card will sell the oil 
+the card sold the oil 
+the image will have the oil 
+the image had the oil 
+the card will become the dr 
+the card became the dr 
+the dr will help the oil 
+the dr helped the oil 
+the chief will take the card 
+the chief took the card 
+the oil will sell the image 
+the oil sold the image 
+the card will take the oil 
+the card took the oil 
+the dr will sell the magazine 
+the dr sold the magazine 
+the image will receive the card 
+the image received the card 
+the magazine will make the dr 
+the magazine made the dr 
+the dr will receive the oil 
+the dr received the oil 
+the magazine will receive the oil 
+the magazine received the oil 
+the dr will sell the oil 
+the dr sold the oil 
+the chief will have the image 
+the chief had the image 
+the card will sell the chief 
+the card sold the chief 
+the dr will have the oil 
+the dr had the oil 
+the magazine will have the chief 
+the magazine had the chief 
+the dr will become the chief 
+the dr became the chief 
+the chief will sell the card 
+the chief sold the card 
+the card will become the oil 
+the card became the oil 
+the chief will make the image 
+the chief made the image 
+the image will help the magazine 
+the image helped the magazine 
+the image will make the dr 
+the image made the dr 
+the chief will receive the magazine 
+the chief received the magazine 
+the dr will receive the card 
+the dr received the card 
+the oil will help the card 
+the oil helped the card 
+the chief will help the oil 
+the chief helped the oil

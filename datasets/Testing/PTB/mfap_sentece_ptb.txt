@@ -1,0 +1,400 @@
+the author keeps the lion 
+the lion is kept by the author 
+the baby says the lion 
+the lion is said by the baby 
+the baby gets the lion 
+the lion is gotten by the baby 
+the baby says the author 
+the author is said by the baby 
+the dog names the god 
+the god is named by the dog 
+the dog gets the text 
+the text is gotten by the dog 
+the dog gets the pencil 
+the pencil is gotten by the dog 
+the author produces the god 
+the god is produced by the author 
+the baby knows the god 
+the god is known by the baby 
+the baby produces the pencil 
+the pencil is produced by the baby 
+the pencil produces the god 
+the god is produced by the pencil 
+the god knows the author 
+the author is known by the god 
+the god keeps the baby 
+the baby is kept by the god 
+the text names the god 
+the god is named by the text 
+the lion knows the god 
+the god is known by the lion 
+the text names the lion 
+the lion is named by the text 
+the lion gets the pencil 
+the pencil is gotten by the lion 
+the god names the baby 
+the baby is named by the god 
+the dog names the pencil 
+the pencil is named by the dog 
+the lion names the baby 
+the baby is named by the lion 
+the pencil names the author 
+the author is named by the pencil 
+the god produces the dog 
+the dog is produced by the god 
+the text knows the god 
+the god is known by the text 
+the baby produces the text 
+the text is produced by the baby 
+the pencil says the baby 
+the baby is said by the pencil 
+the god knows the pencil 
+the pencil is known by the god 
+the author knows the baby 
+the baby is known by the author 
+the pencil gets the god 
+the god is gotten by the pencil 
+the baby names the author 
+the author is named by the baby 
+the text gets the pencil 
+the pencil is gotten by the text 
+the lion knows the dog 
+the dog is known by the lion 
+the author names the lion 
+the lion is named by the author 
+the dog produces the pencil 
+the pencil is produced by the dog 
+the god says the lion 
+the lion is said by the god 
+the lion produces the dog 
+the dog is produced by the lion 
+the baby keeps the text 
+the text is kept by the baby 
+the text keeps the baby 
+the baby is kept by the text 
+the lion names the author 
+the author is named by the lion 
+the author names the baby 
+the baby is named by the author 
+the author gets the baby 
+the baby is gotten by the author 
+the text says the pencil 
+the pencil is said by the text 
+the lion gets the dog 
+the dog is gotten by the lion 
+the text names the baby 
+the baby is named by the text 
+the lion keeps the pencil 
+the pencil is kept by the lion 
+the pencil knows the baby 
+the baby is known by the pencil 
+the dog says the lion 
+the lion is said by the dog 
+the lion knows the baby 
+the baby is known by the lion 
+the author names the text 
+the text is named by the author 
+the god keeps the dog 
+the dog is kept by the god 
+the dog keeps the author 
+the author is kept by the dog 
+the dog knows the god 
+the god is known by the dog 
+the god produces the author 
+the author is produced by the god 
+the god keeps the text 
+the text is kept by the god 
+the god produces the pencil 
+the pencil is produced by the god 
+the text gets the god 
+the god is gotten by the text 
+the lion names the pencil 
+the pencil is named by the lion 
+the lion says the text 
+the text is said by the lion 
+the pencil says the god 
+the god is said by the pencil 
+the god says the pencil 
+the pencil is said by the god 
+the text gets the lion 
+the lion is gotten by the text 
+the pencil gets the lion 
+the lion is gotten by the pencil 
+the lion names the dog 
+the dog is named by the lion 
+the author names the pencil 
+the pencil is named by the author 
+the text produces the author 
+the author is produced by the text 
+the pencil keeps the dog 
+the dog is kept by the pencil 
+the baby produces the dog 
+the dog is produced by the baby 
+the baby keeps the god 
+the god is kept by the baby 
+the lion gets the text 
+the text is gotten by the lion 
+the god gets the text 
+the text is gotten by the god 
+the baby knows the pencil 
+the pencil is known by the baby 
+the dog gets the lion 
+the lion is gotten by the dog 
+the baby knows the lion 
+the lion is known by the baby 
+the dog says the pencil 
+the pencil is said by the dog 
+the lion produces the author 
+the author is produced by the lion 
+the author says the lion 
+the lion is said by the author 
+the pencil names the lion 
+the lion is named by the pencil 
+the pencil produces the author 
+the author is produced by the pencil 
+the god gets the baby 
+the baby is gotten by the god 
+the dog names the lion 
+the lion is named by the dog 
+the baby names the god 
+the god is named by the baby 
+the text says the baby 
+the baby is said by the text 
+the pencil names the god 
+the god is named by the pencil 
+the pencil knows the text 
+the text is known by the pencil 
+the lion gets the baby 
+the baby is gotten by the lion 
+the god gets the author 
+the author is gotten by the god 
+the god names the dog 
+the dog is named by the god 
+the lion knows the pencil 
+the pencil is known by the lion 
+the author produces the text 
+the text is produced by the author 
+the god gets the pencil 
+the pencil is gotten by the god 
+the pencil says the author 
+the author is said by the pencil 
+the text produces the dog 
+the dog is produced by the text 
+the god says the text 
+the text is said by the god 
+the lion knows the text 
+the text is known by the lion 
+the text says the god 
+the god is said by the text 
+the dog keeps the baby 
+the baby is kept by the dog 
+the dog gets the author 
+the author is gotten by the dog 
+the author knows the text 
+the text is known by the author 
+the pencil knows the dog 
+the dog is known by the pencil 
+the pencil keeps the god 
+the god is kept by the pencil 
+the baby gets the author 
+the author is gotten by the baby 
+the god keeps the lion 
+the lion is kept by the god 
+the text keeps the god 
+the god is kept by the text 
+the dog knows the text 
+the text is known by the dog 
+the god produces the baby 
+the baby is produced by the god 
+the author keeps the dog 
+the dog is kept by the author 
+the author knows the lion 
+the lion is known by the author 
+the lion keeps the dog 
+the dog is kept by the lion 
+the pencil produces the baby 
+the baby is produced by the pencil 
+the author gets the god 
+the god is gotten by the author 
+the text gets the author 
+the author is gotten by the text 
+the author says the god 
+the god is said by the author 
+the dog produces the baby 
+the baby is produced by the dog 
+the author says the pencil 
+the pencil is said by the author 
+the baby says the dog 
+the dog is said by the baby 
+the text gets the baby 
+the baby is gotten by the text 
+the lion produces the god 
+the god is produced by the lion 
+the text keeps the pencil 
+the pencil is kept by the text 
+the author produces the lion 
+the lion is produced by the author 
+the dog names the text 
+the text is named by the dog 
+the author gets the text 
+the text is gotten by the author 
+the author keeps the text 
+the text is kept by the author 
+the dog keeps the text 
+the text is kept by the dog 
+the lion says the author 
+the author is said by the lion 
+the baby knows the dog 
+the dog is known by the baby 
+the author keeps the baby 
+the baby is kept by the author 
+the author names the god 
+the god is named by the author 
+the text names the author 
+the author is named by the text 
+the author gets the lion 
+the lion is gotten by the author 
+the lion knows the author 
+the author is known by the lion 
+the author keeps the god 
+the god is kept by the author 
+the text keeps the author 
+the author is kept by the text 
+the pencil names the baby 
+the baby is named by the pencil 
+the pencil produces the dog 
+the dog is produced by the pencil 
+the author gets the pencil 
+the pencil is gotten by the author 
+the text keeps the dog 
+the dog is kept by the text 
+the lion gets the author 
+the author is gotten by the lion 
+the text knows the dog 
+the dog is known by the text 
+the baby says the pencil 
+the pencil is said by the baby 
+the dog produces the god 
+the god is produced by the dog 
+the baby names the text 
+the text is named by the baby 
+the dog keeps the god 
+the god is kept by the dog 
+the baby gets the text 
+the text is gotten by the baby 
+the author knows the dog 
+the dog is known by the author 
+the text produces the lion 
+the lion is produced by the text 
+the text names the pencil 
+the pencil is named by the text 
+the lion produces the baby 
+the baby is produced by the lion 
+the lion says the god 
+the god is said by the lion 
+the lion says the pencil 
+the pencil is said by the lion 
+the baby knows the author 
+the author is known by the baby 
+the author keeps the pencil 
+the pencil is kept by the author 
+the baby gets the pencil 
+the pencil is gotten by the baby 
+the dog says the author 
+the author is said by the dog 
+the god produces the lion 
+the lion is produced by the god 
+the author says the dog 
+the dog is said by the author 
+the author produces the pencil 
+the pencil is produced by the author 
+the god names the pencil 
+the pencil is named by the god 
+the baby says the god 
+the god is said by the baby 
+the god names the text 
+the text is named by the god 
+the author gets the dog 
+the dog is gotten by the author 
+the god produces the text 
+the text is produced by the god 
+the text keeps the lion 
+the lion is kept by the text 
+the pencil gets the author 
+the author is gotten by the pencil 
+the lion keeps the author 
+the author is kept by the lion 
+the author produces the dog 
+the dog is produced by the author 
+the pencil keeps the baby 
+the baby is kept by the pencil 
+the lion produces the text 
+the text is produced by the lion 
+the god says the author 
+the author is said by the god 
+the dog names the baby 
+the baby is named by the dog 
+the pencil names the dog 
+the dog is named by the pencil 
+the baby produces the author 
+the author is produced by the baby 
+the god names the lion 
+the lion is named by the god 
+the author produces the baby 
+the baby is produced by the author 
+the god says the dog 
+the dog is said by the god 
+the god keeps the author 
+the author is kept by the god 
+the dog says the baby 
+the baby is said by the dog 
+the lion keeps the god 
+the god is kept by the lion 
+the pencil keeps the lion 
+the lion is kept by the pencil 
+the pencil keeps the text 
+the text is kept by the pencil 
+the dog knows the baby 
+the baby is known by the dog 
+the dog produces the text 
+the text is produced by the dog 
+the dog says the god 
+the god is said by the dog 
+the pencil produces the text 
+the text is produced by the pencil 
+the dog gets the baby 
+the baby is gotten by the dog 
+the pencil says the lion 
+the lion is said by the pencil 
+the pencil knows the author 
+the author is known by the pencil 
+the baby keeps the lion 
+the lion is kept by the baby 
+the text says the author 
+the author is said by the text 
+the text knows the author 
+the author is known by the text 
+the god knows the lion 
+the lion is known by the god 
+the god says the baby 
+the baby is said by the god 
+the text produces the baby 
+the baby is produced by the text 
+the lion names the text 
+the text is named by the lion 
+the text gets the dog 
+the dog is gotten by the text 
+the author knows the pencil 
+the pencil is known by the author 
+the pencil knows the god 
+the god is known by the pencil 
+the lion says the dog 
+the dog is said by the lion 
+the author says the baby 
+the baby is said by the author 
+the text says the dog 
+the dog is said by the text 
+the baby says the text 
+the text is said by the baby 
+the author names the dog 
+the dog is named by the author 

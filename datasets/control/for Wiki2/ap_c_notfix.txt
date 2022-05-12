@@ -1,0 +1,400 @@
+the tiger eats the dog 
+the dog is eaten by the tiger 
+the bear catches the chicken 
+the chicken is caught by the bear 
+the lion chases the mouse 
+the mouse is chased by the lion 
+the researcher writes the document 
+the document is written by the researcher 
+the student reviews the book 
+the book is reviewed by the student 
+the professor sends the article 
+the article is sent by the professor 
+the engineer develops the code 
+the code is developed by the engineer 
+the robot edits the game 
+the game is edited by the robot 
+the phone saves the application 
+the application is saved by the phone 
+the kid illustrates the image 
+the image is illustrated by the kid 
+the artist paints the picture 
+the picture is painted by the artist 
+the student designs the portrait 
+the portrait is designed by the student 
+the wolf kills the hunter 
+the hunter is killed by the wolf 
+the bear eats the dog 
+the dog is eaten by the bear 
+the lion catches the chicken 
+the chicken is caught by the lion 
+the teacher writes the book 
+the book is written by the teacher 
+the professor sends the document 
+the document is sent by the professor 
+the researcher posts the letter 
+the letter is posted by the researcher 
+the phone runs the program 
+the program is run by the phone 
+the robot saves the application 
+the application is saved by the robot 
+the computer develops the code 
+the code is developed by the computer 
+the designer illustrates the portrait 
+the portrait is illustrated by the designer 
+the artist paints the image 
+the image is painted by the artist 
+the student draws the cover 
+the cover is drawn by the student 
+the tiger kills the dog 
+the dog is killed by the tiger 
+the lion chases the hunter 
+the hunter is chased by the lion 
+the bear eats the chicken 
+the chicken is eaten by the bear 
+the teacher reviews the document 
+the document is reviewed by the teacher 
+the professor posts the letter 
+the letter is posted by the professor 
+the researcher sends the book 
+the book is sent by the researcher 
+the robot edits the program 
+the program is edited by the robot 
+the computer develops the game 
+the game is developed by the computer 
+the engineer runs the application 
+the application is run by the engineer 
+the kid paints the picture 
+the picture is painted by the kid 
+the artist designs the image 
+the image is designed by the artist 
+the tiger eats the hunter 
+the hunter is eaten by the tiger 
+the bear kills the chicken 
+the chicken is killed by the bear 
+the wolf chases the dog 
+the dog is chased by the wolf 
+the student posts the article 
+the article is posted by the student 
+the teacher sends the book 
+the book is sent by the teacher 
+the professor writes the letter 
+the letter is written by the professor 
+the phone saves the code 
+the code is saved by the phone 
+the engineer edits the program 
+the program is edited by the engineer 
+the artist illustrates the cover 
+the cover is illustrated by the artist 
+the kid designs the portrait 
+the portrait is designed by the kid 
+the designer paints the image 
+the image is painted by the designer 
+the lion eats the mouse 
+the mouse is eaten by the lion 
+the wolf catches the chicken 
+the chicken is caught by the wolf 
+the tiger kills the hunter 
+the hunter is killed by the tiger 
+the professor sends the book 
+the book is sent by the professor 
+the student posts the document 
+the document is posted by the student 
+the researcher reviews the letter 
+the letter is reviewed by the researcher 
+the engineer runs the game 
+the game is run by the engineer 
+the phone edits the code 
+the code is edited by the phone 
+the computer saves the application 
+the application is saved by the computer 
+the kid illustrates the portrait 
+the portrait is illustrated by the kid 
+the designer designs the cover 
+the cover is designed by the designer 
+the lion catches the dog 
+the dog is caught by the lion 
+the wolf eats the chicken 
+the chicken is eaten by the wolf 
+the bear chases the mouse 
+the mouse is chased by the bear 
+the teacher writes the letter 
+the letter is written by the teacher 
+the researcher posts the document 
+the document is posted by the researcher 
+the phone develops the game 
+the game is developed by the phone 
+the robot runs the code 
+the code is run by the robot 
+the computer edits the program 
+the program is edited by the computer 
+the kid paints the cover 
+the cover is painted by the kid 
+the designer designs the portrait 
+the portrait is designed by the designer 
+the artist illustrates the picture 
+the picture is illustrated by the artist 
+the tiger is eating the dog during the night in the mountains 
+the dog is being eaten by the tiger during the night in the mountains 
+the bear is catching the chicken in the jungle 
+the chicken is being caught by the bear in the jungle 
+the lion is chasing the mouse near the capital city 
+the mouse is being chased by the lion near the capital city 
+the researcher is writing the document in an online meeting 
+the document is being written by the researcher in an online meeting 
+the student is reviewing the book at school 
+the book is being reviewed by the student at school 
+the professor is sending the article during the class 
+the article is being sent by the professor during the class 
+the engineer is developing the code in parallel 
+the code is being developed by the engineer in parallel 
+the robot is editing the game online 
+the game is being edited by the robot online 
+the phone is saving the application using the memory 
+the application is being saved by the phone using the memory 
+the kid is illustrating the image at the gallery 
+the image is being illustrated by the kid at the gallery 
+the artist is painting the picture in this week art magazine 
+the picture is being painted by the artist in this week art magazine 
+the student is designing the portrait on the church's ceiling 
+the portrait is being designed by the student on the church's ceiling 
+the wolf is killing the hunter during the night in the mountains 
+the hunter is being killed by the wolf during the night in the mountains 
+the bear is eating the dog in the jungle 
+the dog is being eaten by the bear in the jungle 
+the lion is catching the chicken near the capital city 
+the chicken is being caught by the lion near the capital city 
+the teacher is writing the book during the class 
+the book is being written by the teacher during the class 
+the professor is sending the document at school 
+the document is being sent by the professor at school 
+the researcher is posting the letter in an online meeting 
+the letter is being posted by the researcher in an online meeting 
+the phone is running the program online 
+the program is being run by the phone online 
+the robot is saving the application using the memory 
+the application is being saved by the robot using the memory 
+the computer is developing the code in parallel 
+the code is being developed by the computer in parallel 
+the designer is illustrating the portrait on the church's ceiling 
+the portrait is being illustrated by the designer on the church's ceiling 
+the artist is painting the image in this week art magazine 
+the image is being painted by the artist in this week art magazine 
+the student is drawing the cover at the gallery 
+the cover is being drawn by the student at the gallery 
+the tiger is killing the dog in the jungle 
+the dog is being killed by the tiger in the jungle 
+the lion is chasing the hunter during the night in the mountains 
+the hunter is being chased by the lion during the night in the mountains 
+the bear is eating the chicken near the capital city 
+the chicken is being eaten by the bear near the capital city 
+the teacher is reviewing the document at school 
+the document is being reviewed by the teacher at school 
+the professor is posting the letter during the class 
+the letter is being posted by the professor during the class 
+the researcher is sending the book in an online meeting 
+the book is being sent by the researcher in an online meeting 
+the robot is editing the program online 
+the program is being edited by the robot online 
+the computer is developing the game using the memory 
+the game is being developed by the computer using the memory 
+the engineer is running the application in parallel 
+the application is being run by the engineer in parallel 
+the kid is painting the picture on the church's ceiling 
+the picture is being painted by the kid on the church's ceiling 
+the artist is designing the image at the gallery 
+the image is being designed by the artist at the gallery 
+the tiger is eating the hunter during the night in the mountains 
+the hunter is being eaten by the tiger during the night in the mountains 
+the bear is killing the chicken in the jungle 
+the chicken is being killed by the bear in the jungle 
+the wolf is chasing the dog near the capital city 
+the dog is being chased by the wolf near the capital city 
+the student is posting the article at school 
+the article is being posted by the student at school 
+the teacher is sending the book in an online meeting 
+the book is being sent by the teacher in an online meeting 
+the professor is writing the letter during the class 
+the letter is being written by the professor during the class 
+the phone is saving the code online 
+the code is being saved by the phone online 
+the engineer is editing the program in parallel 
+the program is being edited by the engineer in parallel 
+the artist is illustrating the cover in this week art magazine 
+the cover is being illustrated by the artist in this week art magazine 
+the kid is designing the portrait at the gallery 
+the portrait is being designed by the kid at the gallery 
+the designer is painting the image on the church's ceiling 
+the image is being painted by the designer on the church's ceiling 
+the lion is eating the mouse in the jungle 
+the mouse is being eaten by the lion in the jungle 
+the wolf is catching the chicken during the night in the mountains 
+the chicken is being caught by the wolf during the night in the mountains 
+the tiger is killing the hunter near the capital city 
+the hunter is being killed by the tiger near the capital city 
+the professor is sending the book during the class 
+the book is being sent by the professor during the class 
+the student is posting the document at school 
+the document is being posted by the student at school 
+the researcher is reviewing the letter in an online meeting 
+the letter is being reviewed by the researcher in an online meeting 
+the engineer is running the game using the memory 
+the game is being run by the engineer using the memory 
+the phone is editing the code online 
+the code is being edited by the phone online 
+the computer is saving the application in parallel 
+the application is being saved by the computer in parallel 
+the kid is illustrating the portrait in this week art magazine 
+the portrait is being illustrated by the kid in this week art magazine 
+the designer is designing the cover at the gallery 
+the cover is being designed by the designer at the gallery 
+the lion is catching the dog in the jungle 
+the dog is being caught by the lion in the jungle 
+the wolf is eating the chicken during the night in the mountains 
+the chicken is being eaten by the wolf during the night in the mountains 
+the bear is chasing the mouse near the capital city 
+the mouse is being chased by the bear near the capital city 
+the teacher is writing the letter during the class 
+the letter is being written by the teacher during the class 
+the researcher is posting the document at school 
+the document is being posted by the researcher at school 
+the phone is developing the game in parallel 
+the game is being developed by the phone in parallel 
+the robot is running the code using the memory 
+the code is being run by the robot using the memory 
+the computer is editing the program online 
+the program is being edited by the computer online 
+the kid is painting the cover in this week art magazine 
+the cover is being painted by the kid in this week art magazine 
+the designer is designing the portrait on the church's ceiling 
+the portrait is being designed by the designer on the church's ceiling 
+the artist is illustrating the picture at the gallery 
+the picture is being illustrated by the artist at the gallery 
+the tiger eats the dog during the night in the mountains 
+the dog is eaten by the tiger during the night in the mountains 
+the bear catches the chicken in the jungle 
+the chicken is caught by the bear in the jungle 
+the lion chases the mouse near the capital city 
+the mouse is chased by the lion near the capital city 
+the researcher writes the document in an online meeting 
+the document is written by the researcher in an online meeting 
+the student reviews the book at school 
+the book is reviewed by the student at school 
+the professor sends the article during the class 
+the article is sent by the professor during the class 
+the engineer develops the code in parallel 
+the code is developed by the engineer in parallel 
+the robot edits the game online 
+the game is edited by the robot online 
+the phone saves the application using the memory 
+the application is saved by the phone using the memory 
+the kid illustrates the image at the gallery 
+the image is illustrated by the kid at the gallery 
+the artist paints the picture in this week art magazine 
+the picture is painted by the artist in this week art magazine 
+the student designs the portrait on the church's ceiling 
+the portrait is designed by the student on the church's ceiling 
+the wolf kills the hunter during the night in the mountains 
+the hunter is killed by the wolf during the night in the mountains 
+the bear eats the dog in the jungle 
+the dog is eaten by the bear in the jungle 
+the lion catches the chicken near the capital city 
+the chicken is caught by the lion near the capital city 
+the teacher writes the book during the class 
+the book is written by the teacher during the class 
+the professor sends the document at school 
+the document is sent by the professor at school 
+the researcher posts the letter in an online meeting 
+the letter is posted by the researcher in an online meeting 
+the phone runs the program online 
+the program is run by the phone online 
+the robot saves the application using the memory 
+the application is saved by the robot using the memory 
+the computer develops the code in parallel 
+the code is developed by the computer in parallel 
+the designer illustrates the portrait on the church's ceiling 
+the portrait is illustrated by the designer on the church's ceiling 
+the artist paints the image in this week art magazine 
+the image is painted by the artist in this week art magazine 
+the student draws the cover at the gallery 
+the cover is drawn by the student at the gallery 
+the tiger kills the dog in the jungle 
+the dog is killed by the tiger in the jungle 
+the lion chases the hunter during the night in the mountains 
+the hunter is chased by the lion during the night in the mountains 
+the bear eats the chicken near the capital city 
+the chicken is eaten by the bear near the capital city 
+the teacher reviews the document at school 
+the document is reviewed by the teacher at school 
+the professor posts the letter during the class 
+the letter is posted by the professor during the class 
+the researcher sends the book in an online meeting 
+the book is sent by the researcher in an online meeting 
+the robot edits the program online 
+the program is edited by the robot online 
+the computer develops the game using the memory 
+the game is developed by the computer using the memory 
+the engineer runs the application in parallel 
+the application is run by the engineer in parallel 
+the kid paints the picture on the church's ceiling 
+the picture is painted by the kid on the church's ceiling 
+the artist designs the image at the gallery 
+the image is designed by the artist at the gallery 
+the tiger eats the hunter during the night in the mountains 
+the hunter is eaten by the tiger during the night in the mountains 
+the bear kills the chicken in the jungle 
+the chicken is killed by the bear in the jungle 
+the wolf chases the dog near the capital city 
+the dog is chased by the wolf near the capital city 
+the student posts the article at school 
+the article is posted by the student at school 
+the teacher sends the book in an online meeting 
+the book is sent by the teacher in an online meeting 
+the professor writes the letter during the class 
+the letter is written by the professor during the class 
+the phone saves the code online 
+the code is saved by the phone online 
+the engineer edits the program in parallel 
+the program is edited by the engineer in parallel 
+the artist illustrates the cover in this week art magazine 
+the cover is illustrated by the artist in this week art magazine 
+the kid designs the portrait at the gallery 
+the portrait is designed by the kid at the gallery 
+the designer paints the image on the church's ceiling 
+the image is painted by the designer on the church's ceiling 
+the lion eats the mouse in the jungle 
+the mouse is eaten by the lion in the jungle 
+the wolf catches the chicken during the night in the mountains 
+the chicken is caught by the wolf during the night in the mountains 
+the tiger kills the hunter near the capital city 
+the hunter is killed by the tiger near the capital city 
+the professor sends the book during the class 
+the book is sent by the professor during the class 
+the student posts the document at school 
+the document is posted by the student at school 
+the researcher reviews the letter in an online meeting 
+the letter is reviewed by the researcher in an online meeting 
+the engineer runs the game using the memory 
+the game is run by the engineer using the memory 
+the phone edits the code online 
+the code is edited by the phone online 
+the computer saves the application in parallel 
+the application is saved by the computer in parallel 
+the kid illustrates the portrait in this week art magazine 
+the portrait is illustrated by the kid in this week art magazine 
+the designer designs the cover at the gallery 
+the cover is designed by the designer at the gallery 
+the lion catches the dog in the jungle 
+the dog is caught by the lion in the jungle 
+the wolf eats the chicken during the night in the mountains 
+the chicken is eaten by the wolf during the night in the mountains 
+the bear chases the mouse near the capital city 
+the mouse is chased by the bear near the capital city 
+the teacher writes the letter during the class 
+the letter is written by the teacher during the class 
+the researcher posts the document at school 
+the document is posted by the researcher at school 
+the phone develops the game in parallel 
+the game is developed by the phone in parallel 
+the robot runs the code using the memory 
+the code is run by the robot using the memory

@@ -1,0 +1,400 @@
+the card will ask the oil 
+the card asked the oil 
+the magazine will begin the image 
+the magazine began the image 
+the oil will make the magazine 
+the oil made the magazine 
+the card will make the oil 
+the card made the oil 
+the chief will post the image 
+the chief posted the image 
+the oil will post the card 
+the oil posted the card 
+the image will add the magazine 
+the image added the magazine 
+the chief will make the image 
+the chief made the image 
+the magazine will begin the card 
+the magazine began the card 
+the card will take the dr 
+the card took the dr 
+the magazine will add the chief 
+the magazine added the chief 
+the image will add the chief 
+the image added the chief 
+the dr will ask the oil 
+the dr asked the oil 
+the oil will rise the dr 
+the oil rose the dr 
+the image will rise the chief 
+the image rose the chief 
+the dr will post the chief 
+the dr posted the chief 
+the card will take the image 
+the card took the image 
+the card will post the chief 
+the card posted the chief 
+the dr will rise the magazine 
+the dr rose the magazine 
+the chief will rise the dr 
+the chief rose the dr 
+the chief will begin the oil 
+the chief began the oil 
+the image will take the magazine 
+the image took the magazine 
+the magazine will make the image 
+the magazine made the image 
+the magazine will post the image 
+the magazine posted the image 
+the dr will begin the magazine 
+the dr began the magazine 
+the oil will begin the chief 
+the oil began the chief 
+the magazine will post the card 
+the magazine posted the card 
+the image will post the card 
+the image posted the card 
+the magazine will make the oil 
+the magazine made the oil 
+the chief will post the oil 
+the chief posted the oil 
+the oil will begin the magazine 
+the oil began the magazine 
+the dr will post the oil 
+the dr posted the oil 
+the chief will make the card 
+the chief made the card 
+the image will rise the oil 
+the image rose the oil 
+the dr will take the oil 
+the dr took the oil 
+the card will rise the image 
+the card rose the image 
+the chief will add the dr 
+the chief added the dr 
+the magazine will post the chief 
+the magazine posted the chief 
+the dr will add the image 
+the dr added the image 
+the image will take the dr 
+the image took the dr 
+the card will make the magazine 
+the card made the magazine 
+the image will take the oil 
+the image took the oil 
+the chief will make the magazine 
+the chief made the magazine 
+the magazine will ask the chief 
+the magazine asked the chief 
+the oil will add the dr 
+the oil added the dr 
+the image will add the card 
+the image added the card 
+the magazine will make the chief 
+the magazine made the chief 
+the oil will add the chief 
+the oil added the chief 
+the magazine will begin the oil 
+the magazine began the oil 
+the oil will take the magazine 
+the oil took the magazine 
+the image will begin the dr 
+the image began the dr 
+the magazine will add the oil 
+the magazine added the oil 
+the image will take the chief 
+the image took the chief 
+the oil will post the chief 
+the oil posted the chief 
+the chief will add the magazine 
+the chief added the magazine 
+the image will post the oil 
+the image posted the oil 
+the dr will post the magazine 
+the dr posted the magazine 
+the oil will ask the chief 
+the oil asked the chief 
+the image will begin the oil 
+the image began the oil 
+the image will begin the magazine 
+the image began the magazine 
+the dr will post the image 
+the dr posted the image 
+the image will rise the dr 
+the image rose the dr 
+the chief will begin the dr 
+the chief began the dr 
+the chief will take the card 
+the chief took the card 
+the chief will begin the image 
+the chief began the image 
+the image will make the card 
+the image made the card 
+the dr will take the card 
+the dr took the card 
+the oil will add the card 
+the oil added the card 
+the magazine will post the dr 
+the magazine posted the dr 
+the magazine will post the oil 
+the magazine posted the oil 
+the image will make the chief 
+the image made the chief 
+the dr will make the image 
+the dr made the image 
+the chief will ask the card 
+the chief asked the card 
+the dr will begin the chief 
+the dr began the chief 
+the dr will make the oil 
+the dr made the oil 
+the card will add the oil 
+the card added the oil 
+the image will make the magazine 
+the image made the magazine 
+the dr will add the card 
+the dr added the card 
+the dr will begin the image 
+the dr began the image 
+the oil will post the dr 
+the oil posted the dr 
+the card will begin the oil 
+the card began the oil 
+the chief will take the dr 
+the chief took the dr 
+the oil will rise the card 
+the oil rose the card 
+the magazine will ask the image 
+the magazine asked the image 
+the card will rise the magazine 
+the card rose the magazine 
+the dr will take the chief 
+the dr took the chief 
+the chief will add the oil 
+the chief added the oil 
+the dr will ask the magazine 
+the dr asked the magazine 
+the magazine will take the dr 
+the magazine took the dr 
+the chief will begin the card 
+the chief began the card 
+the dr will begin the oil 
+the dr began the oil 
+the chief will begin the magazine 
+the chief began the magazine 
+the card will take the magazine 
+the card took the magazine 
+the oil will take the image 
+the oil took the image 
+the chief will add the card 
+the chief added the card 
+the dr will add the chief 
+the dr added the chief 
+the oil will take the card 
+the oil took the card 
+the chief will rise the image 
+the chief rose the image 
+the card will post the magazine 
+the card posted the magazine 
+the dr will rise the chief 
+the dr rose the chief 
+the oil will post the image 
+the oil posted the image 
+the image will rise the card 
+the image rose the card 
+the magazine will ask the oil 
+the magazine asked the oil 
+the magazine will add the card 
+the magazine added the card 
+the chief will ask the oil 
+the chief asked the oil 
+the magazine will rise the card 
+the magazine rose the card 
+the chief will ask the image 
+the chief asked the image 
+the oil will rise the image 
+the oil rose the image 
+the oil will add the image 
+the oil added the image 
+the image will ask the dr 
+the image asked the dr 
+the chief will ask the dr 
+the chief asked the dr 
+the card will post the image 
+the card posted the image 
+the image will make the oil 
+the image made the oil 
+the card will rise the chief 
+the card rose the chief 
+the image will begin the chief 
+the image began the chief 
+the image will add the oil 
+the image added the oil 
+the chief will make the dr 
+the chief made the dr 
+the chief will rise the oil 
+the chief rose the oil 
+the magazine will take the card 
+the magazine took the card 
+the card will rise the dr 
+the card rose the dr 
+the card will rise the oil 
+the card rose the oil 
+the dr will make the card 
+the dr made the card 
+the chief will make the oil 
+the chief made the oil 
+the magazine will add the dr 
+the magazine added the dr 
+the card will ask the image 
+the card asked the image 
+the chief will post the magazine 
+the chief posted the magazine 
+the oil will make the dr 
+the oil made the dr 
+the magazine will begin the dr 
+the magazine began the dr 
+the magazine will take the chief 
+the magazine took the chief 
+the image will ask the magazine 
+the image asked the magazine 
+the chief will take the image 
+the chief took the image 
+the oil will make the card 
+the oil made the card 
+the dr will begin the card 
+the dr began the card 
+the dr will rise the card 
+the dr rose the card 
+the chief will take the magazine 
+the chief took the magazine 
+the card will add the magazine 
+the card added the magazine 
+the card will make the image 
+the card made the image 
+the card will take the oil 
+the card took the oil 
+the dr will add the magazine 
+the dr added the magazine 
+the chief will rise the magazine 
+the chief rose the magazine 
+the image will ask the chief 
+the image asked the chief 
+the card will take the chief 
+the card took the chief 
+the oil will begin the card 
+the oil began the card 
+the card will add the dr 
+the card added the dr 
+the oil will rise the magazine 
+the oil rose the magazine 
+the magazine will begin the chief 
+the magazine began the chief 
+the card will ask the chief 
+the card asked the chief 
+the dr will add the oil 
+the dr added the oil 
+the magazine will take the image 
+the magazine took the image 
+the magazine will ask the dr 
+the magazine asked the dr 
+the oil will post the magazine 
+the oil posted the magazine 
+the magazine will add the image 
+the magazine added the image 
+the dr will make the chief 
+the dr made the chief 
+the card will begin the chief 
+the card began the chief 
+the image will add the dr 
+the image added the dr 
+the magazine will make the dr 
+the magazine made the dr 
+the card will begin the dr 
+the card began the dr 
+the magazine will rise the oil 
+the magazine rose the oil 
+the magazine will take the oil 
+the magazine took the oil 
+the magazine will make the card 
+the magazine made the card 
+the oil will begin the image 
+the oil began the image 
+the card will add the chief 
+the card added the chief 
+the card will make the dr 
+the card made the dr 
+the card will ask the magazine 
+the card asked the magazine 
+the dr will post the card 
+the dr posted the card 
+the dr will ask the chief 
+the dr asked the chief 
+the chief will ask the magazine 
+the chief asked the magazine 
+the dr will ask the card 
+the dr asked the card 
+the oil will make the image 
+the oil made the image 
+the image will begin the card 
+the image began the card 
+the magazine will rise the dr 
+the magazine rose the dr 
+the dr will ask the image 
+the dr asked the image 
+the oil will rise the chief 
+the oil rose the chief 
+the image will take the card 
+the image took the card 
+the card will ask the dr 
+the card asked the dr 
+the card will post the oil 
+the card posted the oil 
+the dr will take the magazine 
+the dr took the magazine 
+the image will post the chief 
+the image posted the chief 
+the magazine will rise the image 
+the magazine rose the image 
+the card will add the image 
+the card added the image 
+the image will make the dr 
+the image made the dr 
+the chief will post the card 
+the chief posted the card 
+the magazine will ask the card 
+the magazine asked the card 
+the image will ask the card 
+the image asked the card 
+the oil will ask the image 
+the oil asked the image 
+the image will post the dr 
+the image posted the dr 
+the oil will ask the magazine 
+the oil asked the magazine 
+the card will make the chief 
+the card made the chief 
+the oil will ask the card 
+the oil asked the card 
+the chief will rise the card 
+the chief rose the card 
+the magazine will rise the chief 
+the magazine rose the chief 
+the card will begin the magazine 
+the card began the magazine 
+the dr will rise the image 
+the dr rose the image 
+the oil will take the chief 
+the oil took the chief 
+the dr will take the image 
+the dr took the image 
+the image will rise the magazine 
+the image rose the magazine 
+the chief will post the dr 
+the chief posted the dr 
+the card will post the dr 
+the card posted the dr 
+the oil will ask the dr 
+the oil asked the dr 
+the dr will rise the oil 
+the dr rose the oil 

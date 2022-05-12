@@ -1,0 +1,400 @@
+the widow plays the pepsi 
+the widow does not play the pepsi 
+the pepsi plays the piano 
+the pepsi does not play the piano 
+the widow leads the pepsi 
+the widow does not lead the pepsi 
+the ufo plays the rocket 
+the ufo does not play the rocket 
+the piano leads the robot 
+the piano does not lead the robot 
+the pepsi catches the piano 
+the pepsi does not catch the piano 
+the piano leads the thief 
+the piano does not lead the thief 
+the widow launches the pepsi 
+the widow does not launch the pepsi 
+the robot catches the thief 
+the robot does not catch the thief 
+the rocket catches the robot 
+the rocket does not catch the robot 
+the rocket earns the piano 
+the rocket does not earn the piano 
+the rocket catches the thief 
+the rocket does not catch the thief 
+the piano catches the robot 
+the piano does not catch the robot 
+the piano earns the thief 
+the piano does not earn the thief 
+the widow builds the pepsi 
+the widow does not build the pepsi 
+the robot plays the pepsi 
+the robot does not play the pepsi 
+the piano earns the pepsi 
+the piano does not earn the pepsi 
+the thief earns the robot 
+the thief does not earn the robot 
+the thief leads the ufo 
+the thief does not lead the ufo 
+the robot catches the pepsi 
+the robot does not catch the pepsi 
+the robot leads the widow 
+the robot does not lead the widow 
+the ufo builds the pepsi 
+the ufo does not build the pepsi 
+the rocket leads the robot 
+the rocket does not lead the robot 
+the pepsi builds the robot 
+the pepsi does not build the robot 
+the piano plays the rocket 
+the piano does not play the rocket 
+the piano leads the pepsi 
+the piano does not lead the pepsi 
+the thief builds the widow 
+the thief does not build the widow 
+the piano plays the widow 
+the piano does not play the widow 
+the ufo earns the robot 
+the ufo does not earn the robot 
+the thief catches the piano 
+the thief does not catch the piano 
+the pepsi plays the robot 
+the pepsi does not play the robot 
+the pepsi earns the rocket 
+the pepsi does not earn the rocket 
+the rocket leads the widow 
+the rocket does not lead the widow 
+the ufo launches the rocket 
+the ufo does not launch the rocket 
+the piano builds the robot 
+the piano does not build the robot 
+the ufo leads the rocket 
+the ufo does not lead the rocket 
+the ufo earns the pepsi 
+the ufo does not earn the pepsi 
+the thief plays the widow 
+the thief does not play the widow 
+the piano catches the widow 
+the piano does not catch the widow 
+the thief builds the piano 
+the thief does not build the piano 
+the ufo earns the widow 
+the ufo does not earn the widow 
+the pepsi launches the widow 
+the pepsi does not launch the widow 
+the ufo plays the widow 
+the ufo does not play the widow 
+the pepsi launches the thief 
+the pepsi does not launch the thief 
+the rocket launches the thief 
+the rocket does not launch the thief 
+the robot launches the rocket 
+the robot does not launch the rocket 
+the pepsi builds the ufo 
+the pepsi does not build the ufo 
+the thief leads the piano 
+the thief does not lead the piano 
+the widow builds the rocket 
+the widow does not build the rocket 
+the robot catches the rocket 
+the robot does not catch the rocket 
+the piano plays the pepsi 
+the piano does not play the pepsi 
+the piano launches the ufo 
+the piano does not launch the ufo 
+the piano builds the ufo 
+the piano does not build the ufo 
+the pepsi plays the ufo 
+the pepsi does not play the ufo 
+the robot launches the piano 
+the robot does not launch the piano 
+the widow earns the robot 
+the widow does not earn the robot 
+the pepsi launches the piano 
+the pepsi does not launch the piano 
+the piano catches the thief 
+the piano does not catch the thief 
+the ufo builds the widow 
+the ufo does not build the widow 
+the rocket launches the widow 
+the rocket does not launch the widow 
+the ufo earns the piano 
+the ufo does not earn the piano 
+the widow launches the robot 
+the widow does not launch the robot 
+the robot builds the piano 
+the robot does not build the piano 
+the widow earns the thief 
+the widow does not earn the thief 
+the thief builds the rocket 
+the thief does not build the rocket 
+the ufo catches the rocket 
+the ufo does not catch the rocket 
+the rocket launches the ufo 
+the rocket does not launch the ufo 
+the widow leads the ufo 
+the widow does not lead the ufo 
+the robot launches the pepsi 
+the robot does not launch the pepsi 
+the pepsi catches the ufo 
+the pepsi does not catch the ufo 
+the widow builds the piano 
+the widow does not build the piano 
+the pepsi leads the piano 
+the pepsi does not lead the piano 
+the thief launches the rocket 
+the thief does not launch the rocket 
+the ufo earns the thief 
+the ufo does not earn the thief 
+the thief builds the ufo 
+the thief does not build the ufo 
+the thief catches the robot 
+the thief does not catch the robot 
+the ufo catches the thief 
+the ufo does not catch the thief 
+the widow earns the rocket 
+the widow does not earn the rocket 
+the piano launches the rocket 
+the piano does not launch the rocket 
+the thief earns the piano 
+the thief does not earn the piano 
+the pepsi plays the rocket 
+the pepsi does not play the rocket 
+the ufo leads the widow 
+the ufo does not lead the widow 
+the pepsi earns the thief 
+the pepsi does not earn the thief 
+the rocket launches the robot 
+the rocket does not launch the robot 
+the robot earns the piano 
+the robot does not earn the piano 
+the ufo leads the piano 
+the ufo does not lead the piano 
+the ufo launches the pepsi 
+the ufo does not launch the pepsi 
+the widow catches the piano 
+the widow does not catch the piano 
+the thief earns the rocket 
+the thief does not earn the rocket 
+the piano earns the robot 
+the piano does not earn the robot 
+the piano builds the rocket 
+the piano does not build the rocket 
+the robot earns the pepsi 
+the robot does not earn the pepsi 
+the piano earns the widow 
+the piano does not earn the widow 
+the rocket leads the piano 
+the rocket does not lead the piano 
+the pepsi launches the robot 
+the pepsi does not launch the robot 
+the robot leads the pepsi 
+the robot does not lead the pepsi 
+the pepsi leads the thief 
+the pepsi does not lead the thief 
+the robot builds the thief 
+the robot does not build the thief 
+the rocket builds the robot 
+the rocket does not build the robot 
+the rocket builds the widow 
+the rocket does not build the widow 
+the rocket earns the pepsi 
+the rocket does not earn the pepsi 
+the ufo launches the widow 
+the ufo does not launch the widow 
+the robot earns the rocket 
+the robot does not earn the rocket 
+the piano launches the robot 
+the piano does not launch the robot 
+the rocket plays the piano 
+the rocket does not play the piano 
+the widow leads the rocket 
+the widow does not lead the rocket 
+the pepsi leads the ufo 
+the pepsi does not lead the ufo 
+the ufo plays the thief 
+the ufo does not play the thief 
+the thief plays the robot 
+the thief does not play the robot 
+the piano plays the thief 
+the piano does not play the thief 
+the widow earns the piano 
+the widow does not earn the piano 
+the thief earns the pepsi 
+the thief does not earn the pepsi 
+the piano builds the widow 
+the piano does not build the widow 
+the pepsi earns the piano 
+the pepsi does not earn the piano 
+the widow catches the ufo 
+the widow does not catch the ufo 
+the robot builds the pepsi 
+the robot does not build the pepsi 
+the ufo plays the pepsi 
+the ufo does not play the pepsi 
+the rocket catches the pepsi 
+the rocket does not catch the pepsi 
+the ufo leads the robot 
+the ufo does not lead the robot 
+the thief plays the piano 
+the thief does not play the piano 
+the piano leads the ufo 
+the piano does not lead the ufo 
+the widow builds the ufo 
+the widow does not build the ufo 
+the widow plays the ufo 
+the widow does not play the ufo 
+the pepsi launches the rocket 
+the pepsi does not launch the rocket 
+the rocket catches the piano 
+the rocket does not catch the piano 
+the thief launches the ufo 
+the thief does not launch the ufo 
+the thief builds the robot 
+the thief does not build the robot 
+the piano plays the robot 
+the piano does not play the robot 
+the rocket plays the robot 
+the rocket does not play the robot 
+the ufo builds the robot 
+the ufo does not build the robot 
+the rocket catches the ufo 
+the rocket does not catch the ufo 
+the widow earns the pepsi 
+the widow does not earn the pepsi 
+the pepsi catches the robot 
+the pepsi does not catch the robot 
+the thief leads the widow 
+the thief does not lead the widow 
+the widow launches the thief 
+the widow does not launch the thief 
+the robot catches the ufo 
+the robot does not catch the ufo 
+the widow plays the rocket 
+the widow does not play the rocket 
+the ufo catches the widow 
+the ufo does not catch the widow 
+the robot launches the widow 
+the robot does not launch the widow 
+the robot plays the piano 
+the robot does not play the piano 
+the robot builds the ufo 
+the robot does not build the ufo 
+the pepsi builds the widow 
+the pepsi does not build the widow 
+the piano earns the ufo 
+the piano does not earn the ufo 
+the rocket earns the widow 
+the rocket does not earn the widow 
+the rocket launches the piano 
+the rocket does not launch the piano 
+the robot launches the ufo 
+the robot does not launch the ufo 
+the widow launches the ufo 
+the widow does not launch the ufo 
+the piano launches the widow 
+the piano does not launch the widow 
+the pepsi builds the piano 
+the pepsi does not build the piano 
+the widow catches the thief 
+the widow does not catch the thief 
+the thief leads the pepsi 
+the thief does not lead the pepsi 
+the robot plays the thief 
+the robot does not play the thief 
+the piano builds the thief 
+the piano does not build the thief 
+the thief catches the widow 
+the thief does not catch the widow 
+the rocket earns the ufo 
+the rocket does not earn the ufo 
+the pepsi builds the rocket 
+the pepsi does not build the rocket 
+the thief leads the rocket 
+the thief does not lead the rocket 
+the robot earns the thief 
+the robot does not earn the thief 
+the pepsi earns the widow 
+the pepsi does not earn the widow 
+the ufo earns the rocket 
+the ufo does not earn the rocket 
+the widow plays the piano 
+the widow does not play the piano 
+the rocket plays the widow 
+the rocket does not play the widow 
+the thief earns the widow 
+the thief does not earn the widow 
+the widow leads the piano 
+the widow does not lead the piano 
+the rocket builds the piano 
+the rocket does not build the piano 
+the widow launches the rocket 
+the widow does not launch the rocket 
+the ufo catches the pepsi 
+the ufo does not catch the pepsi 
+the rocket catches the widow 
+the rocket does not catch the widow 
+the robot earns the ufo 
+the robot does not earn the ufo 
+the thief launches the widow 
+the thief does not launch the widow 
+the robot builds the rocket 
+the robot does not build the rocket 
+the piano builds the pepsi 
+the piano does not build the pepsi 
+the thief launches the robot 
+the thief does not launch the robot 
+the piano catches the rocket 
+the piano does not catch the rocket 
+the ufo launches the thief 
+the ufo does not launch the thief 
+the rocket earns the thief 
+the rocket does not earn the thief 
+the pepsi catches the thief 
+the pepsi does not catch the thief 
+the thief launches the pepsi 
+the thief does not launch the pepsi 
+the widow plays the thief 
+the widow does not play the thief 
+the widow builds the thief 
+the widow does not build the thief 
+the thief catches the ufo 
+the thief does not catch the ufo 
+the ufo plays the robot 
+the ufo does not play the robot 
+the robot leads the ufo 
+the robot does not lead the ufo 
+the ufo leads the pepsi 
+the ufo does not lead the pepsi 
+the robot earns the widow 
+the robot does not earn the widow 
+the robot builds the widow 
+the robot does not build the widow 
+the robot leads the piano 
+the robot does not lead the piano 
+the piano leads the rocket 
+the piano does not lead the rocket 
+the robot plays the ufo 
+the robot does not play the ufo 
+the piano plays the ufo 
+the piano does not play the ufo 
+the thief plays the pepsi 
+the thief does not play the pepsi 
+the thief catches the pepsi 
+the thief does not catch the pepsi 
+the ufo launches the robot 
+the ufo does not launch the robot 
+the widow builds the robot 
+the widow does not build the robot 
+the piano earns the rocket 
+the piano does not earn the rocket 
+the pepsi earns the ufo 
+the pepsi does not earn the ufo 
+the widow launches the piano 
+the widow does not launch the piano 
+the pepsi plays the thief 
+the pepsi does not play the thief 
+the widow catches the pepsi 
+the widow does not catch the pepsi 
+the ufo catches the piano 
+the ufo does not catch the piano

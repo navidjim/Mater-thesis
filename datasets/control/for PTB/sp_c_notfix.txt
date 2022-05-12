@@ -1,0 +1,400 @@
+the wolf catchs the chicken 
+the wolfs catch the chickens 
+the lion chases the hunter 
+the lions chase the hunters 
+the tiger eats the mouse 
+the tigers eat the mouses 
+the teacher posts the book 
+the teachers post the books 
+the researcher writes the article 
+the researchers write the articles 
+the student reviews the document 
+the students review the documents 
+the computer develops the game 
+the computers develop the games 
+the robot saves the code 
+the robots save the codes 
+the phone runs the program 
+the phones run the programs 
+the student draws the picture 
+the students draw the pictures 
+the artist paints the image 
+the artists paint the images 
+the designer illustrates the portrait 
+the designers illustrate the portraits 
+the lion eats the hunter 
+the lions eat the hunters 
+the bear chases the dog 
+the bears chase the dogs 
+the tiger kills the mouse 
+the tigers kill the mouses 
+the teacher posts the letter 
+the teachers post the letters 
+the professor sends the document 
+the professors send the documents 
+the robot develops the application 
+the robots develop the applications 
+the computer saves the program 
+the computers save the programs 
+the engineer runs the code 
+the engineers run the codes 
+the student paints the image 
+the students paint the images 
+the kid designs the picture 
+the kids design the pictures 
+the artist draws the cover 
+the artists draw the covers 
+the wolf kills the chicken 
+the wolfs kill the chickens 
+the bear catchs the mouse 
+the bears catch the mouses 
+the tiger eats the dog 
+the tigers eat the dogs 
+the teacher reviews the document 
+the teachers review the documents 
+the professor sends the book 
+the professors send the books 
+the researcher posts the letter 
+the researchers post the letters 
+the phone saves the game 
+the phones save the games 
+the robot edits the program 
+the robots edit the programs 
+the computer develops the application 
+the computers develop the applications 
+the kid paints the image 
+the kids paint the images 
+the designer draws the cover 
+the designers draw the covers 
+the artist designs the picture 
+the artists design the pictures 
+the wolf chases the hunter 
+the wolfs chase the hunters 
+the bear catchs the dog 
+the bears catch the dogs 
+the lion eats the mouse 
+the lions eat the mouses 
+the teacher sends the book 
+the teachers send the books 
+the student reviews the letter 
+the students review the letters 
+the researcher posts the document 
+the researchers post the documents 
+the robot edits the code 
+the robots edit the codes 
+the computer runs the application 
+the computers run the applications 
+the phone saves the program 
+the phones save the programs 
+the student illustrates the cover 
+the students illustrate the covers 
+the designer designs the portrait 
+the designers design the portraits 
+the bear kills the hunter 
+the bears kill the hunters 
+the tiger chases the mouse 
+the tigers chase the mouses 
+the lion catchs the dog 
+the lions catch the dogs 
+the researcher sends the article 
+the researchers send the articles 
+the teacher writes the book 
+the teachers write the books 
+the engineer edits the game 
+the engineers edit the games 
+the computer saves the code 
+the computers save the codes 
+the robot runs the application 
+the robots run the applications 
+the student designs the portrait 
+the students design the portraits 
+the kid draws the image 
+the kids draw the images 
+the artist illustrates the cover 
+the artists illustrate the covers 
+the lion kills the chicken 
+the lions kill the chickens 
+the tiger chases the dog 
+the tigers chase the dogs 
+the wolf eats the mouse 
+the wolfs eat the mouses 
+the researcher reviews the book 
+the researchers review the books 
+the teacher sends the document 
+the teachers send the documents 
+the professor posts the article 
+the professors post the articles 
+the phone runs the game 
+the phones run the games 
+the designer illustrates the cover 
+the designers illustrate the covers 
+the artist draws the image 
+the artists draw the images 
+the tiger catchs the dog 
+the tigers catch the dogs 
+the bear eats the chicken 
+the bears eat the chickens 
+the wolf chases the mouse 
+the wolfs chase the mouses 
+the researcher sends the letter 
+the researchers send the letters 
+the teacher reviews the book 
+the teachers review the books 
+the engineer develops the game 
+the engineers develop the games 
+the robot runs the code 
+the robots run the codes 
+the artist designs the portrait 
+the artists design the portraits 
+the wolf is catching the chicken during the night in the mountains 
+the wolfs are catching the chickens during the night in the mountains 
+the lion is chaseing the hunter in the jungle 
+the lions are chaseing the hunters in the jungle 
+the tiger is eating the mouse near the capital city 
+the tigers are eating the mouses near the capital city 
+the teacher is posting the book at school 
+the teachers are posting the books at school 
+the researcher is writeing the article during the class 
+the researchers are writeing the articles during the class 
+the student is reviewing the document in an online meeting 
+the students are reviewing the documents in an online meeting 
+the computer is developing the game in paralel 
+the computers are developing the games in paralel 
+the robot is saveing the code using the memory 
+the robots are saveing the codes using the memory 
+the phone is runing the program online 
+the phones are runing the programs online 
+the student is drawing the picture in this week art magazine 
+the students are drawing the pictures in this week art magazine 
+the artist is painting the image at the gallery 
+the artists are painting the images at the gallery 
+the designer is illustrateing the portrait on the church's ceiling 
+the designers are illustrateing the portraits on the church's ceiling 
+the lion is eating the hunter in the jungle 
+the lions are eating the hunters in the jungle 
+the bear is chaseing the dog during the night in the mountains 
+the bears are chaseing the dogs during the night in the mountains 
+the tiger is killing the mouse near the capital city 
+the tigers are killing the mouses near the capital city 
+the teacher is posting the letter during the class 
+the teachers are posting the letters during the class 
+the professor is sending the document in an online meeting 
+the professors are sending the documents in an online meeting 
+the robot is developing the application online 
+the robots are developing the applications online 
+the computer is saveing the program using the memory 
+the computers are saveing the programs using the memory 
+the engineer is runing the code in paralel 
+the engineers are runing the codes in paralel 
+the student is painting the image at the gallery 
+the students are painting the images at the gallery 
+the kid is designing the picture on the church's ceiling 
+the kids are designing the pictures on the church's ceiling 
+the artist is drawing the cover in this week art magazine 
+the artists are drawing the covers in this week art magazine 
+the wolf is killing the chicken during the night in the mountains 
+the wolfs are killing the chickens during the night in the mountains 
+the bear is catching the mouse near the capital city 
+the bears are catching the mouses near the capital city 
+the tiger is eating the dog in the jungle 
+the tigers are eating the dogs in the jungle 
+the teacher is reviewing the document at school 
+the teachers are reviewing the documents at school 
+the professor is sending the book during the class 
+the professors are sending the books during the class 
+the researcher is posting the letter in an online meeting 
+the researchers are posting the letters in an online meeting 
+the phone is saveing the game in paralel 
+the phones are saveing the games in paralel 
+the robot is editing the program using the memory 
+the robots are editing the programs using the memory 
+the computer is developing the application online 
+the computers are developing the applications online 
+the kid is painting the image at the gallery 
+the kids are painting the images at the gallery 
+the designer is drawing the cover in this week art magazine 
+the designers are drawing the covers in this week art magazine 
+the artist is designing the picture on the church's ceiling 
+the artists are designing the pictures on the church's ceiling 
+the wolf is chaseing the hunter in the jungle 
+the wolfs are chaseing the hunters in the jungle 
+the bear is catching the dog near the capital city 
+the bears are catching the dogs near the capital city 
+the lion is eating the mouse during the night in the mountains 
+the lions are eating the mouses during the night in the mountains 
+the teacher is sending the book at school 
+the teachers are sending the books at school 
+the student is reviewing the letter in an online meeting 
+the students are reviewing the letters in an online meeting 
+the researcher is posting the document during the class 
+the researchers are posting the documents during the class 
+the robot is editing the code using the memory 
+the robots are editing the codes using the memory 
+the computer is runing the application in paralel 
+the computers are runing the applications in paralel 
+the phone is saveing the program online 
+the phones are saveing the programs online 
+the student is illustrateing the cover at the gallery 
+the students are illustrateing the covers at the gallery 
+the designer is designing the portrait on the church's ceiling 
+the designers are designing the portraits on the church's ceiling 
+the bear is killing the hunter near the capital city 
+the bears are killing the hunters near the capital city 
+the tiger is chaseing the mouse during the night in the mountains 
+the tigers are chaseing the mouses during the night in the mountains 
+the lion is catching the dog in the jungle 
+the lions are catching the dogs in the jungle 
+the researcher is sending the article in an online meeting 
+the researchers are sending the articles in an online meeting 
+the teacher is writeing the book during the class 
+the teachers are writeing the books during the class 
+the engineer is editing the game in paralel 
+the engineers are editing the games in paralel 
+the computer is saveing the code online 
+the computers are saveing the codes online 
+the robot is runing the application using the memory 
+the robots are runing the applications using the memory 
+the student is designing the portrait on the church's ceiling 
+the students are designing the portraits on the church's ceiling 
+the kid is drawing the image at the gallery 
+the kids are drawing the images at the gallery 
+the artist is illustrateing the cover in this week art magazine 
+the artists are illustrateing the covers in this week art magazine 
+the lion is killing the chicken in the jungle 
+the lions are killing the chickens in the jungle 
+the tiger is chaseing the dog during the night in the mountains 
+the tigers are chaseing the dogs during the night in the mountains 
+the wolf is eating the mouse near the capital city 
+the wolfs are eating the mouses near the capital city 
+the researcher is reviewing the book at school 
+the researchers are reviewing the books at school 
+the teacher is sending the document in an online meeting 
+the teachers are sending the documents in an online meeting 
+the professor is posting the article during the class 
+the professors are posting the articles during the class 
+the phone is runing the game in paralel 
+the phones are runing the games in paralel 
+the designer is illustrateing the cover at the gallery 
+the designers are illustrateing the covers at the gallery 
+the artist is drawing the image on the church's ceiling 
+the artists are drawing the images on the church's ceiling 
+the tiger is catching the dog during the night in the mountains 
+the tigers are catching the dogs during the night in the mountains 
+the bear is eating the chicken in the jungle 
+the bears are eating the chickens in the jungle 
+the wolf is chaseing the mouse near the capital city 
+the wolfs are chaseing the mouses near the capital city 
+the researcher is sending the letter at school 
+the researchers are sending the letters at school 
+the teacher is reviewing the book during the class 
+the teachers are reviewing the books during the class 
+the engineer is developing the game in paralel 
+the engineers are developing the games in paralel 
+the robot is runing the code online 
+the robots are runing the codes online 
+the artist is designing the portrait at the gallery 
+the artists are designing the portraits at the gallery 
+the wolf catchs the chicken during the night in the mountains 
+the wolfs catch the chickens during the night in the mountains 
+the lion chases the hunter in the jungle 
+the lions chase the hunters in the jungle 
+the tiger eats the mouse near the capital city 
+the tigers eat the mouses near the capital city 
+the teacher posts the book at school 
+the teachers post the books at school 
+the researcher writes the article during the class 
+the researchers write the articles during the class 
+the student reviews the document in an online meeting 
+the students review the documents in an online meeting 
+the computer develops the game in paralel 
+the computers develop the games in paralel 
+the robot saves the code using the memory 
+the robots save the codes using the memory 
+the phone runs the program online 
+the phones run the programs online 
+the student draws the picture in this week art magazine 
+the students draw the pictures in this week art magazine 
+the artist paints the image at the gallery 
+the artists paint the images at the gallery 
+the designer illustrates the portrait on the church's ceiling 
+the designers illustrate the portraits on the church's ceiling 
+the lion eats the hunter in the jungle 
+the lions eat the hunters in the jungle 
+the bear chases the dog during the night in the mountains 
+the bears chase the dogs during the night in the mountains 
+the tiger kills the mouse near the capital city 
+the tigers kill the mouses near the capital city 
+the teacher posts the letter during the class 
+the teachers post the letters during the class 
+the professor sends the document in an online meeting 
+the professors send the documents in an online meeting 
+the robot develops the application online 
+the robots develop the applications online 
+the computer saves the program using the memory 
+the computers save the programs using the memory 
+the engineer runs the code in paralel 
+the engineers run the codes in paralel 
+the student paints the image at the gallery 
+the students paint the images at the gallery 
+the kid designs the picture on the church's ceiling 
+the kids design the pictures on the church's ceiling 
+the artist draws the cover in this week art magazine 
+the artists draw the covers in this week art magazine 
+the wolf kills the chicken during the night in the mountains 
+the wolfs kill the chickens during the night in the mountains 
+the bear catchs the mouse near the capital city 
+the bears catch the mouses near the capital city 
+the tiger eats the dog in the jungle 
+the tigers eat the dogs in the jungle 
+the teacher reviews the document at school 
+the teachers review the documents at school 
+the professor sends the book during the class 
+the professors send the books during the class 
+the researcher posts the letter in an online meeting 
+the researchers post the letters in an online meeting 
+the phone saves the game in paralel 
+the phones save the games in paralel 
+the robot edits the program using the memory 
+the robots edit the programs using the memory 
+the computer develops the application online 
+the computers develop the applications online 
+the kid paints the image at the gallery 
+the kids paint the images at the gallery 
+the designer draws the cover in this week art magazine 
+the designers draw the covers in this week art magazine 
+the artist designs the picture on the church's ceiling 
+the artists design the pictures on the church's ceiling 
+the wolf chases the hunter in the jungle 
+the wolfs chase the hunters in the jungle 
+the bear catchs the dog near the capital city 
+the bears catch the dogs near the capital city 
+the lion eats the mouse during the night in the mountains 
+the lions eat the mouses during the night in the mountains 
+the teacher sends the book at school 
+the teachers send the books at school 
+the student reviews the letter in an online meeting 
+the students review the letters in an online meeting 
+the researcher posts the document during the class 
+the researchers post the documents during the class 
+the robot edits the code using the memory 
+the robots edit the codes using the memory 
+the computer runs the application in paralel 
+the computers run the applications in paralel 
+the phone saves the program online 
+the phones save the programs online 
+the student illustrates the cover at the gallery 
+the students illustrate the covers at the gallery 
+the designer designs the portrait on the church's ceiling 
+the designers design the portraits on the church's ceiling 
+the bear kills the hunter near the capital city 
+the bears kill the hunters near the capital city 
+the tiger chases the mouse during the night in the mountains 
+the tigers chase the mouses during the night in the mountains 
+the lion catchs the dog in the jungle 
+the lions catch the dogs in the jungle 
+the researcher sends the article in an online meeting 
+the researchers send the articles in an online meeting 
+the teacher writes the book during the class 
+the teachers write the books during the class 
+the engineer edits the game in paralel 
+the engineers edit the games in paralel 

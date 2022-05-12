@@ -1,0 +1,400 @@
+the god produces the author 
+the author is produced by the god 
+the pepsi keeps the thief 
+the thief is kept by the pepsi 
+the thief plans the house 
+the house is planned by the thief 
+the robot allows the text 
+the text is allowed by the robot 
+the dog leads the magazine 
+the magazine is led by the dog 
+the piano launches the gas 
+the gas is launched by the piano 
+the gas launches the lion 
+the lion is launched by the gas 
+the pencil builds the widow 
+the widow is built by the pencil 
+the house keeps the rocket 
+the rocket is kept by the house 
+the gas gets the magazine 
+the magazine is gotten by the gas 
+the lion earns the gas 
+the gas is earned by the lion 
+the ufo builds the image 
+the image is built by the ufo 
+the house clears the baby 
+the baby is cleared by the house 
+the piano leads the oil 
+the oil is led by the piano 
+the baby leads the chief 
+the chief is led by the baby 
+the god builds the drug 
+the drug is built by the god 
+the magazine earns the pepsi 
+the pepsi is earned by the magazine 
+the rocket plays the baby 
+the baby is played by the rocket 
+the pepsi clears the robot 
+the robot is cleared by the pepsi 
+the robot leads the chief 
+the chief is led by the robot 
+the text says the image 
+the image is said by the text 
+the pepsi sells the thief 
+the thief is sold by the pepsi 
+the image plays the pencil 
+the pencil is played by the image 
+the pepsi manages the gas 
+the gas is managed by the pepsi 
+the ufo names the god 
+the god is named by the ufo 
+the thief knows the chief 
+the chief is known by the thief 
+the author clears the image 
+the image is cleared by the author 
+the drug clears the author 
+the author is cleared by the drug 
+the chief builds the drug 
+the drug is built by the chief 
+the text gets the widow 
+the widow is gotten by the text 
+the ufo plays the widow 
+the widow is played by the ufo 
+the chief says the ufo 
+the ufo is said by the chief 
+the oil allows the rocket 
+the rocket is allowed by the oil 
+the gas keeps the ufo 
+the ufo is kept by the gas 
+the author plans the piano 
+the piano is planned by the author 
+the pepsi names the lion 
+the lion is named by the pepsi 
+the ufo produces the pencil 
+the pencil is produced by the ufo 
+the thief produces the drug 
+the drug is produced by the thief 
+the piano builds the gas 
+the gas is built by the piano 
+the pepsi clears the oil 
+the oil is cleared by the pepsi 
+the house knows the dog 
+the dog is known by the house 
+the pepsi produces the gas 
+the gas is produced by the pepsi 
+the image builds the dog 
+the dog is built by the image 
+the image launches the magazine 
+the magazine is launched by the image 
+the lion replaces the image 
+the image is replaced by the lion 
+the pencil leads the house 
+the house is led by the pencil 
+the rocket builds the drug 
+the drug is built by the rocket 
+the god keeps the image 
+the image is kept by the god 
+the ufo gets the baby 
+the baby is gotten by the ufo 
+the widow plans the dog 
+the dog is planned by the widow 
+the drug replaces the thief 
+the thief is replaced by the drug 
+the author earns the oil 
+the oil is earned by the author 
+the text launches the oil 
+the oil is launched by the text 
+the pepsi plans the ufo 
+the ufo is planned by the pepsi 
+the pepsi plans the gas 
+the gas is planned by the pepsi 
+the pencil builds the baby 
+the baby is built by the pencil 
+the pencil launches the drug 
+the drug is launched by the pencil 
+the thief leads the rocket 
+the rocket is led by the thief 
+the ufo earns the oil 
+the oil is earned by the ufo 
+the pepsi knows the dog 
+the dog is known by the pepsi 
+the baby produces the god 
+the god is produced by the baby 
+the chief plays the piano 
+the piano is played by the chief 
+the gas plays the dog 
+the dog is played by the gas 
+the piano keeps the thief 
+the thief is kept by the piano 
+the gas allows the image 
+the image is allowed by the gas 
+the dog builds the robot 
+the robot is built by the dog 
+the thief plans the drug 
+the drug is planned by the thief 
+the house is managing the author in the live show 
+the author is being managed by the house in the live show 
+the magazine is keeping the widow in the building around the corner 
+the widow is being kept by the magazine in the building around the corner 
+the image is knowing the widow as a mission during the war 
+the widow is being known by the image as a mission during the war 
+the thief is knowing the text in europe 
+the text is being known by the thief in europe 
+the thief is naming the image in the building around the corner 
+the image is being named by the thief in the building around the corner 
+the piano is planning the god in the city 
+the god is being planned by the piano in the city 
+the author is clearing the drug as a mission during the war 
+the drug is being cleared by the author as a mission during the war 
+the magazine is getting the house in the building around the corner 
+the house is being gotten by the magazine in the building around the corner 
+the baby is playing the rocket in the live show 
+the rocket is being played by the baby in the live show 
+the pencil is playing the chief in europe 
+the chief is being played by the pencil in europe 
+the magazine is keeping the image in europe 
+the image is being kept by the magazine in europe 
+the text is replacing the chief in europe 
+the chief is being replaced by the text in europe 
+the robot is knowing the gas in the city 
+the gas is being known by the robot in the city 
+the image is earning the widow in the building around the corner 
+the widow is being earned by the image in the building around the corner 
+the robot is knowing the text in europe 
+the text is being known by the robot in europe 
+the drug is saying the image in the building around the corner 
+the image is being said by the drug in the building around the corner 
+the piano is planning the lion as a mission during the war 
+the lion is being planned by the piano as a mission during the war 
+the drug is getting the oil as a mission during the war 
+the oil is being gotten by the drug as a mission during the war 
+the god is getting the image as a mission during the war 
+the image is being gotten by the god as a mission during the war 
+the dog is playing the rocket in europe 
+the rocket is being played by the dog in europe 
+the drug is building the author in the city 
+the author is being built by the drug in the city 
+the house is planning the pepsi as a mission during the war 
+the pepsi is being planned by the house as a mission during the war 
+the magazine is replacing the baby in the live show 
+the baby is being replaced by the magazine in the live show 
+the chief is building the dog as a mission during the war 
+the dog is being built by the chief as a mission during the war 
+the author is getting the lion in the city 
+the lion is being gotten by the author in the city 
+the pencil is naming the piano as a mission during the war 
+the piano is being named by the pencil as a mission during the war 
+the baby is playing the gas in europe 
+the gas is being played by the baby in europe 
+the oil is planning the image as a mission during the war 
+the image is being planned by the oil as a mission during the war 
+the house is planning the baby in the city 
+the baby is being planned by the house in the city 
+the magazine is allowing the pepsi as a mission during the war 
+the pepsi is being allowed by the magazine as a mission during the war 
+the house is playing the baby in the live show 
+the baby is being played by the house in the live show 
+the lion is getting the chief in the city 
+the chief is being gotten by the lion in the city 
+the text is producing the robot in the city 
+the robot is being produced by the text in the city 
+the rocket is building the drug in the building around the corner 
+the drug is being built by the rocket in the building around the corner 
+the gas is launching the magazine in the building around the corner 
+the magazine is being launched by the gas in the building around the corner 
+the author is planning the baby as a mission during the war 
+the baby is being planned by the author as a mission during the war 
+the pencil is knowing the chief in the building around the corner 
+the chief is being known by the pencil in the building around the corner 
+the lion is allowing the thief in the city 
+the thief is being allowed by the lion in the city 
+the house is leading the thief as a mission during the war 
+the thief is being led by the house as a mission during the war 
+the ufo is earning the oil in europe 
+the oil is being earned by the ufo in europe 
+the author is saying the ufo in europe 
+the ufo is being said by the author in europe 
+the dog is building the image in the building around the corner 
+the image is being built by the dog in the building around the corner 
+the drug is knowing the widow in the city 
+the widow is being known by the drug in the city 
+the pepsi is earning the widow as a mission during the war 
+the widow is being earned by the pepsi as a mission during the war 
+the author is planning the lion in the building around the corner 
+the lion is being planned by the author in the building around the corner 
+the rocket is allowing the oil in europe 
+the oil is being allowed by the rocket in europe 
+the drug is naming the piano in the building around the corner 
+the piano is being named by the drug in the building around the corner 
+the thief is managing the pencil in europe 
+the pencil is being managed by the thief in europe 
+the oil is knowing the god in the city 
+the god is being known by the oil in the city 
+the god is keeping the pencil in the live show 
+the pencil is being kept by the god in the live show 
+the thief is producing the gas in the building around the corner 
+the gas is being produced by the thief in the building around the corner 
+the piano is keeping the lion in europe 
+the lion is being kept by the piano in europe 
+the robot is building the image as a mission during the war 
+the image is being built by the robot as a mission during the war 
+the magazine is allowing the oil in europe 
+the oil is being allowed by the magazine in europe 
+the magazine is getting the pencil in the city 
+the pencil is being gotten by the magazine in the city 
+the drug is leading the widow in europe 
+the widow is being led by the drug in europe 
+the pepsi is allowing the house as a mission during the war 
+the house is being allowed by the pepsi as a mission during the war 
+the rocket is allowing the ufo in the city 
+the ufo is being allowed by the rocket in the city 
+the god is getting the lion in the building around the corner 
+the lion is being gotten by the god in the building around the corner 
+the robot is launching the chief in the live show 
+the chief is being launched by the robot in the live show 
+the pepsi is playing the ufo in the building around the corner 
+the ufo is being played by the pepsi in the building around the corner 
+the image is building the rocket as a mission during the war 
+the rocket is being built by the image as a mission during the war 
+the pencil is knowing the text in europe 
+the text is being known by the pencil in europe 
+the robot is launching the rocket in the live show 
+the rocket is being launched by the robot in the live show 
+the gas is playing the text in the live show 
+the text is being played by the gas in the live show 
+the magazine is naming the god in the city 
+the god is being named by the magazine in the city 
+the text is playing the rocket in the live show 
+the rocket is being played by the text in the live show 
+the oil allows the baby in the live show 
+the baby is allowed by the oil in the live show 
+the text plays the magazine in the city 
+the magazine is played by the text in the city 
+the image names the author in europe 
+the author is named by the image in europe 
+the lion launches the oil in the city 
+the oil is launched by the lion in the city 
+the rocket launches the pepsi in the building around the corner 
+the pepsi is launched by the rocket in the building around the corner 
+the ufo knows the house as a mission during the war 
+the house is known by the ufo as a mission during the war 
+the author gets the pepsi in the city 
+the pepsi is gotten by the author in the city 
+the oil builds the robot in the city 
+the robot is built by the oil in the city 
+the text replaces the ufo as a mission during the war 
+the ufo is replaced by the text as a mission during the war 
+the widow launches the magazine in europe 
+the magazine is launched by the widow in europe 
+the ufo leads the thief as a mission during the war 
+the thief is led by the ufo as a mission during the war 
+the chief clears the god in the city 
+the god is cleared by the chief in the city 
+the robot plans the oil as a mission during the war 
+the oil is planned by the robot as a mission during the war 
+the piano allows the house in the live show 
+the house is allowed by the piano in the live show 
+the magazine knows the pencil in the building around the corner 
+the pencil is known by the magazine in the building around the corner 
+the lion manages the pencil in europe 
+the pencil is managed by the lion in europe 
+the rocket names the ufo in the city 
+the ufo is named by the rocket in the city 
+the rocket launches the widow as a mission during the war 
+the widow is launched by the rocket as a mission during the war 
+the thief launches the image in the city 
+the image is launched by the thief in the city 
+the drug manages the image in the city 
+the image is managed by the drug in the city 
+the pepsi says the author in the building around the corner 
+the author is said by the pepsi in the building around the corner 
+the thief produces the oil in europe 
+the oil is produced by the thief in europe 
+the text plays the image in the city 
+the image is played by the text in the city 
+the pepsi says the gas in the city 
+the gas is said by the pepsi in the city 
+the pencil replaces the thief in europe 
+the thief is replaced by the pencil in europe 
+the piano produces the author in the building around the corner 
+the author is produced by the piano in the building around the corner 
+the chief builds the god in the building around the corner 
+the god is built by the chief in the building around the corner 
+the lion builds the thief in the building around the corner 
+the thief is built by the lion in the building around the corner 
+the lion produces the house in the building around the corner 
+the house is produced by the lion in the building around the corner 
+the lion allows the god in the live show 
+the god is allowed by the lion in the live show 
+the author says the piano in the city 
+the piano is said by the author in the city 
+the drug clears the thief in europe 
+the thief is cleared by the drug in europe 
+the widow knows the piano in the live show 
+the piano is known by the widow in the live show 
+the baby plays the ufo in the live show 
+the ufo is played by the baby in the live show 
+the oil allows the robot in europe 
+the robot is allowed by the oil in europe 
+the widow launches the robot as a mission during the war 
+the robot is launched by the widow as a mission during the war 
+the ufo plans the pencil in the building around the corner 
+the pencil is planned by the ufo in the building around the corner 
+the gas allows the rocket in the building around the corner 
+the rocket is allowed by the gas in the building around the corner 
+the pepsi gets the chief in the building around the corner 
+the chief is gotten by the pepsi in the building around the corner 
+the author builds the rocket in the building around the corner 
+the rocket is built by the author in the building around the corner 
+the robot sells the gas in the building around the corner 
+the gas is sold by the robot in the building around the corner 
+the pepsi gets the piano in the city 
+the piano is gotten by the pepsi in the city 
+the piano replaces the image in the city 
+the image is replaced by the piano in the city 
+the baby produces the house as a mission during the war 
+the house is produced by the baby as a mission during the war 
+the piano produces the image in europe 
+the image is produced by the piano in europe 
+the magazine says the baby in europe 
+the baby is said by the magazine in europe 
+the dog launches the gas in the building around the corner 
+the gas is launched by the dog in the building around the corner 
+the chief clears the author as a mission during the war 
+the author is cleared by the chief as a mission during the war 
+the chief plans the rocket as a mission during the war 
+the rocket is planned by the chief as a mission during the war 
+the pepsi keeps the ufo in europe 
+the ufo is kept by the pepsi in europe 
+the piano launches the god in the live show 
+the god is launched by the piano in the live show 
+the god leads the rocket in the building around the corner 
+the rocket is led by the god in the building around the corner 
+the piano allows the magazine in the building around the corner 
+the magazine is allowed by the piano in the building around the corner 
+the ufo launches the robot in europe 
+the robot is launched by the ufo in europe 
+the text produces the oil as a mission during the war 
+the oil is produced by the text as a mission during the war 
+the ufo keeps the lion in europe 
+the lion is kept by the ufo in europe 
+the oil replaces the thief in europe 
+the thief is replaced by the oil in europe 
+the author manages the pepsi in the building around the corner 
+the pepsi is managed by the author in the building around the corner 
+the ufo replaces the pepsi in the city 
+the pepsi is replaced by the ufo in the city 
+the widow names the author as a mission during the war 
+the author is named by the widow as a mission during the war 
+the rocket replaces the god in the building around the corner 
+the god is replaced by the rocket in the building around the corner 
+the ufo replaces the dog in the building around the corner 
+the dog is replaced by the ufo in the building around the corner 
+the piano earns the magazine as a mission during the war 
+the magazine is earned by the piano as a mission during the war 
+the magazine builds the oil as a mission during the war 
+the oil is built by the magazine as a mission during the war 
+the baby allows the ufo in the building around the corner 
+the ufo is allowed by the baby in the building around the corner 
+the thief earns the god in the building around the corner 
+the god is earned by the thief in the building around the corner

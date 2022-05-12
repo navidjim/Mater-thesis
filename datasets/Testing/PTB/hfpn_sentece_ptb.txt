@@ -1,0 +1,400 @@
+the drug allows the oil 
+the drug does not allow the oil 
+the house replaces the oil 
+the house does not replace the oil 
+the oil clears the house 
+the oil does not clear the house 
+the gas sells the magazine 
+the gas does not sell the magazine 
+the image replaces the chief 
+the image does not replace the chief 
+the house sells the gas 
+the house does not sell the gas 
+the oil replaces the gas 
+the oil does not replace the gas 
+the house manages the oil 
+the house does not manage the oil 
+the chief replaces the house 
+the chief does not replace the house 
+the house manages the image 
+the house does not manage the image 
+the image plans the chief 
+the image does not plan the chief 
+the oil sells the chief 
+the oil does not sell the chief 
+the house allows the gas 
+the house does not allow the gas 
+the magazine clears the oil 
+the magazine does not clear the oil 
+the drug manages the magazine 
+the drug does not manage the magazine 
+the magazine allows the house 
+the magazine does not allow the house 
+the magazine plans the oil 
+the magazine does not plan the oil 
+the gas allows the house 
+the gas does not allow the house 
+the image clears the oil 
+the image does not clear the oil 
+the house allows the oil 
+the house does not allow the oil 
+the magazine plans the house 
+the magazine does not plan the house 
+the oil replaces the drug 
+the oil does not replace the drug 
+the gas clears the oil 
+the gas does not clear the oil 
+the house replaces the magazine 
+the house does not replace the magazine 
+the magazine manages the image 
+the magazine does not manage the image 
+the gas plans the chief 
+the gas does not plan the chief 
+the chief manages the drug 
+the chief does not manage the drug 
+the gas replaces the chief 
+the gas does not replace the chief 
+the oil allows the drug 
+the oil does not allow the drug 
+the house clears the oil 
+the house does not clear the oil 
+the chief manages the magazine 
+the chief does not manage the magazine 
+the gas clears the image 
+the gas does not clear the image 
+the magazine plans the drug 
+the magazine does not plan the drug 
+the chief sells the magazine 
+the chief does not sell the magazine 
+the magazine replaces the oil 
+the magazine does not replace the oil 
+the oil clears the drug 
+the oil does not clear the drug 
+the magazine allows the image 
+the magazine does not allow the image 
+the gas manages the oil 
+the gas does not manage the oil 
+the chief plans the magazine 
+the chief does not plan the magazine 
+the house sells the image 
+the house does not sell the image 
+the house replaces the drug 
+the house does not replace the drug 
+the chief clears the oil 
+the chief does not clear the oil 
+the gas sells the image 
+the gas does not sell the image 
+the house manages the chief 
+the house does not manage the chief 
+the magazine manages the drug 
+the magazine does not manage the drug 
+the gas manages the house 
+the gas does not manage the house 
+the image replaces the oil 
+the image does not replace the oil 
+the oil clears the magazine 
+the oil does not clear the magazine 
+the magazine manages the chief 
+the magazine does not manage the chief 
+the gas plans the drug 
+the gas does not plan the drug 
+the oil clears the image 
+the oil does not clear the image 
+the drug replaces the oil 
+the drug does not replace the oil 
+the house plans the chief 
+the house does not plan the chief 
+the drug clears the house 
+the drug does not clear the house 
+the house sells the drug 
+the house does not sell the drug 
+the house plans the image 
+the house does not plan the image 
+the drug plans the oil 
+the drug does not plan the oil 
+the drug replaces the image 
+the drug does not replace the image 
+the image sells the chief 
+the image does not sell the chief 
+the drug plans the house 
+the drug does not plan the house 
+the magazine sells the house 
+the magazine does not sell the house 
+the chief clears the image 
+the chief does not clear the image 
+the image clears the chief 
+the image does not clear the chief 
+the oil allows the gas 
+the oil does not allow the gas 
+the image allows the oil 
+the image does not allow the oil 
+the magazine replaces the drug 
+the magazine does not replace the drug 
+the drug allows the image 
+the drug does not allow the image 
+the oil plans the gas 
+the oil does not plan the gas 
+the image allows the gas 
+the image does not allow the gas 
+the drug sells the oil 
+the drug does not sell the oil 
+the drug sells the chief 
+the drug does not sell the chief 
+the image replaces the house 
+the image does not replace the house 
+the house sells the oil 
+the house does not sell the oil 
+the house clears the image 
+the house does not clear the image 
+the gas sells the house 
+the gas does not sell the house 
+the image sells the house 
+the image does not sell the house 
+the gas clears the magazine 
+the gas does not clear the magazine 
+the image allows the drug 
+the image does not allow the drug 
+the house clears the magazine 
+the house does not clear the magazine 
+the drug manages the oil 
+the drug does not manage the oil 
+the gas allows the chief 
+the gas does not allow the chief 
+the drug allows the house 
+the drug does not allow the house 
+the magazine sells the oil 
+the magazine does not sell the oil 
+the chief replaces the oil 
+the chief does not replace the oil 
+the oil manages the chief 
+the oil does not manage the chief 
+the chief allows the magazine 
+the chief does not allow the magazine 
+the oil replaces the magazine 
+the oil does not replace the magazine 
+the chief allows the gas 
+the chief does not allow the gas 
+the house plans the drug 
+the house does not plan the drug 
+the image manages the drug 
+the image does not manage the drug 
+the oil plans the image 
+the oil does not plan the image 
+the drug sells the gas 
+the drug does not sell the gas 
+the magazine manages the oil 
+the magazine does not manage the oil 
+the house clears the drug 
+the house does not clear the drug 
+the oil allows the magazine 
+the oil does not allow the magazine 
+the drug manages the image 
+the drug does not manage the image 
+the oil replaces the chief 
+the oil does not replace the chief 
+the drug plans the gas 
+the drug does not plan the gas 
+the image replaces the magazine 
+the image does not replace the magazine 
+the gas allows the drug 
+the gas does not allow the drug 
+the magazine clears the house 
+the magazine does not clear the house 
+the gas replaces the drug 
+the gas does not replace the drug 
+the magazine sells the image 
+the magazine does not sell the image 
+the chief replaces the drug 
+the chief does not replace the drug 
+the image replaces the gas 
+the image does not replace the gas 
+the oil manages the drug 
+the oil does not manage the drug 
+the house allows the chief 
+the house does not allow the chief 
+the image manages the magazine 
+the image does not manage the magazine 
+the house clears the gas 
+the house does not clear the gas 
+the image plans the house 
+the image does not plan the house 
+the magazine sells the drug 
+the magazine does not sell the drug 
+the drug plans the chief 
+the drug does not plan the chief 
+the magazine allows the drug 
+the magazine does not allow the drug 
+the magazine clears the image 
+the magazine does not clear the image 
+the image sells the drug 
+the image does not sell the drug 
+the image sells the magazine 
+the image does not sell the magazine 
+the gas manages the drug 
+the gas does not manage the drug 
+the image clears the house 
+the image does not clear the house 
+the magazine clears the gas 
+the magazine does not clear the gas 
+the chief allows the house 
+the chief does not allow the house 
+the oil plans the house 
+the oil does not plan the house 
+the oil allows the chief 
+the oil does not allow the chief 
+the gas replaces the oil 
+the gas does not replace the oil 
+the oil plans the drug 
+the oil does not plan the drug 
+the magazine replaces the image 
+the magazine does not replace the image 
+the drug clears the gas 
+the drug does not clear the gas 
+the oil replaces the house 
+the oil does not replace the house 
+the chief clears the gas 
+the chief does not clear the gas 
+the magazine clears the drug 
+the magazine does not clear the drug 
+the magazine replaces the gas 
+the magazine does not replace the gas 
+the drug allows the magazine 
+the drug does not allow the magazine 
+the drug clears the chief 
+the drug does not clear the chief 
+the magazine allows the gas 
+the magazine does not allow the gas 
+the chief replaces the gas 
+the chief does not replace the gas 
+the drug clears the image 
+the drug does not clear the image 
+the image plans the drug 
+the image does not plan the drug 
+the image manages the house 
+the image does not manage the house 
+the drug manages the chief 
+the drug does not manage the chief 
+the oil sells the house 
+the oil does not sell the house 
+the magazine plans the image 
+the magazine does not plan the image 
+the house allows the drug 
+the house does not allow the drug 
+the image sells the gas 
+the image does not sell the gas 
+the image manages the chief 
+the image does not manage the chief 
+the oil clears the chief 
+the oil does not clear the chief 
+the gas allows the magazine 
+the gas does not allow the magazine 
+the magazine allows the oil 
+the magazine does not allow the oil 
+the house manages the drug 
+the house does not manage the drug 
+the drug sells the house 
+the drug does not sell the house 
+the magazine sells the gas 
+the magazine does not sell the gas 
+the image manages the oil 
+the image does not manage the oil 
+the magazine clears the chief 
+the magazine does not clear the chief 
+the image replaces the drug 
+the image does not replace the drug 
+the drug plans the magazine 
+the drug does not plan the magazine 
+the house clears the chief 
+the house does not clear the chief 
+the drug plans the image 
+the drug does not plan the image 
+the gas replaces the house 
+the gas does not replace the house 
+the oil allows the image 
+the oil does not allow the image 
+the gas plans the image 
+the gas does not plan the image 
+the chief manages the image 
+the chief does not manage the image 
+the gas sells the chief 
+the gas does not sell the chief 
+the chief sells the drug 
+the chief does not sell the drug 
+the oil sells the magazine 
+the oil does not sell the magazine 
+the chief plans the house 
+the chief does not plan the house 
+the house replaces the chief 
+the house does not replace the chief 
+the magazine allows the chief 
+the magazine does not allow the chief 
+the chief clears the house 
+the chief does not clear the house 
+the house allows the magazine 
+the house does not allow the magazine 
+the oil clears the gas 
+the oil does not clear the gas 
+the house plans the gas 
+the house does not plan the gas 
+the gas clears the house 
+the gas does not clear the house 
+the drug replaces the gas 
+the drug does not replace the gas 
+the image manages the gas 
+the image does not manage the gas 
+the gas manages the chief 
+the gas does not manage the chief 
+the chief manages the oil 
+the chief does not manage the oil 
+the drug sells the magazine 
+the drug does not sell the magazine 
+the oil manages the gas 
+the oil does not manage the gas 
+the oil sells the gas 
+the oil does not sell the gas 
+the chief allows the drug 
+the chief does not allow the drug 
+the chief replaces the image 
+the chief does not replace the image 
+the magazine manages the house 
+the magazine does not manage the house 
+the image sells the oil 
+the image does not sell the oil 
+the gas plans the magazine 
+the gas does not plan the magazine 
+the house replaces the gas 
+the house does not replace the gas 
+the image clears the drug 
+the image does not clear the drug 
+the gas plans the house 
+the gas does not plan the house 
+the image plans the magazine 
+the image does not plan the magazine 
+the gas sells the oil 
+the gas does not sell the oil 
+the image allows the magazine 
+the image does not allow the magazine 
+the image clears the gas 
+the image does not clear the gas 
+the house allows the image 
+the house does not allow the image 
+the gas plans the oil 
+the gas does not plan the oil 
+the chief plans the drug 
+the chief does not plan the drug 
+the chief plans the oil 
+the chief does not plan the oil 
+the image plans the oil 
+the image does not plan the oil 
+the chief allows the oil 
+the chief does not allow the oil 
+the house plans the oil 
+the house does not plan the oil 
+the chief manages the gas 
+the chief does not manage the gas 
+the chief manages the house 
+the chief does not manage the house 
+the house sells the magazine 
+the house does not sell the magazine 
+the gas manages the image 
+the gas does not manage the image 

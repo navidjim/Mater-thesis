@@ -1,0 +1,400 @@
+the bear chases the mouse 
+the bear does not chase the mouse 
+the wolf chases the chicken 
+the wolf does not chase the chicken 
+the tiger chases the hunter 
+the tiger does not chase the hunter 
+the lion catches the mouse 
+the lion does not catch the mouse 
+the bear eats the chicken 
+the bear does not eat the chicken 
+the tiger eats the hunter 
+the tiger does not eat the hunter 
+the tiger kills the hunter 
+the tiger does not kill the hunter 
+the lion eats the mouse 
+the lion does not eat the mouse 
+the bear catches the mouse 
+the bear does not catch the mouse 
+the bear chases the dog 
+the bear does not chase the dog 
+the tiger catches the hunter 
+the tiger does not catch the hunter 
+the lion kills the mouse 
+the lion does not kill the mouse 
+the bear catches the dog 
+the bear does not catch the dog 
+the wolf kills the mouse 
+the wolf does not kill the mouse 
+the tiger kills the dog 
+the tiger does not kill the dog 
+the lion chases the chicken 
+the lion does not chase the chicken 
+the wolf eats the hunter 
+the wolf does not eat the hunter 
+the lion catches the dog 
+the lion does not catch the dog 
+the lion eats the hunter 
+the lion does not eat the hunter 
+the wolf eats the mouse 
+the wolf does not eat the mouse 
+the bear eats the mouse 
+the bear does not eat the mouse 
+the tiger kills the chicken 
+the tiger does not kill the chicken 
+the tiger catches the chicken 
+the tiger does not catch the chicken 
+the wolf chases the dog 
+the wolf does not chase the dog 
+the tiger eats the mouse 
+the tiger does not eat the mouse 
+the wolf kills the hunter 
+the wolf does not kill the hunter 
+the bear kills the hunter 
+the bear does not kill the hunter 
+the tiger chases the dog 
+the tiger does not chase the dog 
+the lion chases the hunter 
+the lion does not chase the hunter 
+the lion kills the hunter 
+the lion does not kill the hunter 
+the tiger catches the mouse 
+the tiger does not catch the mouse 
+the wolf chases the mouse 
+the wolf does not chase the mouse 
+the lion kills the dog 
+the lion does not kill the dog 
+the bear catches the chicken 
+the bear does not catch the chicken 
+the wolf eats the dog 
+the wolf does not eat the dog 
+the wolf eats the chicken 
+the wolf does not eat the chicken 
+the bear eats the hunter 
+the bear does not eat the hunter 
+the wolf catches the mouse 
+the wolf does not catch the mouse 
+the tiger chases the chicken 
+the tiger does not chase the chicken 
+the tiger kills the mouse 
+the tiger does not kill the mouse 
+the bear chases the chicken 
+the bear does not chase the chicken 
+the lion catches the chicken 
+the lion does not catch the chicken 
+the lion chases the mouse 
+the lion does not chase the mouse 
+the wolf kills the dog 
+the wolf does not kill the dog 
+the bear chases the hunter 
+the bear does not chase the hunter 
+the tiger eats the dog 
+the tiger does not eat the dog 
+the bear kills the dog 
+the bear does not kill the dog 
+the bear kills the chicken 
+the bear does not kill the chicken 
+the lion chases the dog 
+the lion does not chase the dog 
+the wolf kills the chicken 
+the wolf does not kill the chicken 
+the student writes the article 
+the student does not write the article 
+the student writes the book 
+the student does not write the book 
+the professor reviews the letter 
+the professor does not review the letter 
+the teacher writes the article 
+the teacher does not write the article 
+the student reviews the article 
+the student does not review the article 
+the professor posts the article 
+the professor does not post the article 
+the researcher writes the book 
+the researcher does not write the book 
+the teacher writes the document 
+the teacher does not write the document 
+the student sends the document 
+the student does not send the document 
+the student sends the book 
+the student does not send the book 
+the professor posts the document 
+the professor does not post the document 
+the teacher sends the letter 
+the teacher does not send the letter 
+the student posts the article 
+the student does not post the article 
+the professor sends the document 
+the professor does not send the document 
+the researcher reviews the article 
+the researcher does not review the article 
+the student reviews the book 
+the student does not review the book 
+the researcher writes the article 
+the researcher does not write the article 
+the student writes the document 
+the student does not write the document 
+the researcher writes the letter 
+the researcher does not write the letter 
+the student posts the letter 
+the student does not post the letter 
+the professor sends the article 
+the professor does not send the article 
+the teacher sends the article 
+the teacher does not send the article 
+the researcher writes the document 
+the researcher does not write the document 
+the student reviews the document 
+the student does not review the document 
+the professor writes the book 
+the professor does not write the book 
+the student reviews the letter 
+the student does not review the letter 
+the professor writes the document 
+the professor does not write the document 
+the researcher reviews the book 
+the researcher does not review the book 
+the student posts the document 
+the student does not post the document 
+the student posts the book 
+the student does not post the book 
+the professor sends the letter 
+the professor does not send the letter 
+the teacher sends the book 
+the teacher does not send the book 
+the teacher posts the article 
+the teacher does not post the article 
+the professor reviews the book 
+the professor does not review the book 
+the professor posts the book 
+the professor does not post the book 
+the researcher posts the article 
+the researcher does not post the article 
+the teacher posts the letter 
+the teacher does not post the letter 
+the researcher sends the document 
+the researcher does not send the document 
+the student sends the letter 
+the student does not send the letter 
+the professor reviews the document 
+the professor does not review the document 
+the student writes the letter 
+the student does not write the letter 
+the professor sends the book 
+the professor does not send the book 
+the teacher writes the book 
+the teacher does not write the book 
+the teacher reviews the book 
+the teacher does not review the book 
+the teacher reviews the document 
+the teacher does not review the document 
+the teacher sends the document 
+the teacher does not send the document 
+the teacher writes the letter 
+the teacher does not write the letter 
+the professor posts the letter 
+the professor does not post the letter 
+the researcher sends the article 
+the researcher does not send the article 
+the teacher reviews the article 
+the teacher does not review the article 
+the computer runs the game 
+the computer does not run the game 
+the computer runs the program 
+the computer does not run the program 
+the computer edits the code 
+the computer does not edit the code 
+the robot runs the program 
+the robot does not run the program 
+the computer develops the program 
+the computer does not develop the program 
+the computer edits the application 
+the computer does not edit the application 
+the phone runs the game 
+the phone does not run the game 
+the computer develops the application 
+the computer does not develop the application 
+the phone runs the program 
+the phone does not run the program 
+the computer saves the application 
+the computer does not save the application 
+the engineer runs the application 
+the engineer does not run the application 
+the phone develops the program 
+the phone does not develop the program 
+the computer runs the code 
+the computer does not run the code 
+the computer saves the game 
+the computer does not save the game 
+the phone edits the application 
+the phone does not edit the application 
+the robot develops the code 
+the robot does not develop the code 
+the robot develops the game 
+the robot does not develop the game 
+the robot saves the code 
+the robot does not save the code 
+the phone saves the code 
+the phone does not save the code 
+the engineer saves the code 
+the engineer does not save the code 
+the robot runs the game 
+the robot does not run the game 
+the engineer edits the game 
+the engineer does not edit the game 
+the engineer develops the program 
+the engineer does not develop the program 
+the phone runs the code 
+the phone does not run the code 
+the phone develops the application 
+the phone does not develop the application 
+the computer edits the game 
+the computer does not edit the game 
+the robot runs the code 
+the robot does not run the code 
+the phone develops the game 
+the phone does not develop the game 
+the robot develops the application 
+the robot does not develop the application 
+the engineer saves the program 
+the engineer does not save the program 
+the engineer runs the game 
+the engineer does not run the game 
+the computer develops the code 
+the computer does not develop the code 
+the phone edits the program 
+the phone does not edit the program 
+the computer saves the program 
+the computer does not save the program 
+the robot edits the code 
+the robot does not edit the code 
+the phone edits the game 
+the phone does not edit the game 
+the robot saves the program 
+the robot does not save the program 
+the computer develops the game 
+the computer does not develop the game 
+the robot saves the application 
+the robot does not save the application 
+the phone runs the application 
+the phone does not run the application 
+the computer runs the application 
+the computer does not run the application 
+the engineer develops the code 
+the engineer does not develop the code 
+the robot edits the application 
+the robot does not edit the application 
+the phone saves the application 
+the phone does not save the application 
+the phone saves the game 
+the phone does not save the game 
+the phone develops the code 
+the phone does not develop the code 
+the engineer develops the game 
+the engineer does not develop the game 
+the robot runs the application 
+the robot does not run the application 
+the engineer develops the application 
+the engineer does not develop the application 
+the phone saves the program 
+the phone does not save the program 
+the designer paints the image 
+the designer does not paint the image 
+the artist illustrates the picture 
+the artist does not illustrate the picture 
+the artist draws the image 
+the artist does not draw the image 
+the designer designs the portrait 
+the designer does not design the portrait 
+the student designs the image 
+the student does not design the image 
+the designer designs the image 
+the designer does not design the image 
+the artist designs the cover 
+the artist does not design the cover 
+the student illustrates the picture 
+the student does not illustrate the picture 
+the artist draws the picture 
+the artist does not draw the picture 
+the student illustrates the cover 
+the student does not illustrate the cover 
+the designer illustrates the portrait 
+the designer does not illustrate the portrait 
+the artist paints the picture 
+the artist does not paint the picture 
+the designer illustrates the picture 
+the designer does not illustrate the picture 
+the kid designs the picture 
+the kid does not design the picture 
+the designer draws the picture 
+the designer does not draw the picture 
+the student draws the portrait 
+the student does not draw the portrait 
+the student designs the cover 
+the student does not design the cover 
+the kid draws the portrait 
+the kid does not draw the portrait 
+the designer draws the image 
+the designer does not draw the image 
+the artist illustrates the image 
+the artist does not illustrate the image 
+the kid draws the picture 
+the kid does not draw the picture 
+the artist draws the cover 
+the artist does not draw the cover 
+the designer designs the picture 
+the designer does not design the picture 
+the designer paints the portrait 
+the designer does not paint the portrait 
+the designer designs the cover 
+the designer does not design the cover 
+the student draws the cover 
+the student does not draw the cover 
+the student paints the picture 
+the student does not paint the picture 
+the kid designs the portrait 
+the kid does not design the portrait 
+the designer illustrates the cover 
+the designer does not illustrate the cover 
+the kid paints the portrait 
+the kid does not paint the portrait 
+the kid designs the image 
+the kid does not design the image 
+the student draws the image 
+the student does not draw the image 
+the student designs the picture 
+the student does not design the picture 
+the kid illustrates the portrait 
+the kid does not illustrate the portrait 
+the kid paints the picture 
+the kid does not paint the picture 
+the kid illustrates the picture 
+the kid does not illustrate the picture 
+the artist designs the portrait 
+the artist does not design the portrait 
+the designer illustrates the image 
+the designer does not illustrate the image 
+the kid paints the image 
+the kid does not paint the image 
+the student paints the image 
+the student does not paint the image 
+the student designs the portrait 
+the student does not design the portrait 
+the kid paints the cover 
+the kid does not paint the cover 
+the student paints the portrait 
+the student does not paint the portrait 
+the artist draws the portrait 
+the artist does not draw the portrait 
+the designer draws the cover 
+the designer does not draw the cover 
+the kid designs the cover 
+the kid does not design the cover 
+the designer paints the picture 
+the designer does not paint the picture 
+the student illustrates the portrait 
+the student does not illustrate the portrait 
+the student paints the cover 
+the student does not paint the cover 
+the designer paints the cover 
+the designer does not paint the cover

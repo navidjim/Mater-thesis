@@ -1,0 +1,400 @@
+the dog gets the baby 
+the dog does not get the baby 
+the baby keeps the god 
+the baby does not keep the god 
+the pencil says the god 
+the pencil does not say the god 
+the dog names the baby 
+the dog does not name the baby 
+the god names the pencil 
+the god does not name the pencil 
+the author produces the text 
+the author does not produce the text 
+the author names the lion 
+the author does not name the lion 
+the dog says the lion 
+the dog does not say the lion 
+the baby produces the lion 
+the baby does not produce the lion 
+the pencil produces the text 
+the pencil does not produce the text 
+the lion keeps the text 
+the lion does not keep the text 
+the lion names the text 
+the lion does not name the text 
+the god gets the dog 
+the god does not get the dog 
+the lion gets the god 
+the lion does not get the god 
+the author knows the lion 
+the author does not know the lion 
+the god names the dog 
+the god does not name the dog 
+the pencil gets the dog 
+the pencil does not get the dog 
+the lion keeps the pencil 
+the lion does not keep the pencil 
+the god keeps the author 
+the god does not keep the author 
+the text produces the lion 
+the text does not produce the lion 
+the lion names the pencil 
+the lion does not name the pencil 
+the dog keeps the god 
+the dog does not keep the god 
+the text gets the baby 
+the text does not get the baby 
+the author names the text 
+the author does not name the text 
+the author gets the baby 
+the author does not get the baby 
+the lion knows the pencil 
+the lion does not know the pencil 
+the dog says the pencil 
+the dog does not say the pencil 
+the lion names the dog 
+the lion does not name the dog 
+the baby keeps the author 
+the baby does not keep the author 
+the lion produces the author 
+the lion does not produce the author 
+the pencil gets the author 
+the pencil does not get the author 
+the text knows the god 
+the text does not know the god 
+the text keeps the god 
+the text does not keep the god 
+the text knows the dog 
+the text does not know the dog 
+the god says the pencil 
+the god does not say the pencil 
+the lion names the god 
+the lion does not name the god 
+the author gets the lion 
+the author does not get the lion 
+the text says the dog 
+the text does not say the dog 
+the lion knows the text 
+the lion does not know the text 
+the baby names the lion 
+the baby does not name the lion 
+the author produces the god 
+the author does not produce the god 
+the god knows the baby 
+the god does not know the baby 
+the baby keeps the text 
+the baby does not keep the text 
+the lion says the dog 
+the lion does not say the dog 
+the pencil knows the lion 
+the pencil does not know the lion 
+the god gets the baby 
+the god does not get the baby 
+the pencil produces the god 
+the pencil does not produce the god 
+the baby says the dog 
+the baby does not say the dog 
+the pencil keeps the baby 
+the pencil does not keep the baby 
+the lion keeps the dog 
+the lion does not keep the dog 
+the dog says the baby 
+the dog does not say the baby 
+the baby knows the pencil 
+the baby does not know the pencil 
+the baby produces the god 
+the baby does not produce the god 
+the lion keeps the god 
+the lion does not keep the god 
+the baby gets the dog 
+the baby does not get the dog 
+the author keeps the god 
+the author does not keep the god 
+the author keeps the dog 
+the author does not keep the dog 
+the dog gets the author 
+the dog does not get the author 
+the author produces the pencil 
+the author does not produce the pencil 
+the god knows the dog 
+the god does not know the dog 
+the god gets the pencil 
+the god does not get the pencil 
+the author keeps the text 
+the author does not keep the text 
+the pencil knows the author 
+the pencil does not know the author 
+the dog names the text 
+the dog does not name the text 
+the text names the dog 
+the text does not name the dog 
+the lion produces the dog 
+the lion does not produce the dog 
+the pencil knows the baby 
+the pencil does not know the baby 
+the pencil names the text 
+the pencil does not name the text 
+the text gets the lion 
+the text does not get the lion 
+the dog knows the author 
+the dog does not know the author 
+the text produces the author 
+the text does not produce the author 
+the pencil says the baby 
+the pencil does not say the baby 
+the author gets the dog 
+the author does not get the dog 
+the god keeps the baby 
+the god does not keep the baby 
+the text says the lion 
+the text does not say the lion 
+the god gets the author 
+the god does not get the author 
+the god keeps the pencil 
+the god does not keep the pencil 
+the baby says the god 
+the baby does not say the god 
+the dog keeps the pencil 
+the dog does not keep the pencil 
+the god names the baby 
+the god does not name the baby 
+the author says the dog 
+the author does not say the dog 
+the dog keeps the lion 
+the dog does not keep the lion 
+the pencil produces the author 
+the pencil does not produce the author 
+the lion gets the pencil 
+the lion does not get the pencil 
+the text says the author 
+the text does not say the author 
+the pencil produces the dog 
+the pencil does not produce the dog 
+the baby names the god 
+the baby does not name the god 
+the dog names the pencil 
+the dog does not name the pencil 
+the dog names the author 
+the dog does not name the author 
+the text keeps the lion 
+the text does not keep the lion 
+the author produces the dog 
+the author does not produce the dog 
+the baby says the text 
+the baby does not say the text 
+the text names the pencil 
+the text does not name the pencil 
+the text names the baby 
+the text does not name the baby 
+the lion names the baby 
+the lion does not name the baby 
+the author knows the text 
+the author does not know the text 
+the lion produces the pencil 
+the lion does not produce the pencil 
+the lion says the author 
+the lion does not say the author 
+the text knows the pencil 
+the text does not know the pencil 
+the dog keeps the author 
+the dog does not keep the author 
+the pencil keeps the author 
+the pencil does not keep the author 
+the god produces the author 
+the god does not produce the author 
+the author gets the god 
+the author does not get the god 
+the dog says the author 
+the dog does not say the author 
+the text gets the god 
+the text does not get the god 
+the lion gets the author 
+the lion does not get the author 
+the lion says the baby 
+the lion does not say the baby 
+the pencil names the lion 
+the pencil does not name the lion 
+the text gets the dog 
+the text does not get the dog 
+the pencil keeps the text 
+the pencil does not keep the text 
+the author names the baby 
+the author does not name the baby 
+the dog gets the pencil 
+the dog does not get the pencil 
+the god keeps the lion 
+the god does not keep the lion 
+the pencil knows the god 
+the pencil does not know the god 
+the dog says the text 
+the dog does not say the text 
+the text keeps the author 
+the text does not keep the author 
+the author names the dog 
+the author does not name the dog 
+the dog gets the lion 
+the dog does not get the lion 
+the god produces the text 
+the god does not produce the text 
+the pencil names the baby 
+the pencil does not name the baby 
+the dog knows the text 
+the dog does not know the text 
+the pencil gets the text 
+the pencil does not get the text 
+the lion says the pencil 
+the lion does not say the pencil 
+the baby says the pencil 
+the baby does not say the pencil 
+the dog knows the baby 
+the dog does not know the baby 
+the god names the text 
+the god does not name the text 
+the author produces the lion 
+the author does not produce the lion 
+the author says the lion 
+the author does not say the lion 
+the author knows the god 
+the author does not know the god 
+the dog keeps the baby 
+the dog does not keep the baby 
+the pencil produces the lion 
+the pencil does not produce the lion 
+the dog knows the lion 
+the dog does not know the lion 
+the author says the baby 
+the author does not say the baby 
+the god knows the author 
+the god does not know the author 
+the lion names the author 
+the lion does not name the author 
+the author gets the text 
+the author does not get the text 
+the author names the pencil 
+the author does not name the pencil 
+the author says the text 
+the author does not say the text 
+the baby names the dog 
+the baby does not name the dog 
+the text keeps the dog 
+the text does not keep the dog 
+the lion produces the baby 
+the lion does not produce the baby 
+the text produces the god 
+the text does not produce the god 
+the baby produces the text 
+the baby does not produce the text 
+the author gets the pencil 
+the author does not get the pencil 
+the god says the text 
+the god does not say the text 
+the lion says the text 
+the lion does not say the text 
+the author names the god 
+the author does not name the god 
+the baby knows the author 
+the baby does not know the author 
+the baby gets the author 
+the baby does not get the author 
+the text says the god 
+the text does not say the god 
+the pencil names the god 
+the pencil does not name the god 
+the lion knows the author 
+the lion does not know the author 
+the baby gets the text 
+the baby does not get the text 
+the god produces the pencil 
+the god does not produce the pencil 
+the text knows the baby 
+the text does not know the baby 
+the lion gets the dog 
+the lion does not get the dog 
+the baby knows the dog 
+the baby does not know the dog 
+the lion knows the baby 
+the lion does not know the baby 
+the baby knows the lion 
+the baby does not know the lion 
+the baby says the lion 
+the baby does not say the lion 
+the god says the author 
+the god does not say the author 
+the lion gets the baby 
+the lion does not get the baby 
+the lion produces the text 
+the lion does not produce the text 
+the god knows the pencil 
+the god does not know the pencil 
+the baby gets the god 
+the baby does not get the god 
+the lion gets the text 
+the lion does not get the text 
+the pencil knows the text 
+the pencil does not know the text 
+the baby produces the pencil 
+the baby does not produce the pencil 
+the dog produces the pencil 
+the dog does not produce the pencil 
+the pencil keeps the lion 
+the pencil does not keep the lion 
+the pencil names the dog 
+the pencil does not name the dog 
+the lion says the god 
+the lion does not say the god 
+the pencil says the text 
+the pencil does not say the text 
+the god keeps the dog 
+the god does not keep the dog 
+the dog names the god 
+the dog does not name the god 
+the god says the dog 
+the god does not say the dog 
+the lion knows the god 
+the lion does not know the god 
+the dog knows the pencil 
+the dog does not know the pencil 
+the lion keeps the baby 
+the lion does not keep the baby 
+the text knows the lion 
+the text does not know the lion 
+the pencil names the author 
+the pencil does not name the author 
+the dog produces the god 
+the dog does not produce the god 
+the lion produces the god 
+the lion does not produce the god 
+the text names the god 
+the text does not name the god 
+the pencil says the author 
+the pencil does not say the author 
+the dog gets the text 
+the dog does not get the text 
+the baby names the pencil 
+the baby does not name the pencil 
+the dog says the god 
+the dog does not say the god 
+the pencil keeps the dog 
+the pencil does not keep the dog 
+the god knows the text 
+the god does not know the text 
+the baby produces the dog 
+the baby does not produce the dog 
+the text keeps the pencil 
+the text does not keep the pencil 
+the pencil says the lion 
+the pencil does not say the lion 
+the god produces the baby 
+the god does not produce the baby 
+the pencil knows the dog 
+the pencil does not know the dog 
+the god names the author 
+the god does not name the author 
+the author produces the baby 
+the author does not produce the baby 
+the god knows the lion 
+the god does not know the lion 
+the dog produces the lion 
+the dog does not produce the lion 
+the text produces the pencil 
+the text does not produce the pencil 

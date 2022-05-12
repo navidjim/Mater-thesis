@@ -1,0 +1,400 @@
+the bag spins the bee 
+the bag does not spin the bee 
+the bag kills the frog 
+the bag does not kill the frog 
+the stake sells the bag 
+the stake does not sell the bag 
+the frog kills the stake 
+the frog does not kill the stake 
+the stake leaves the bag 
+the stake does not leave the bag 
+the ark eats the bag 
+the ark does not eat the bag 
+the ark spins the stake 
+the ark does not spin the stake 
+the bag leaves the ark 
+the bag does not leave the ark 
+the bee eats the frog 
+the bee does not eat the frog 
+the stake sells the bee 
+the stake does not sell the bee 
+the ark leaves the bag 
+the ark does not leave the bag 
+the frog kills the pony 
+the frog does not kill the pony 
+the pony sells the frog 
+the pony does not sell the frog 
+the stake leaves the bottle 
+the stake does not leave the bottle 
+the ark sells the bag 
+the ark does not sell the bag 
+the bag leaves the frog 
+the bag does not leave the frog 
+the bee spins the frog 
+the bee does not spin the frog 
+the bag leaves the bee 
+the bag does not leave the bee 
+the bag sells the pony 
+the bag does not sell the pony 
+the frog leaves the bottle 
+the frog does not leave the bottle 
+the ark leaves the stake 
+the ark does not leave the stake 
+the bottle sells the ark 
+the bottle does not sell the ark 
+the stake tells the bag 
+the stake does not tell the bag 
+the bee sells the bottle 
+the bee does not sell the bottle 
+the pony tells the bee 
+the pony does not tell the bee 
+the bag tells the pony 
+the bag does not tell the pony 
+the bee kills the frog 
+the bee does not kill the frog 
+the ark tells the frog 
+the ark does not tell the frog 
+the stake tells the bee 
+the stake does not tell the bee 
+the bottle leaves the ark 
+the bottle does not leave the ark 
+the bag kills the ark 
+the bag does not kill the ark 
+the bee leaves the bottle 
+the bee does not leave the bottle 
+the ark eats the bee 
+the ark does not eat the bee 
+the ark leaves the pony 
+the ark does not leave the pony 
+the ark tells the bee 
+the ark does not tell the bee 
+the ark tells the bag 
+the ark does not tell the bag 
+the stake spins the pony 
+the stake does not spin the pony 
+the bottle tells the ark 
+the bottle does not tell the ark 
+the frog kills the bag 
+the frog does not kill the bag 
+the stake eats the frog 
+the stake does not eat the frog 
+the frog leaves the bag 
+the frog does not leave the bag 
+the frog tells the bag 
+the frog does not tell the bag 
+the pony tells the bag 
+the pony does not tell the bag 
+the stake leaves the frog 
+the stake does not leave the frog 
+the stake leaves the ark 
+the stake does not leave the ark 
+the bee sells the frog 
+the bee does not sell the frog 
+the stake tells the pony 
+the stake does not tell the pony 
+the bottle leaves the frog 
+the bottle does not leave the frog 
+the ark leaves the frog 
+the ark does not leave the frog 
+the frog sells the pony 
+the frog does not sell the pony 
+the bottle eats the stake 
+the bottle does not eat the stake 
+the pony spins the stake 
+the pony does not spin the stake 
+the bee spins the pony 
+the bee does not spin the pony 
+the bag spins the bottle 
+the bag does not spin the bottle 
+the bee kills the stake 
+the bee does not kill the stake 
+the bag tells the frog 
+the bag does not tell the frog 
+the pony sells the bottle 
+the pony does not sell the bottle 
+the pony sells the bee 
+the pony does not sell the bee 
+the bag spins the ark 
+the bag does not spin the ark 
+the pony leaves the bag 
+the pony does not leave the bag 
+the bee tells the pony 
+the bee does not tell the pony 
+the stake kills the frog 
+the stake does not kill the frog 
+the bee kills the ark 
+the bee does not kill the ark 
+the stake leaves the bee 
+the stake does not leave the bee 
+the bottle spins the frog 
+the bottle does not spin the frog 
+the bag kills the stake 
+the bag does not kill the stake 
+the bag sells the bee 
+the bag does not sell the bee 
+the bag spins the frog 
+the bag does not spin the frog 
+the bee tells the stake 
+the bee does not tell the stake 
+the ark kills the frog 
+the ark does not kill the frog 
+the pony eats the ark 
+the pony does not eat the ark 
+the bag sells the ark 
+the bag does not sell the ark 
+the stake kills the bottle 
+the stake does not kill the bottle 
+the pony leaves the bottle 
+the pony does not leave the bottle 
+the pony leaves the ark 
+the pony does not leave the ark 
+the frog spins the pony 
+the frog does not spin the pony 
+the stake sells the ark 
+the stake does not sell the ark 
+the pony kills the stake 
+the pony does not kill the stake 
+the pony kills the ark 
+the pony does not kill the ark 
+the bee spins the ark 
+the bee does not spin the ark 
+the bee leaves the stake 
+the bee does not leave the stake 
+the bag eats the bee 
+the bag does not eat the bee 
+the bee sells the pony 
+the bee does not sell the pony 
+the bee spins the stake 
+the bee does not spin the stake 
+the frog kills the bottle 
+the frog does not kill the bottle 
+the stake tells the ark 
+the stake does not tell the ark 
+the frog spins the bee 
+the frog does not spin the bee 
+the ark spins the bottle 
+the ark does not spin the bottle 
+the bottle kills the bag 
+the bottle does not kill the bag 
+the bottle eats the pony 
+the bottle does not eat the pony 
+the stake eats the bee 
+the stake does not eat the bee 
+the bag sells the stake 
+the bag does not sell the stake 
+the stake sells the pony 
+the stake does not sell the pony 
+the bottle kills the ark 
+the bottle does not kill the ark 
+the pony kills the frog 
+the pony does not kill the frog 
+the bag eats the frog 
+the bag does not eat the frog 
+the bee eats the bag 
+the bee does not eat the bag 
+the bottle sells the bee 
+the bottle does not sell the bee 
+the bee sells the bag 
+the bee does not sell the bag 
+the bag leaves the bottle 
+the bag does not leave the bottle 
+the bottle tells the stake 
+the bottle does not tell the stake 
+the pony eats the bottle 
+the pony does not eat the bottle 
+the stake sells the frog 
+the stake does not sell the frog 
+the pony tells the stake 
+the pony does not tell the stake 
+the pony spins the bottle 
+the pony does not spin the bottle 
+the pony leaves the stake 
+the pony does not leave the stake 
+the frog spins the stake 
+the frog does not spin the stake 
+the frog sells the bee 
+the frog does not sell the bee 
+the stake spins the frog 
+the stake does not spin the frog 
+the bottle kills the frog 
+the bottle does not kill the frog 
+the bee sells the ark 
+the bee does not sell the ark 
+the pony eats the frog 
+the pony does not eat the frog 
+the bag leaves the stake 
+the bag does not leave the stake 
+the bag leaves the pony 
+the bag does not leave the pony 
+the frog spins the ark 
+the frog does not spin the ark 
+the pony spins the bag 
+the pony does not spin the bag 
+the ark kills the stake 
+the ark does not kill the stake 
+the stake tells the bottle 
+the stake does not tell the bottle 
+the ark sells the frog 
+the ark does not sell the frog 
+the pony sells the bag 
+the pony does not sell the bag 
+the pony sells the ark 
+the pony does not sell the ark 
+the ark eats the bottle 
+the ark does not eat the bottle 
+the stake tells the frog 
+the stake does not tell the frog 
+the bag kills the pony 
+the bag does not kill the pony 
+the bottle spins the pony 
+the bottle does not spin the pony 
+the bottle tells the frog 
+the bottle does not tell the frog 
+the bottle kills the pony 
+the bottle does not kill the pony 
+the pony leaves the bee 
+the pony does not leave the bee 
+the ark eats the frog 
+the ark does not eat the frog 
+the bee leaves the pony 
+the bee does not leave the pony 
+the bee leaves the ark 
+the bee does not leave the ark 
+the bottle spins the stake 
+the bottle does not spin the stake 
+the bag kills the bee 
+the bag does not kill the bee 
+the pony spins the ark 
+the pony does not spin the ark 
+the frog eats the pony 
+the frog does not eat the pony 
+the bottle tells the pony 
+the bottle does not tell the pony 
+the ark spins the bag 
+the ark does not spin the bag 
+the frog tells the bee 
+the frog does not tell the bee 
+the stake eats the bag 
+the stake does not eat the bag 
+the stake eats the pony 
+the stake does not eat the pony 
+the bottle eats the frog 
+the bottle does not eat the frog 
+the ark tells the pony 
+the ark does not tell the pony 
+the bag spins the stake 
+the bag does not spin the stake 
+the pony eats the stake 
+the pony does not eat the stake 
+the bee spins the bottle 
+the bee does not spin the bottle 
+the bottle eats the ark 
+the bottle does not eat the ark 
+the pony kills the bottle 
+the pony does not kill the bottle 
+the frog kills the ark 
+the frog does not kill the ark 
+the ark tells the stake 
+the ark does not tell the stake 
+the pony sells the stake 
+the pony does not sell the stake 
+the bag tells the ark 
+the bag does not tell the ark 
+the bottle sells the stake 
+the bottle does not sell the stake 
+the frog kills the bee 
+the frog does not kill the bee 
+the bee tells the ark 
+the bee does not tell the ark 
+the ark spins the pony 
+the ark does not spin the pony 
+the stake kills the bag 
+the stake does not kill the bag 
+the pony eats the bag 
+the pony does not eat the bag 
+the bee tells the bag 
+the bee does not tell the bag 
+the frog leaves the bee 
+the frog does not leave the bee 
+the bee kills the bottle 
+the bee does not kill the bottle 
+the ark kills the bottle 
+the ark does not kill the bottle 
+the bee tells the frog 
+the bee does not tell the frog 
+the bag sells the frog 
+the bag does not sell the frog 
+the frog spins the bag 
+the frog does not spin the bag 
+the bottle sells the frog 
+the bottle does not sell the frog 
+the frog tells the pony 
+the frog does not tell the pony 
+the ark eats the stake 
+the ark does not eat the stake 
+the stake kills the ark 
+the stake does not kill the ark 
+the pony kills the bag 
+the pony does not kill the bag 
+the pony leaves the frog 
+the pony does not leave the frog 
+the pony tells the bottle 
+the pony does not tell the bottle 
+the stake sells the bottle 
+the stake does not sell the bottle 
+the bee leaves the bag 
+the bee does not leave the bag 
+the stake eats the bottle 
+the stake does not eat the bottle 
+the frog leaves the pony 
+the frog does not leave the pony 
+the frog eats the bag 
+the frog does not eat the bag 
+the bottle leaves the bee 
+the bottle does not leave the bee 
+the bottle leaves the stake 
+the bottle does not leave the stake 
+the frog sells the ark 
+the frog does not sell the ark 
+the bee eats the stake 
+the bee does not eat the stake 
+the bottle tells the bee 
+the bottle does not tell the bee 
+the bottle eats the bag 
+the bottle does not eat the bag 
+the ark kills the bag 
+the ark does not kill the bag 
+the bottle leaves the bag 
+the bottle does not leave the bag 
+the frog eats the bottle 
+the frog does not eat the bottle 
+the frog sells the bottle 
+the frog does not sell the bottle 
+the bag eats the stake 
+the bag does not eat the stake 
+the bag tells the bottle 
+the bag does not tell the bottle 
+the ark spins the bee 
+the ark does not spin the bee 
+the bottle sells the pony 
+the bottle does not sell the pony 
+the bag eats the ark 
+the bag does not eat the ark 
+the bottle tells the bag 
+the bottle does not tell the bag 
+the ark kills the bee 
+the ark does not kill the bee 
+the ark sells the stake 
+the ark does not sell the stake 
+the stake spins the bottle 
+the stake does not spin the bottle 
+the bottle sells the bag 
+the bottle does not sell the bag 
+the pony spins the frog 
+the pony does not spin the frog 
+the frog eats the stake 
+the frog does not eat the stake 
+the bee spins the bag 
+the bee does not spin the bag 
+the bee eats the pony 
+the bee does not eat the pony 
